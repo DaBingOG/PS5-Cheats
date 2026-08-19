@@ -1,2 +1,2 @@
-# PS5-Cheats-Collect
+# PS5-Cheats
 World Peace
