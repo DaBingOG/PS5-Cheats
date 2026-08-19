@@ -1,0 +1,84 @@
+?<?xml version="1.0" encoding="utf-8"?><Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Forspoken" Moder="Wander" Cusa="PPSA03985" Version="01.020.000" Process="eboot.bin">
+    <Genres Name="Action" />
+    <Items />
+    <Cheat Text="无限生命 | Infinite Health">
+        <Cheatline>
+            <PS5Offset>6A0-executable[0]-5</PS5Offset>
+            <Section>0</Section>
+            <Offset>617B960</Offset>
+            <ValueOn>80-7A-5C-32-75-0C-C7-42-40-20-03-00-00-E9-9E-86-58-FB-89-4A-40-83-BF-50-01-00-00-00-E9-8F-86-58-FB</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+        <Cheatline>
+            <PS5Offset>4A77FFA-executable[0]-5</PS5Offset>
+            <Section>0</Section>
+            <Offset>1704006</Offset>
+            <ValueOn>E9-55-79-A7-04-90-90-90-90-90</ValueOn>
+            <ValueOff>89-4A-40-83-BF-50-01-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="无限耐力 | Infinite Stamina">
+        <Cheatline>
+            <PS5Offset>950-executable[0]-5</PS5Offset>
+            <Section>0</Section>
+            <Offset>617B6B0</Offset>
+            <ValueOn>C7-40-54-20-03-00-00-44-39-FB-E9-66-BC-58-FB</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+        <Cheatline>
+            <PS5Offset>4A74CE1-executable[0]-5</PS5Offset>
+            <Section>0</Section>
+            <Offset>170731F</Offset>
+            <ValueOn>E9-8C-43-A7-04-90</ValueOn>
+            <ValueOff>89-50-54-44-39-FB</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="最大资源/药剂 | Max Resources/Potions" Description="获取后生效 | After Gain">
+        <Cheatline>
+            <PS5Offset>5D0-executable[0]-5</PS5Offset>
+            <Section>0</Section>
+            <Offset>617BA30</Offset>
+            <ValueOn>43-C7-44-F3-04-E7-03-00-00-E9-6F-0C-58-FE</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+        <Cheatline>
+            <PS5Offset>1A7F958-executable[0]-5</PS5Offset>
+            <Section>0</Section>
+            <Offset>46FC6A8</Offset>
+            <ValueOn>E9-83-F3-A7-01</ValueOn>
+            <ValueOff>47-89-7C-F3-04</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="最高等级 | Max Level" Description="击败2个敌人后生效 | After defeating 2 enemies">
+        <Cheatline>
+            <PS5Offset>B50-executable[0]-5</PS5Offset>
+            <Section>0</Section>
+            <Offset>617B4B0</Offset>
+            <ValueOn>C7-44-07-4C-FF-E0-F5-05-E9-E8-F6-58-FE</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+        <Cheatline>
+            <PS5Offset>1A71460-executable[0]-5</PS5Offset>
+            <Section>0</Section>
+            <Offset>470ABA0</Offset>
+            <ValueOn>E9-0B-09-A7-01</ValueOn>
+            <ValueOff>44-89-6C-07-4C</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="魔法积分9999 | 9999 Magic Points" Description="收集后生效 | after Collecting them">
+        <Cheatline>
+            <PS5Offset>CB0-executable[0]-5</PS5Offset>
+            <Section>0</Section>
+            <Offset>617B350</Offset>
+            <ValueOn>C7-47-3C-0F-27-00-00-85-D2-E9-CF-36-5C-FE-57-61-6E-64-65-72-20-64-6F-20-6E-6F-74-20-62-65-20-61-20-74-68-69-65-66</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+        <Cheatline>
+            <PS5Offset>1A3D5D8-executable[0]-5</PS5Offset>
+            <Section>0</Section>
+            <Offset>473EA28</Offset>
+            <ValueOn>E9-23-C9-A3-01</ValueOn>
+            <ValueOff>89-5F-3C-85-D2</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>

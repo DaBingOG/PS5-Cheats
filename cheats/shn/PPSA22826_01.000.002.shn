@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Tales of Berseria Remastered" Moder="Talixme" Cusa="PPSA22826" Version="01.000.002" Process="eboot.bin">
+  <Items/>
+  <Cheat Text="无限生命 | Inf Hp">
+    <Cheatline>
+      <Offset>81A2B25E</Offset>
+      <Section>0</Section>
+      <ValueOn>C4-E2-70-F2-CE-80-78-04-01-0F-84-51-91-4C-FF-89-48-0C-E9-49-91-4C-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>80EF43B6</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-A3-6E-B3-00-90-90-90</ValueOn>
+      <ValueOff>C4-E2-70-F2-CE-89-48-0C</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="无限魔法 | Inf Mp">
+    <Cheatline>
+      <Offset>81A2B295</Offset>
+      <Section>0</Section>
+      <ValueOn>C5-FA-11-50-10-E9-CE-91-4C-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>80EF4468</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-28-6E-B3-00</ValueOn>
+      <ValueOff>C5-FA-11-40-10</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="无限金币 | Inf Money">
+    <Cheatline>
+      <Offset>81A2B2BF</Offset>
+      <Section>0</Section>
+      <ValueOn>44-2B-30-89-08-E9-38-AD-4B-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>80EE5FFC</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-BE-52-B4-00</ValueOn>
+      <ValueOff>44-2B-30-89-08</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="无限道具 | Inf Items">
+    <Cheatline>
+      <Offset>81A2B2E9</Offset>
+      <Section>0</Section>
+      <ValueOn>B8-63-00-00-00-41-BF-63-00-00-00-46-89-3C-A9-E9-27-F2-4A-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>80EDA51C</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-C8-0D-B5-00-90-90-90</ValueOn>
+      <ValueOff>42-8B-04-A9-46-89-3C-A9</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="无限经验 | Inf Exp">
+    <Cheatline>
+      <Offset>81A2B31D</Offset>
+      <Section>0</Section>
+      <ValueOn>41-89-0E-41-BF-FF-C9-9A-3B-44-89-78-1C-E9-1D-9A-4C-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>80EF4D45</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-D3-65-B3-00-90-90</ValueOn>
+      <ValueOff>41-89-0E-44-89-78-1C</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

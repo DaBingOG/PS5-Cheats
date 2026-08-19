@@ -1,0 +1,67 @@
+?<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Another Crabs Treasure" Moder="Yharnam" Cusa="PPSA20423" Version="02.000.000" Process="eboot.bin">
+    <Genres Name="Action" />
+    <Items />
+    <Cheat Text="无懈可击 | Untouchable">
+        <Cheatline>
+            <Section>0</Section>
+            <Offset>7FFE2BD0</Offset>
+            <ValueOn>C3</ValueOn>
+            <ValueOff>55</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="一击必杀 | 1 Hit Kill">
+        <Cheatline>
+            <Section>0</Section>
+            <Offset>803A1073</Offset>
+            <ValueOn>C5-FA-5C-C8-90</ValueOn>
+            <ValueOff>C5-FA-5C-4D-E4</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="无限生命 | Infi Health">
+        <Cheatline>
+            <Section>0</Section>
+            <Offset>7FFE6531</Offset>
+            <ValueOn>90-90-90-90-90-90</ValueOn>
+            <ValueOff>FF-90-38-02-00-00</ValueOff>
+        </Cheatline>
+        <Cheatline>
+            <Section>0</Section>
+            <Offset>7FFE2F3C</Offset>
+            <ValueOn>90-90-90-90-90</ValueOn>
+            <ValueOff>E8-FF-10-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="无限充能技能 | Infi Charge Skill">
+        <Cheatline>
+            <Section>0</Section>
+            <Offset>7FFC6226</Offset>
+            <ValueOn>0F-28-C2-90</ValueOn>
+            <ValueOff>C5-EA-5C-C0</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="无限治疗药水 | Infi Healing Potions">
+        <Cheatline>
+            <Section>0</Section>
+            <Offset>7FFCB513</Offset>
+            <ValueOn>90-90</ValueOn>
+            <ValueOff>FF-CF</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="最大金币 | Max Money">
+        <Cheatline>
+            <Section>0</Section>
+            <Offset>801FC686</Offset>
+            <ValueOn>C7-43-14-3F-42-0F-00-90-90-90-90-90-90-90-90-90-90-90-90</ValueOn>
+            <ValueOff>44-01-63-14-45-85-E4-0F-84-43-02-00-00-0F-8E-B6-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="最大宝石 | Max Gems">
+        <Cheatline>
+            <Section>0</Section>
+            <Offset>801FC77E</Offset>
+            <ValueOn>C7-43-10-E7-03-00-00-90-90-90-90-90-90-90-90-90-90-90-90</ValueOn>
+            <ValueOff>44-01-63-10-45-85-E4-0F-84-4B-01-00-00-0F-8E-11-01-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>

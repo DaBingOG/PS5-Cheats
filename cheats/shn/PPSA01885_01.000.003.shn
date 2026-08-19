@@ -1,0 +1,18 @@
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="UP4293-PPSA01886_00-000EVERGATEPS5US" Moder="Talixme" Cusa="PPSA01885" Version="01.000.003" Process="eboot.bin">
+    <Cheat Text="无限跳跃 | Inf Jumps" Description="">
+        <Cheatline>
+            <Offset>7FF36569</Offset>
+            <Section>0</Section>
+            <ValueOn>90-90-90-90</ValueOn>
+            <ValueOff>41-FF-4E-1C</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="无限时间 | Inf Time" Description="">
+        <Cheatline>
+            <Offset>7FDCC902</Offset>
+            <Section>0</Section>
+            <ValueOn>90-90-90-90-90-90-90-90</ValueOn>
+            <ValueOff>C5-FA-11-83-BC-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>

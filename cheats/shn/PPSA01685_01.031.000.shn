@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="UP4363-PPSA01685_00-SNIPERELITE50000" Moder="Talixme" Cusa="PPSA01685" Version="01.031.000" Process="eboot.bin">
+  <Items/>
+  <Cheat Text="经验翻倍 | Easy Exp">
+    <Cheatline>
+      <Offset>E53000</Offset>
+      <Section>0</Section>
+      <ValueOn>49-8B-46-08-49-01-44-24-08-E9-8A-BA-23-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>8EA8F</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-6C-45-DC-00-90-90-90-90</ValueOn>
+      <ValueOff>49-8B-46-08-49-89-44-24-08</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="无限心率范围 | Inf Heart Rate Sight">
+    <Cheatline>
+      <Offset>1689CD</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90</ValueOn>
+      <ValueOff>C4-C1-7A-11-47-10</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="无限平衡心率 | Inf Heart Rate">
+    <Cheatline>
+      <Offset>169648</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90</ValueOn>
+      <ValueOff>C4-C1-7A-11-4F-10</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="无限生命 | Inf HP">
+    <Cheatline>
+      <Offset>E5302E</Offset>
+      <Section>0</Section>
+      <ValueOn>83-7B-08-00-0F-84-C1-4A-6E-FF-C5-FA-11-4B-60-E9-B7-4A-6E-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>537AF4</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-35-B5-91-00</ValueOn>
+      <ValueOff>C5-FA-11-4B-60</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="无需换弹 | No Reload">
+    <Cheatline>
+      <Offset>362215</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90</ValueOn>
+      <ValueOff>89-79-40</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

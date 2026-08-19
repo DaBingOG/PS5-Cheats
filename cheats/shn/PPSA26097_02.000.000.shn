@@ -1,0 +1,50 @@
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="EP1053-PPSA26097_00-0454227768983271" Moder="Talixme" Cusa="PPSA26097" Version="02.000.000" Process="eboot.bin">
+    <Cheat Text="无限生命 | Inf Hp">
+        <Cheatline>
+            <Offset>7FD17000</Offset>
+            <Section>0</Section>
+            <ValueOn>8B-43-34-89-43-30-39-C8-E9-02-B9-78-00</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+        <Cheatline>
+            <Offset>804A290A</Offset>
+            <Section>0</Section>
+            <ValueOn>E9-F1-46-87-FF</ValueOn>
+            <ValueOff>89-43-30-39-C8</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="无限声纳 | Inf Sonar">
+        <Cheatline>
+            <Offset>80319397</Offset>
+            <Section>0</Section>
+            <ValueOn>90-90-90-90-90-90</ValueOn>
+            <ValueOff>C4-C1-7A-11-47-50</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="无限金币 | Inf Coins" Description="">
+        <Cheatline>
+            <Offset>7FD1702D</Offset>
+            <Section>0</Section>
+            <ValueOn>BB-3F-42-0F-00-41-89-5E-34-31-FF-E9-B4-E8-8F-00</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+        <Cheatline>
+            <Offset>7FD1705D</Offset>
+            <Section>0</Section>
+            <ValueOn>C7-40-34-3F-42-0F-00-B0-01-E9-3F-EA-8F-00</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+        <Cheatline>
+            <Offset>806158EB</Offset>
+            <Section>0</Section>
+            <ValueOn>E9-3D-17-70-FF-90</ValueOn>
+            <ValueOff>41-01-5E-34-31-FF</ValueOff>
+        </Cheatline>
+        <Cheatline>
+            <Offset>80615AA5</Offset>
+            <Section>0</Section>
+            <ValueOn>E9-B3-15-70-FF</ValueOn>
+            <ValueOff>89-48-34-B0-01</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>

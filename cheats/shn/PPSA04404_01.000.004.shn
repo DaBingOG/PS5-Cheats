@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="RESIDENT EVIL 7 biohazard Gold Edition" Moder="pj123rock" Cusa="PPSA04404" Version="01.000.004" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Items />
+   <Cheat Text="无限生命+一击杀先开码">
+    <Cheatline>
+      <Offset>5B7F500</Offset>
+      <Section>0</Section>
+      <ValueOn>49-83-F8-02-EB-07-31-C0-E9-CC-AA-13-FB-49-83-FB-64-EB-0E-C5-F8-57-C0-C5-FA-11-46-14-E9-B3-AA-13-FB-C5-FA-10-46-14-E9-9D-AA-13-FB</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>CB9FC3</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-38-55-EC-04</ValueOn>
+      <ValueOff>C5-FA-10-46-14</ValueOff>
+    </Cheatline>
+  </Cheat>
+   <Cheat Text="无限生命">
+    <Cheatline>
+      <Offset>5B7F504</Offset>
+      <Section>0</Section>
+      <ValueOn>7D-07</ValueOn>
+      <ValueOff>EB-07</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="一击杀">
+    <Cheatline>
+      <Offset>5B7F511</Offset>
+      <Section>0</Section>
+      <ValueOn>7E-0E</ValueOn>
+      <ValueOff>EB-0E</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="子弹不减">
+    <Cheatline>
+      <Offset>176BD96</Offset>
+      <Section>0</Section>
+      <ValueOn>8D-0A-90</ValueOn>
+      <ValueOff>8D-4A-FF</ValueOff>
+    </Cheatline>
+  </Cheat>
+ <Cheat Text="无限古钱币/开锁器/兴奋剂等物品">
+    <Cheatline>
+      <Offset>5B7F950</Offset>
+      <Section>0</Section>
+      <ValueOn>BB-63-00-00-00-41-89-9E-88-00-00-00-E9-1E-15-A7-FB</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>15F0E78</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-D3-EA-58-04-90-90</ValueOn>
+      <ValueOff>41-89-9E-88-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>15F0E75</Offset>
+      <Section>0</Section>
+      <ValueOn>44-29-C3</ValueOn>
+      <ValueOff>44-29-E3</ValueOff>
+    </Cheatline>
+  </Cheat>
+ <Cheat Text="DLC1最大废料">
+    <Cheatline>
+      <Offset>5B7F800</Offset>
+      <Section>0</Section>
+      <ValueOn>44-2B-7B-6C-41-BD-9F-86-01-00-44-89-6B-6C-E9-03-C2-01-FC</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>1B9BA0E</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-ED-3D-FE-03-90-90-90</ValueOn>
+      <ValueOff>44-2B-7B-6C-44-89-6B-6C</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

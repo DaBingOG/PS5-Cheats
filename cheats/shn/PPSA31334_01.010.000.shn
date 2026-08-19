@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Yakuza Kiwami" Moder="danboy" Cusa="PPSA31334" Version="01.010.000" Process="eboot.bin">
+  <Genres Name="Action"/>
+  <Items/>
+
+  <Cheat Text="2倍经验值（不同倍率不可同时开启！） | 2x EXP">
+    <Cheatline>      
+      <Section>0</Section>
+      <Offset>E8F800</Offset> 
+      <ValueOn>4D-89-F3-4D-6B-DB-02-48-8B-4C-C3-48-4C-01-D9-48-89-4C-C3-48-48-89-8C-C3-00-02-00-00-4D-31-F6-E9-6B-27-9C-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline> 
+    <Cheatline>      
+      <Section>0</Section>
+      <Offset>851F8A</Offset>
+      <ValueOn>E9-71-D8-63-00</ValueOn>
+      <ValueOff>48-89-4C-C3-48</ValueOff>
+    </Cheatline> 
+  </Cheat>  
+
+  <Cheat Text="4倍经验值（不同倍率不可同时开启！） | 4x EXP">
+    <Cheatline>      
+      <Section>0</Section>
+      <Offset>E8F800</Offset> 
+      <ValueOn>4D-89-F3-4D-6B-DB-04-48-8B-4C-C3-48-4C-01-D9-48-89-4C-C3-48-48-89-8C-C3-00-02-00-00-4D-31-F6-E9-6B-27-9C-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline> 
+    <Cheatline>      
+      <Section>0</Section>
+      <Offset>851F8A</Offset>
+      <ValueOn>E9-71-D8-63-00</ValueOn>
+      <ValueOff>48-89-4C-C3-48</ValueOff>
+    </Cheatline> 
+  </Cheat>  
+
+  <Cheat Text="8倍经验值（不同倍率不可同时开启！） | 8x EXP">
+    <Cheatline>      
+      <Section>0</Section>
+      <Offset>E8F800</Offset> 
+      <ValueOn>4D-89-F3-4D-6B-DB-08-48-8B-4C-C3-48-4C-01-D9-48-89-4C-C3-48-48-89-8C-C3-00-02-00-00-4D-31-F6-E9-6B-27-9C-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline> 
+    <Cheatline>      
+      <Section>0</Section>
+      <Offset>851F8A</Offset>
+      <ValueOn>E9-71-D8-63-00</ValueOn>
+      <ValueOff>48-89-4C-C3-48</ValueOff>
+    </Cheatline> 
+  </Cheat>  
+
+  <Cheat Text="10倍经验值（不同倍率不可同时开启！） | 10x EXP">
+    <Cheatline>      
+      <Section>0</Section>
+      <Offset>E8F800</Offset> 
+      <ValueOn>4D-89-F3-4D-6B-DB-0A-48-8B-4C-C3-48-4C-01-D9-48-89-4C-C3-48-48-89-8C-C3-00-02-00-00-4D-31-F6-E9-6B-27-9C-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline> 
+    <Cheatline>      
+      <Section>0</Section>
+      <Offset>851F8A</Offset>
+      <ValueOn>E9-71-D8-63-00</ValueOn>
+      <ValueOff>48-89-4C-C3-48</ValueOff>
+    </Cheatline> 
+  </Cheat>  
+
+  <Cheat Text="50倍经验值（不同倍率不可同时开启！） | 50x EXP">
+    <Cheatline>      
+      <Section>0</Section>
+      <Offset>E8F800</Offset> 
+      <ValueOn>4D-89-F3-4D-6B-DB-32-48-8B-4C-C3-48-4C-01-D9-48-89-4C-C3-48-48-89-8C-C3-00-02-00-00-4D-31-F6-E9-6B-27-9C-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline> 
+    <Cheatline>      
+      <Section>0</Section>
+      <Offset>851F8A</Offset>
+      <ValueOn>E9-71-D8-63-00</ValueOn>
+      <ValueOff>48-89-4C-C3-48</ValueOff>
+    </Cheatline> 
+  </Cheat>  
+
+  <Cheat Text="无限生命 | Inf. HP">
+    <Cheatline>      
+      <Section>0</Section>
+      <Offset>E8F950</Offset> 
+      <ValueOn>83-78-1C-00-74-04-66-8B-48-18-66-89-48-16-C3</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline> 
+    <Cheatline>      
+      <Section>0</Section>
+      <Offset>2E5F2E</Offset>
+      <ValueOn>E9-1D-9A-BA-00</ValueOn>
+      <ValueOff>66-89-48-16-C3</ValueOff>
+    </Cheatline> 
+  </Cheat>
+
+  <Cheat Text="无限热血 | Inf. Heat">
+    <Cheatline>      
+      <Section>0</Section>
+      <Offset>E8F900</Offset> 
+      <ValueOn>C7-40-1C-00-40-9C-46-E9-0A-6E-40-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline> 
+    <Cheatline>      
+      <Section>0</Section>
+      <Offset>296711</Offset>
+      <ValueOn>E9-EA-91-BF-00</ValueOn>
+      <ValueOff>C5-FA-11-40-1C</ValueOff>
+    </Cheatline> 
+  </Cheat>
+
+  <Cheat Text="一击必杀 | One Hit Kill">
+    <Cheatline>      
+      <Section>0</Section>
+      <Offset>E8F850</Offset> 
+      <ValueOn>83-78-1C-00-75-04-31-C9-EB-02-29-F1-41-01-D0-E9-AF-66-45-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline> 
+    <Cheatline>      
+      <Section>0</Section>
+      <Offset>2E5F0E</Offset>
+      <ValueOn>E9-3D-99-BA-00</ValueOn>
+      <ValueOff>29-F1-41-01-D0</ValueOff>
+    </Cheatline> 
+  </Cheat>
+
+  <Cheat Text="无限金币（与斗技场点数、CP不可同时开启） | Inf. Money">
+    <Cheatline>      
+      <Section>0</Section>
+      <Offset>E8FA00</Offset> 
+      <ValueOn>48-83-F9-00-75-05-BE-00-E1-F5-05-49-89-B4-CF-A8-C8-00-00-E9-6C-63-9C-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline> 
+    <Cheatline>      
+      <Section>0</Section>
+      <Offset>855D7C</Offset>
+      <ValueOn>E9-7F-9C-63-00-90-90-90</ValueOn>
+      <ValueOff>49-89-B4-CF-A8-C8-00-00</ValueOff>
+    </Cheatline> 
+  </Cheat>
+
+  <Cheat Text="无限斗技场点数/锁定100W（与金币、CP不可同时开启） | Inf. ColiseumPoints">
+    <Cheatline>      
+      <Section>0</Section>
+      <Offset>E8F8A0</Offset> 
+      <ValueOn>BE-40-42-0F-00-49-89-B4-CF-A8-C8-00-00-E9-D2-64-9C-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline> 
+    <Cheatline>      
+      <Section>0</Section>
+      <Offset>855D7C</Offset>
+      <ValueOn>E9-1F-9B-63-00-90-90-90</ValueOn>
+      <ValueOff>49-89-B4-CF-A8-C8-00-00</ValueOff>
+    </Cheatline> 
+  </Cheat>
+
+  <Cheat Text="无限CP成就点数（与金币、斗技场点数不可同时开启） | Inf. CompletionPoints">
+    <Cheatline>      
+      <Section>0</Section>
+      <Offset>E8FA50</Offset> 
+      <ValueOn>48-83-F9-12-75-05-BE-0F-27-00-00-49-89-B4-CF-A8-C8-00-00-E9-1C-63-9C-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline> 
+    <Cheatline>      
+      <Section>0</Section>
+      <Offset>855D7C</Offset>
+      <ValueOn>E9-CF-9C-63-00-90-90-90</ValueOn>
+      <ValueOff>49-89-B4-CF-A8-C8-00-00</ValueOff>
+    </Cheatline> 
+  </Cheat>
+
+</Trainer>

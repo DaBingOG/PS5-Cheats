@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://w3.org" xmlns:xsi="http://w3.org-instance" Game="Deathloop" Moder="Aigars Uze" Cusa="PPSA01670" Version="01.405.000" Process="eboot.bin">
+  <Cheat Text="无限弹药 - Infinite Ammo">
+    <Cheatline>
+      <Offset>1A7BE47</Offset>
+      <Section>0</Section>
+      <ValueOn>0F-4F-C8</ValueOn>
+      <ValueOff>0F-4E-C8</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="无敌模式 - God Mode">
+    <Cheatline>
+      <Offset>1C30D8A</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90</ValueOn>
+      <ValueOff>E8-21-C3-FF-FF</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>1C2C1FD</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-56-7C-E3-00-90</ValueOn>
+      <ValueOff>FF-90-A0-01-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>2A63E58</Offset>
+      <Section>0</Section>
+      <ValueOn>49-81-F8-01-0A-00-00-74-1D-49-83-F8-01-74-17-49-83-F9-6F-74-11-49-83-F9-6E-74-0B-FF-90-A0-01-00-00-E9-85-83-1C-FF-E9-80-83-1C-FF-90</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="无限手雷 - Infinite Grenades">
+    <Cheatline>
+      <Offset>1A0C350</Offset>
+      <Section>0</Section>
+      <ValueOn>45-89-38</ValueOn>
+      <ValueOff>45-89-30</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="消耗回溯次数增加（额外复活次数） - Add On Spend Reprise (Extra Lives)">
+    <Cheatline>
+      <Offset>1F8D87D</Offset>
+      <Section>0</Section>
+      <ValueOn>FF-80-C8-04-00-00</ValueOn>
+      <ValueOff>FF-88-C8-04-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

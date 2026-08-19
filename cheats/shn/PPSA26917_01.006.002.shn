@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Mandragora: Whispers of the Witch Tree" Moder="Talixme" Cusa="PPSA26917" Version="01.006.002" Process="eboot.bin">
+  <Items/>
+  <Cheat Text="无限生命 | Inf Hp">
+    <Cheatline>
+      <Offset>14EE4C4</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90</ValueOn>
+      <ValueOff>E8-57-7F-E5-FF</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="无限魔法 | Inf Mana">
+    <Cheatline>
+      <Offset>118C0B6</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>C4-C1-7A-11-86-F4-32-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="无限耐力 | Inf Stamina">
+    <Cheatline>
+      <Offset>11A187E</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>C5-FA-11-83-00-33-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="无限魔法物品 | Inf Mana Items">
+    <Cheatline>
+      <Offset>7FD17000</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-87-FC-04-00-00-63-00-00-00-E9-33-08-56-81</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>127783C</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-BF-F7-A9-7E-90</ValueOn>
+      <ValueOff>FF-8F-FC-04-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="无限经验（花费） | Inf Exp at spend">
+    <Cheatline>
+      <Offset>7FD1702F</Offset>
+      <Section>0</Section>
+      <ValueOn>B8-FF-C9-9A-3B-89-83-04-33-00-00-E9-8B-E8-48-81</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>11A58C4</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-66-17-B7-7E-90</ValueOn>
+      <ValueOff>89-83-04-33-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="无限技能点 | Inf Talent Points">
+    <Cheatline>
+      <Offset>7FD1705F</Offset>
+      <Section>0</Section>
+      <ValueOn>41-C7-45-30-E7-03-00-00-C7-43-78-00-00-00-00-E9-A2-BC-5B-81</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>12D2D0A</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-50-43-A4-7E-90-90-90-90-90-90</ValueOn>
+      <ValueOff>41-29-4D-30-C7-43-78-00-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="无限金币 | Inf Money">
+    <Cheatline>
+      <Offset>7FD17093</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-87-84-03-00-00-3F-42-0F-00-E9-A8-D1-8D-81</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>15F4244</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-4A-2E-72-7E-90</ValueOn>
+      <ValueOff>89-87-84-03-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="无限道具 | Inf Items">
+    <Cheatline>
+      <Offset>7FD170C2</Offset>
+      <Section>0</Section>
+      <ValueOn>41-C7-86-FC-04-00-00-63-00-00-00-E9-82-BF-46-81</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>118304D</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-70-40-B9-7E-90-90</ValueOn>
+      <ValueOff>41-89-B6-FC-04-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="无限道具合成 Inf Items Crafting">
+    <Cheatline>
+      <Offset>7FD170F2</Offset>
+      <Section>0</Section>
+      <ValueOn>41-C7-81-FC-04-00-00-63-00-00-00-E9-84-C2-8D-81</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>15F337F</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-6E-3D-72-7E-90-90</ValueOn>
+      <ValueOff>41-89-81-FC-04-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

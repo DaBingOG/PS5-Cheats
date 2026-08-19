@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Control" Moder="Talixme" Cusa="PPSA01949" Version="01.000.004" Process="eboot.bin">
+  <Items/>
+  <Cheat Text="主代码（必须开启）">
+    <Cheatline>
+      <Offset>19F3F00</Offset>
+      <Section>0</Section>
+      <ValueOn>00</ValueOn>
+      <ValueOff>00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>19F3F01</Offset>
+      <Section>0</Section>
+      <ValueOn>00</ValueOn>
+      <ValueOff>00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>12EB000</Offset>
+      <Section>0</Section>
+      <ValueOn>81-BB-C8-00-00-00-CD-CC-CC-3E-75-0F-80-3D-ED-8E-70-00-01-0F-84-CA-C0-13-FF-EB-18-80-3D-DF-8E-70-00-01-75-0F-C7-83-94-00-00-00-00-00-00-00-E9-B0-C0-13-FF-C5-FA-11-8B-94-00-00-00-E9-A3-C0-13-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>4270DB</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-20-3F-EC-00-90-90-90</ValueOn>
+      <ValueOff>C5-FA-11-8B-94-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="无限生命 | Inf_Hp">
+    <Cheatline>
+      <Offset>19F3F00</Offset>
+      <Section>0</Section>
+      <ValueOn>01</ValueOn>
+      <ValueOff>00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="一击必杀 | One_Hit_Kill">
+    <Cheatline>
+      <Offset>19F3F01</Offset>
+      <Section>0</Section>
+      <ValueOn>01</ValueOn>
+      <ValueOff>00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="无限弹药 | Inf Ammo">
+    <Cheatline>
+      <Offset>4EF8AE</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>C5-FA-11-83-98-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="无限耐力 | Inf Stamina">
+    <Cheatline>
+      <Offset>DCA54</Offset>
+      <Section>0</Section>
+      <ValueOn>C4-C1-7A-11-06</ValueOn>
+      <ValueOff>C4-C1-7A-11-0E</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="无限金钱 | Inf Money">
+    <Cheatline>
+      <Offset>12EB060</Offset>
+      <Section>0</Section>
+      <ValueOn>49-63-C7-48-C7-C0-3F-42-0F-00-49-89-45-30-E9-0A-E0-07-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>12EB093</Offset>
+      <Section>0</Section>
+      <ValueOn>48-C7-C0-3F-42-0F-00-48-89-47-30-31-FF-E9-23-BF-05-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>369076</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-E5-1F-F8-00-90-90</ValueOn>
+      <ValueOff>49-63-C7-49-01-45-30</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>346FC2</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-CC-40-FA-00-90</ValueOn>
+      <ValueOff>48-89-47-30-31-FF</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="无限物品/道具 | Inf Items">
+    <Cheatline>
+      <Offset>12EB0C5</Offset>
+      <Section>0</Section>
+      <ValueOn>41-C7-44-24-30-0F-27-00-00-E9-74-12-20-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>4EC342</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-7E-ED-DF-00</ValueOn>
+      <ValueOff>41-89-44-24-30</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="无限技能点 | Inf Hab Points">
+    <Cheatline>
+      <Offset>12EB0F3</Offset>
+      <Section>0</Section>
+      <ValueOn>BE-63-00-00-00-89-77-38-89-57-3C-E9-6E-7E-03-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>322F6B</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-83-81-FC-00-90</ValueOn>
+      <ValueOff>89-77-38-89-57-3C</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

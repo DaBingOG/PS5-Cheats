@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Thymesia" Moder="Talixme" Cusa="PPSA05214" Version="01.004.000" Process="eboot.bin">
+  <Items/>
+  <Cheat Text="必须码（必须开启） | Master Code">
+    <Cheatline>
+      <Offset>7E17F00</Offset>
+      <Section>0</Section>
+      <ValueOn>00</ValueOn>
+      <ValueOff>00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>7E17F01</Offset>
+      <Section>0</Section>
+      <ValueOn>00</ValueOn>
+      <ValueOff>00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>7E17F02</Offset>
+      <Section>0</Section>
+      <ValueOn>00</ValueOn>
+      <ValueOff>00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>7E17F03</Offset>
+      <Section>0</Section>
+      <ValueOn>00</ValueOn>
+      <ValueOff>00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>7E17F04</Offset>
+      <Section>0</Section>
+      <ValueOn>00</ValueOn>
+      <ValueOff>00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>570B9BC</Offset>
+      <Section>0</Section>
+      <ValueOn>81-FF-44-9B-FF-EE-74-2A-81-FF-A4-9A-FF-EE-74-22-81-FF-D0-9C-FF-EE-74-2E-81-FF-A0-A4-FF-EE-74-31-81-FF-74-92-FF-EE-74-43-81-FF-6C-A1-FF-EE-74-54-EB-74-80-3D-0B-C5-70-02-01-75-6B-49-81-FA-00-00-10-00-73-62-EB-50-80-3D-F8-C4-70-02-01-74-47-EB-55-80-3D-EE-C4-70-02-01-75-4C-81-FC-80-A3-FF-EE-75-44-49-83-C3-04-E9-0A-24-DB-FB-80-3D-D5-C4-70-02-01-75-32-41-C7-03-FF-C9-9A-3B-49-83-C3-04-E9-F1-23-DB-FB-80-3D-BD-C4-70-02-01-75-19-49-83-C3-04-E9-DF-23-DB-FB-41-8B-43-FC-41-89-03-49-83-C3-04-E9-CF-23-DB-FB-41-89-03-49-83-C3-04-E9-C3-23-DB-FB</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>14BDE2A</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-8D-DB-24-04-90-90</ValueOn>
+      <ValueOff>41-89-03-49-83-C3-04</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="无限生命 | Inf_Hp">
+    <Cheatline>
+      <Offset>7E17F00</Offset>
+      <Section>0</Section>
+      <ValueOn>01</ValueOn>
+      <ValueOff>00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="无限药水 | Inf_Potions">
+    <Cheatline>
+      <Offset>7E17F02</Offset>
+      <Section>0</Section>
+      <ValueOn>01</ValueOn>
+      <ValueOff>00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="无限灵魂 | Inf_Souls">
+    <Cheatline>
+      <Offset>7E17F03</Offset>
+      <Section>0</Section>
+      <ValueOn>01</ValueOn>
+      <ValueOff>00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="无限耐力 | Inf_Stamina">
+    <Cheatline>
+      <Offset>7E17F01</Offset>
+      <Section>0</Section>
+      <ValueOn>01</ValueOn>
+      <ValueOff>00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="无限投掷物 | Inf_Throwables">
+    <Cheatline>
+      <Offset>7E17F04</Offset>
+      <Section>0</Section>
+      <ValueOn>01</ValueOn>
+      <ValueOff>00</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

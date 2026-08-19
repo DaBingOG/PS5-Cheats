@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?><Trainer xmlns:xsd="http://w3.org" xmlns:xsi="http://w3.org-instance" Game="STALKER 2 Heart of Chornobyl" Moder="Aigars Uze" Cusa="PPSA28336" Version="01.009.000" Process="eboot.bin">
+  <Genres Name="Action-Adventure" />
+  <Items />
+  <Cheat Text="无限弹药（无需换弹） | Infinite Ammo (No Reload)">
+    <Cheatline>
+      <Offset>151A64F</Offset>
+      <Section>0</Section>
+      <ValueOn>90909090909090</ValueOn>
+      <ValueOff>41898EF4020000</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="无限物品（医疗包、弹药、哥萨克伏特加、水、绷带） | Infinite Items">
+    <Cheatline>
+      <Offset>13F59FD</Offset>
+      <Section>0</Section>
+      <ValueOn>89F690</ValueOn>
+      <ValueOff>897744</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

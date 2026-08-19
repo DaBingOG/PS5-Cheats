@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Game="EP4295-PPSA30797_00-KAKUSEALPS5000WW" Moder="Talixme" Cusa="PPSA30797" Version="01.000.005" Process="eboot.bin">
+    <Cheat Text="无限血量">
+        <Cheatline>
+            <Section>0</Section>
+            <Offset>5827000</Offset>
+            <ValueOn>C5FA1088CC040000C5FA1188C8040000E91FBE66FB</ValueOn>
+            <ValueOff>000000000000000000000000000000000000000000</ValueOff>
+        </Cheatline>
+        <Cheatline>
+            <Section>0</Section>
+            <Offset>E92E2C</Offset>
+            <ValueOn>E9CF419904909090</ValueOn>
+            <ValueOff>C5FA1188C8040000</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="无限道具">
+        <Cheatline>
+            <Section>0</Section>
+            <Offset>5827035</Offset>
+            <ValueOn>BBE703000042895C0204E90B5876FB</ValueOn>
+            <ValueOff>000000000000000000000000000000</ValueOff>
+        </Cheatline>
+        <Cheatline>
+            <Section>0</Section>
+            <Offset>5827064</Offset>
+            <ValueOn>41BFE703000044897C0104E9AB5076FB</ValueOn>
+            <ValueOff>00000000000000000000000000000000</ValueOff>
+        </Cheatline>
+        <Cheatline>
+            <Section>0</Section>
+            <Offset>F8C84A</Offset>
+            <ValueOn>E9E6A78904</ValueOn>
+            <ValueOff>42295C0204</ValueOff>
+        </Cheatline>
+        <Cheatline>
+            <Section>0</Section>
+            <Offset>F8C11A</Offset>
+            <ValueOn>E945AF8904</ValueOn>
+            <ValueOff>44017C0104</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="无限耐力">
+        <Cheatline>
+            <Section>0</Section>
+            <Offset>5827094</Offset>
+            <ValueOn>C5FA1080E0080000C5FA1180DC080000E959E666FB</ValueOn>
+            <ValueOff>000000000000000000000000000000000000000000</ValueOff>
+        </Cheatline>
+        <Cheatline>
+            <Section>0</Section>
+            <Offset>E956FA</Offset>
+            <ValueOn>E995199904909090</ValueOn>
+            <ValueOff>C5FA1180DC080000</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>

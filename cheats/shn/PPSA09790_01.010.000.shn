@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="DRAGON BALL FighterZ" Moder="Zer0day" Cusa="PPSA09790" Version="01.010.000" Process="eboot.bin">
+  <Items/>
+  <Cheat Text="无敌模式 | GOD MODE">
+    <Cheatline>
+      <Offset>2AF040</Offset>
+      <Section>0</Section>
+      <ValueOn>83-7F-4C-00-75-06-8B-B7-04-0B-00-00-8B-87-04-0B-00-00-89-F1-C1-F9-1F-C4-E2-70-F2-CE-39-F0-0F-4C-C8-89-8F-00-0B-00-00-C3-90-90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>55-48-89-E5-8B-87-04-0B-00-00-89-F1-C1-F9-1F-C4-E2-70-F2-CE-39-F0-0F-4C-C8-89-8F-00-0B-00-00-5D-C3-CC-CC-CC-CC-CC-CC-CC-CC-CC-CC-CC-CC-CC-CC-CC</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="无限气 | INFINITE KI">
+    <Cheatline>
+      <Offset>1FCCC0</Offset>
+      <Section>0</Section>
+      <ValueOn>83-7F-08-00-75-06-B8-70-11-01-00-C3-8B-47-24-C3</ValueOn>
+      <ValueOff>55-48-89-E5-8B-47-24-5D-C3-CC-CC-CC-CC-CC-CC-CC</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>1F2880</Offset>
+      <Section>0</Section>
+      <ValueOn>83-7F-08-00-75-05-BE-70-11-01-00-89-77-24-C3-90</ValueOn>
+      <ValueOff>55-48-89-E5-89-77-24-5D-C3-CC-CC-CC-CC-CC-CC-CC</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="无限爆发能量 | INFINITE SPARKING">
+    <Cheatline>
+      <Offset>1FCCD0</Offset>
+      <Section>0</Section>
+      <ValueOn>B8-02-00-00-00-83-7F-08-00-74-03-8B-47-28-C3-90</ValueOn>
+      <ValueOff>55-48-89-E5-8B-47-28-5D-C3-CC-CC-CC-CC-CC-CC-CC</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>1FCCE0</Offset>
+      <Section>0</Section>
+      <ValueOn>83-7F-08-00-75-05-BE-02-00-00-00-83-FE-02-B8-02-00-00-00-0F-4C-C6-89-47-28-89-47-2C-C3-90-90-90</ValueOn>
+      <ValueOff>55-48-89-E5-83-FE-02-B8-02-00-00-00-0F-4C-C6-89-47-28-89-47-2C-5D-C3-CC-CC-CC-CC-CC-CC-CC-CC-CC</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>202C80</Offset>
+      <Section>0</Section>
+      <ValueOn>83-7F-08-00-74-12-8B-47-28-29-F0-89-C1-C1-F9-1F-C4-E2-70-F2-C0-89-47-28-C3-90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>55-48-89-E5-8B-47-28-29-F0-89-C1-C1-F9-1F-C4-E2-70-F2-C0-89-47-28-5D-C3-CC-CC-CC-CC-CC-CC-CC-CC</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="无限对战时间 | INFINITE TIME">
+    <Cheatline>
+      <Offset>1E0DF0</Offset>
+      <Section>0</Section>
+      <ValueOn>B8-01-00-00-00-C3-90-90-90-90</ValueOn>
+      <ValueOff>55-48-89-E5-0F-B6-47-0E-5D-C3</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="最大顶级Z金币 | MAX PREMIUM Z COINS">
+    <Cheatline>
+      <Offset>403880</Offset>
+      <Section>0</Section>
+      <ValueOn>55-48-89-E5-C7-87-18-5A-00-00-9F-86-01-00-5D-C3</ValueOn>
+      <ValueOff>55-48-89-E5-48-8D-05-91-5A-D7-05-80-38-00-74-2F</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="最大金钱 | MAX ZENI">
+    <Cheatline>
+      <Offset>403720</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-87-10-5A-00-00-FF-C9-9A-3B-C3-90-90-90-90-90</ValueOn>
+      <ValueOff>55-48-89-E5-41-57-41-56-41-54-53-48-8D-05-EA-5B</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="获得所有道具 | ALL ITEMS">
+    <Cheatline>
+      <Offset>409640</Offset>
+      <Section>0</Section>
+      <ValueOn>B8-01-00-00-00-C3-90-90-90-90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>55-48-89-E5-89-F0-89-D6-48-8D-04-40-48-8D-BC-C7</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="无限援助攻击 | INFINITE ASSIST">
+    <Cheatline>
+      <Offset>26F190</Offset>
+      <Section>0</Section>
+      <ValueOn>66-C7-87-16-3B-03-00-00-00-C6-87-1C-3B-03-00-00-C3-90-90-90-90-90-90-90-90-90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>55-48-89-E5-41-56-53-48-89-FB-E8-81-F5-FE-FF-48-89-C7-E8-99-FF-F5-FF-48-89-C7-E8-C1-F4-FA-FF-0F</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>26F240</Offset>
+      <Section>0</Section>
+      <ValueOn>66-C7-87-1A-3B-03-00-00-00-C6-87-1C-3B-03-00-00-C3-90-90-90-90-90-90-90-90-90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>55-48-89-E5-53-50-66-83-BF-1A-3B-03-00-01-48-89-FB-75-1C-40-84-F6-74-10-66-C7-83-1A-3B-03-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="一击必杀 | ONE HIT KILL">
+    <Cheatline>
+      <Offset>28B7E3</Offset>
+      <Section>0</Section>
+      <ValueOn>80-7F-4C-00-74-02-31-F6-E9-50-38-02-00</ValueOn>
+      <ValueOff>CC-CC-CC-CC-CC-CC-CC-CC-CC-CC-CC-CC-CC</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>28B672</Offset>
+      <Section>0</Section>
+      <ValueOn>E8-6C-01-00-00</ValueOn>
+      <ValueOff>E8-C9-39-02-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

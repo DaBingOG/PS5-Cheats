@@ -1,0 +1,54 @@
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="BlazBlue Entropy Effect X" Moder="Talixme" Cusa="PPSA29714" Version="02.000.013" Process="eboot.bin">
+    <Genres Name="Action" />
+    <Items />
+    <Cheat Text="无限生命 | Inf Hp">
+        <Cheatline>
+            <Offset>7FD17000</Offset>
+            <Section>0</Section>
+            <ValueOn>83-BF-F8-02-00-00-01-74-0B-55-48-89-E5-41-57-E9-32-98-C4-01-48-31-C0-C3</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+        <Cheatline>
+            <Offset>81960840</Offset>
+            <Section>0</Section>
+            <ValueOn>E9-BB-67-3B-FE-90</ValueOn>
+            <ValueOff>55-48-89-E5-41-57</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="无限Mp | Inf Mp" Description="">
+        <Cheatline>
+            <Offset>7FD17038</Offset>
+            <Section>0</Section>
+            <ValueOn>48-BB-00-00-00-00-64-00-00-00-49-89-5C-C7-20-E9-BD-20-BD-01</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+        <Cheatline>
+            <Offset>818E9104</Offset>
+            <Section>0</Section>
+            <ValueOn>E9-2F-DF-42-FE</ValueOn>
+            <ValueOff>49-89-5C-C7-20</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="无限重置点数 | Inf Reroll Points">
+        <Cheatline>
+            <Offset>7FD1706C</Offset>
+            <Section>0</Section>
+            <ValueOn>81-FC-A0-1D-FF-EE-74-0C-49-89-06-49-89-4E-08-E9-35-5F-D6-07-48-C7-C0-0F-27-00-00-49-89-06-49-89-4E-08-E9-22-5F-D6-07</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+        <Cheatline>
+            <Offset>87A7CFAE</Offset>
+            <Section>0</Section>
+            <ValueOn>E9-B9-A0-29-F8-90-90</ValueOn>
+            <ValueOff>49-89-06-49-89-4E-08</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="停止计时器 | Stop Timer" Description="">
+        <Cheatline>
+            <Offset>8198D751</Offset>
+            <Section>0</Section>
+            <ValueOn>90-90-90-90-90-90-90</ValueOn>
+            <ValueOff>48-89-83-2C-01-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>

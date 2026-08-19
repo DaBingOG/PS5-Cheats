@@ -1,0 +1,32 @@
+?<?xml version="1.0" encoding="utf-8"?><Trainer xmlns:xsd="http://w3.org" xmlns:xsi="http://w3.org-instance" Game="Monster Hunter Wilds" Moder="Aigars Uze" Cusa="PPSA07862" Version="01.030.020" Process="eboot.bin">
+    <Cheat Text="金币不减（购买时） | Money Dont Decrease On Buy (Turn Off to Gain Money)">
+        <Cheatline>
+            <Offset>956A8E8</Offset>
+            <Section>0</Section>
+            <ValueOn>90-90-90</ValueOn>
+            <ValueOff>48-01-F8</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="无限耐力 | Infinite Stamina">
+        <Cheatline>
+            <Offset>A9E63B1</Offset>
+            <Section>0</Section>
+            <ValueOn>90-90-90-90</ValueOn>
+            <ValueOff>C5-EA-5C-D3</ValueOff>
+        </Cheatline>
+        <Cheatline>
+            <Offset>A9E633D</Offset>
+            <Section>0</Section>
+            <ValueOn>90-90-90-90</ValueOn>
+            <ValueOff>C5-EA-5C-D3</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="无限生命 | Infinite Health">
+        <Cheatline>
+            <Offset>6ADA8A0</Offset>
+            <Section>0</Section>
+            <ValueOn>90-90-90-90-90</ValueOn>
+            <ValueOff>C5-F2-5C-4B-40</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>

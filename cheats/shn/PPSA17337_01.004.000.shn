@@ -1,0 +1,60 @@
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Cobra The Awakening" Moder="Talixme" Cusa="PPSA17337" Version="01.004.000" Process="eboot.bin">
+    <Genres Name="Action" />
+    <Items />
+    <Cheat Text="无限生命 | Inf Hp">
+        <Cheatline>
+            <Offset>7FD17000</Offset>
+            <Section>0</Section>
+            <ValueOn>0F-2E-C1-74-15-C5-FA-10-87-B8-01-00-00-C5-FA-11-87-DC-01-00-00-E9-8F-D9-74-00-C7-87-DC-01-00-00-00-00-00-00-E9-80-D9-74-00</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+        <Cheatline>
+            <Offset>804649A1</Offset>
+            <Section>0</Section>
+            <ValueOn>E9-5A-26-8B-FF-90-90-90</ValueOn>
+            <ValueOff>C5-FA-11-87-DC-01-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="无限能量 | Inf Energy" Description="">
+        <Cheatline>
+            <Offset>7FD17049</Offset>
+            <Section>0</Section>
+            <ValueOn>C5-FA-11-93-7C-03-00-00-E9-63-7D-71-00</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+        <Cheatline>
+            <Offset>7FD17076</Offset>
+            <Section>0</Section>
+            <ValueOn>C5-FA-11-93-7C-03-00-00-E9-36-BD-71-00</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+        <Cheatline>
+            <Offset>8042EDB1</Offset>
+            <Section>0</Section>
+            <ValueOn>E9-93-82-8E-FF-90-90-90</ValueOn>
+            <ValueOff>C5-FA-11-83-7C-03-00-00</ValueOff>
+        </Cheatline>
+        <Cheatline>
+            <Offset>80432DB1</Offset>
+            <Section>0</Section>
+            <ValueOn>E9-C0-42-8E-FF-90-90-90</ValueOn>
+            <ValueOff>C5-FA-11-83-7C-03-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="无限大招 | Inf Super">
+        <Cheatline>
+            <Offset>80432D58</Offset>
+            <Section>0</Section>
+            <ValueOn>90-90-90-90-90-90-90-90</ValueOn>
+            <ValueOff>C5-FA-11-83-80-03-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="停止计时器 | Stop Timer">
+        <Cheatline>
+            <Offset>800BCADC</Offset>
+            <Section>0</Section>
+            <ValueOn>90-90-90-90-90-90-90-90</ValueOn>
+            <ValueOff>C5-FA-10-83-C4-01-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>

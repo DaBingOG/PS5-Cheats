@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="ANIMAL WELL" Moder="Talixme" Cusa="PPSA22520" Version="01.000.011" Process="eboot.bin">
+  <Items/>
+  <Cheat Text="无限生命 | Inf Hp">
+    <Cheatline>
+      <Offset>137FF7</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90</ValueOn>
+      <ValueOff>29-D1</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="无限烟花/鞭炮 | Inf Fireworks">
+    <Cheatline>
+      <Offset>273000</Offset>
+      <Section>0</Section>
+      <ValueOn>C6-80-B3-01-00-00-06-E9-CB-C2-EB-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>12F2D1</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-2A-3D-14-00-90</ValueOn>
+      <ValueOff>88-88-B3-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="拥有全部工具（死后） Have All Tools After Die">
+    <Cheatline>
+      <Offset>27302C</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-80-DC-01-00-00-FF-FF-FE-00-C6-80-B4-01-00-00-09-E9-8C-76-EC-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>13A6C7</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-60-89-13-00-90-90</ValueOn>
+      <ValueOff>C6-80-B4-01-00-00-03</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

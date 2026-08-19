@@ -1,0 +1,117 @@
+?<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Metaphor ReFantazio" Moder="Yharnam" Cusa="PPSA20800" Version="01.013.000" Process="eboot.bin">
+    <Genres Name="JRPG" />
+    <Items />
+    <Cheat Text="无限生命 | Infi HP">
+        <Cheatline>
+            <Section>0</Section>
+            <Offset>15C3EA0</Offset>
+            <ValueOn>48-83-F9-02-74-09-41-39-C6-41-0F-4F-C6-EB-07-41-39-C6-41-0F-4C-C6-E9-C8-01-ED-FE</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+        <Cheatline>
+            <Section>0</Section>
+            <Offset>49407C</Offset>
+            <ValueOn>E9-1F-FE-12-01-90-90</ValueOn>
+            <ValueOff>41-39-C6-41-0F-4C-C6</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="无限MP | Infi MP">
+        <Cheatline>
+            <Section>0</Section>
+            <Offset>15C3ED2</Offset>
+            <ValueOn>48-83-F9-02-74-09-41-39-C6-41-0F-4F-C6-EB-07-41-39-C6-41-0F-4C-C6-E9-C6-01-ED-FE</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+        <Cheatline>
+            <Section>0</Section>
+            <Offset>4940AC</Offset>
+            <ValueOn>E9-21-FE-12-01-90-90</ValueOn>
+            <ValueOff>41-39-C6-41-0F-4C-C6</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="战斗回合锁定 | Battle Turn Lock" Description="Note: Turn this off during the enemy's turn.">
+        <Cheatline>
+            <Section>0</Section>
+            <Offset>164E79</Offset>
+            <ValueOn>66-83-BD-2C-FF-FF-FF-01</ValueOn>
+            <ValueOff>66-83-BD-2C-FF-FF-FF-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="奔跑速度x 2 | Run Speed x 2">
+        <Cheatline>
+            <Section>0</Section>
+            <Offset>9A79D0</Offset>
+            <ValueOn>C4-C1-7A-58-04-24</ValueOn>
+            <ValueOff>C4-C1-7A-59-04-24</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="冻结敌人 | Freeze Enemy">
+        <Cheatline>
+            <Section>0</Section>
+            <Offset>76D6D5</Offset>
+            <ValueOn>41-C6-85-80-0A-00-00-00</ValueOn>
+            <ValueOff>41-80-BD-80-0A-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="最大金币 | Max Money">
+        <Cheatline>
+            <Section>0</Section>
+            <Offset>445C6B</Offset>
+            <ValueOn>90-90-90</ValueOn>
+            <ValueOff>0F-42-C7</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="最大蓝条上限 | Max Mag">
+        <Cheatline>
+            <Section>0</Section>
+            <Offset>445D41</Offset>
+            <ValueOn>90-90-90</ValueOn>
+            <ValueOff>0F-42-C7</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="最大经验 | Max Exp">
+        <Cheatline>
+            <Section>0</Section>
+            <Offset>478DA0</Offset>
+            <ValueOn>44-0F-47-F8</ValueOn>
+            <ValueOff>44-0F-42-F8</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="最大经验（等级原型） | Max Exp (Rank Archetype)">
+        <Cheatline>
+            <Section>0</Section>
+            <Offset>438C54</Offset>
+            <ValueOn>41-0F-46-DD</ValueOn>
+            <ValueOff>41-0F-43-DD</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="最大统计（派对） | Max Stats (Party)">
+        <Cheatline>
+            <Section>0</Section>
+            <Offset>15C3F36</Offset>
+            <ValueOn>C6-44-07-2A-63-44-0F-B6-6C-07-2A-E9-D9-04-ED-FE</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+        <Cheatline>
+            <Section>0</Section>
+            <Offset>494419</Offset>
+            <ValueOn>E9-18-FB-12-01-90</ValueOn>
+            <ValueOff>44-0F-B6-6C-07-2A</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="一击必杀 | 1 Hit Kill" Description="Warning: No EXP or items will be earned while this cheat is enabled. Use it only for fast progression.">
+        <Cheatline>
+            <Section>0</Section>
+            <Offset>15C3F04</Offset>
+            <ValueOn>41-8B-76-04-48-89-DF-48-83-F9-02-75-05-31-C0-89-43-0C-E9-E1-1B-EC-FE</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+        <Cheatline>
+            <Section>0</Section>
+            <Offset>485AF5</Offset>
+            <ValueOn>E9-0A-E4-13-01-90-90</ValueOn>
+            <ValueOff>41-8B-76-04-48-89-DF</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>

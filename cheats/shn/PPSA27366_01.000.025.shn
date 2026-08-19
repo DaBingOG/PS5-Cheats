@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="AI LIMIT" Moder="Talixme" Cusa="PPSA27366" Version="01.000.025" Process="eboot.bin">
+  <Items/>
+  <Cheat Text="无限生命 | Inf Hp">
+    <Cheatline>
+      <Offset>84033000</Offset>
+      <Section>0</Section>
+      <ValueOn>0F-57-C0-55-48-89-E5-41-57-E9-E8-03-C4-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>82C733F0</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-0B-FC-3B-01-90</ValueOn>
+      <ValueOff>55-48-89-E5-41-57</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="无限水晶 | Inf Cristals">
+    <Cheatline>
+      <Offset>8403302E</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-40-1C-7F-96-98-00-48-8B-43-18-E9-19-52-BE-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>82C1824F</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-DA-AD-41-01-90-90-90</ValueOn>
+      <ValueOff>44-01-70-1C-48-8B-43-18</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="无限道具 | Inf Items">
+    <Cheatline>
+      <Offset>8403305E</Offset>
+      <Section>0</Section>
+      <ValueOn>41-83-C5-63-44-89-6B-14-E9-B0-CB-DB-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>82DF17E0</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90</ValueOn>
+      <ValueOff>44-29-F9</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>82DEFC13</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-46-34-24-01-90-90-90</ValueOn>
+      <ValueOff>44-03-6B-14-44-89-6B-14</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="无敌模式 | God Mode">
+    <Cheatline>
+      <Offset>8403308B</Offset>
+      <Section>0</Section>
+      <ValueOn>B0-01-C3-55-48-89-E5-53-E9-BD-F0-C3-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>82C72150</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-36-0F-3C-01</ValueOn>
+      <ValueOff>55-48-89-E5-53</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Game="UP0700-PPSA06399_00-PACMANWORLDRE008" Moder="User" Cusa="PPSA06399" Version="01.000.002" Process="eboot.bin">
+    <Cheat Text="无限球 | Inf Balls">
+        <Cheatline>
+            <Section>0</Section>
+            <Offset>7FCCF000</Offset>
+            <ValueOn>B93F420F00894C102C41FF442424E9A41DD400</ValueOn>
+            <ValueOff>00000000000000000000000000000000000000</ValueOff>
+        </Cheatline>
+        <Cheatline>
+            <Section>0</Section>
+            <Offset>80A10DAE</Offset>
+            <ValueOn>E94DE22BFF90909090</ValueOn>
+            <ValueOff>894C102C41FF442424</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="无限血量 | Inf Hp">
+        <Cheatline>
+            <Section>0</Section>
+            <Offset>800C2B40</Offset>
+            <ValueOn>90909090</ValueOn>
+            <ValueOff>4189472C</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="无限生命数 | Inf Lives">
+        <Cheatline>
+            <Section>0</Section>
+            <Offset>7FCCF033</Offset>
+            <ValueOn>B8630000008981B0000000E9B346F300</ValueOn>
+            <ValueOff>00000000000000000000000000000000</ValueOff>
+        </Cheatline>
+        <Cheatline>
+            <Section>0</Section>
+            <Offset>80C036F0</Offset>
+            <ValueOn>E93EB90CFF90</ValueOn>
+            <ValueOff>8981B0000000</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?><Trainer xmlns:xsd="http://w3.org" xmlns:xsi="http://w3.org-instance" Game="Vampire The Masquerade Bloodlines 2" Moder="Aigars Uze" Cusa="PPSA15186" Version="01.000.003" Process="eboot.bin">
+  <Cheat Text="能力点与属性点拉满 | Ability">
+    <Cheatline>
+      <Offset>569F000</Offset>
+      <Section>0</Section>
+      <ValueOn>83-79-08-14-7F-16-41-BE-E7-03-00-00-44-89-71-08-48-8B-83-28-02-00-00-E9-79-90-1D-FE-44-89-71-08-48-8B-83-28-02-00-00-E9-69-90-1D-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>387808A</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-71-6F-E2-01-90-90-90-90-90-90</ValueOn>
+      <ValueOff>44-89-71-08-48-8B-83-28-02-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="无限生命 | Infinite Health">
+    <Cheatline>
+      <Offset>41AEEED</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90</ValueOn>
+      <ValueOff>E8-FE-36-AD-FF</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

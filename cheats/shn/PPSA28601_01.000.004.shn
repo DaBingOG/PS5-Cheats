@@ -1,0 +1,54 @@
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Steel Seed" Moder="Talixme" Cusa="PPSA28601" Version="01.000.004" Process="eboot.bin">
+    <Genres Name="Action" />
+    <Items />
+    <Cheat Text="无限生命 | Inf Hp">
+        <Cheatline>
+            <Offset>4325561</Offset>
+            <Section>0</Section>
+            <ValueOn>90-90-90-90-90</ValueOn>
+            <ValueOff>E8-9A-D4-C9-FF</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="无限弹药 | Inf Ammo" Description="">
+        <Cheatline>
+            <Offset>42E8030</Offset>
+            <Section>0</Section>
+            <ValueOn>C3</ValueOn>
+            <ValueOff>55</ValueOff>
+        </Cheatline>
+        <Cheatline>
+            <Offset>42E7B34</Offset>
+            <Section>0</Section>
+            <ValueOn>90-90-90</ValueOn>
+            <ValueOff>44-28-F0</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="无限能量 | Inf Enegy" Description="">
+        <Cheatline>
+            <Offset>5D6F000</Offset>
+            <Section>0</Section>
+            <ValueOn>C5-FA-11-80-98-06-00-00-E9-25-32-6C-FE</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+        <Cheatline>
+            <Offset>443222A</Offset>
+            <Section>0</Section>
+            <ValueOn>E9-D1-CD-93-01-90-90-90</ValueOn>
+            <ValueOff>C5-FA-11-88-98-06-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="无限金钱 | Inf Money" Description="">
+        <Cheatline>
+            <Offset>5D6F02D</Offset>
+            <Section>0</Section>
+            <ValueOn>49-89-C6-41-BF-9F-86-01-00-44-01-78-60-E9-55-1E-33-FE</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+        <Cheatline>
+            <Offset>40A0E8D</Offset>
+            <Section>0</Section>
+            <ValueOn>E9-9B-E1-CC-01-90-90</ValueOn>
+            <ValueOff>49-89-C6-44-01-78-60</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>

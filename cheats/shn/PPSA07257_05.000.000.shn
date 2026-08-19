@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://w3.org" xmlns:xsi="http://w3.org-instance" Game="Gotham Knights" Moder="Aigars Uze" Cusa="PPSA07257" Version="05.000.000" Process="eboot.bin">
+  <Cheat Text="无限生命 | Infinite Health">
+    <Cheatline>
+      <Offset>577FF80</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-7B-BF-4D-01-90-90-90</ValueOn>
+      <ValueOff>C5-FA-11-86-5C-04-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>6C5BF00</Offset>
+      <Section>0</Section>
+      <ValueOn>48-89-C8-48-C1-E8-1C-3D-30-01-00-00-75-0D-C5-FA-11-86-5C-04-00-00-E9-6D-40-B2-FE-C5-FA-11-86-5C-04-00-00-E9-60-40-B2-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="击中时获得50000经验值 | Gain 50000 XP On Hit">
+    <Cheatline>
+      <Offset>6083AE7</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-40-84-BD-00-90</ValueOn>
+      <ValueOff>03-77-30-89-77-30</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>6C5BF2C</Offset>
+      <Section>0</Section>
+      <ValueOn>03-77-30-81-C6-50-C3-00-00-89-77-30-E9-B0-7B-42-FF-90</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="无限医疗包（使用时补给） | Infinite Medkits (Add On Spend)">
+    <Cheatline>
+      <Offset>5FA62A5</Offset>
+      <Section>0</Section>
+      <ValueOn>FF-C1</ValueOn>
+      <ValueOff>FF-C9</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="无限技能点（使用时补给） | Infinite Ability Points (Add On Spend)">
+    <Cheatline>
+      <Offset>603804E</Offset>
+      <Section>0</Section>
+      <ValueOn>01-88-E4-00-00-00</ValueOn>
+      <ValueOff>29-88-E4-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

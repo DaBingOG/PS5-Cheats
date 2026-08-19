@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="The House of The Dead 2 Remake" Moder="Yharnam" Cusa="PPSA24203" Version="02.000.000" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Items />
+  <Cheat Text="上帝模式&一击必杀 | God Mode + 1 Hit Kill">
+    <Cheatline>      
+      <Section>0</Section>
+      <Offset>80554AA5</Offset>
+      <ValueOn>90-90-90-90-90</ValueOn>
+      <ValueOff>E8-06-0C-F3-FF</ValueOff>
+    </Cheatline>       						
+    <Cheatline>      
+      <Section>0</Section>
+      <Offset>804858F7</Offset>
+      <ValueOn>C5-FA-5C-C0</ValueOn>
+      <ValueOff>C5-FA-5C-C1</ValueOff>
+    </Cheatline>       							
+  </Cheat>
+  <Cheat Text="市民无敌 | Invincible Citizens">
+    <Cheatline>      
+      <Section>0</Section>
+      <Offset>80860BDA</Offset>
+      <ValueOn>90-90-90-90-90-90</ValueOn>
+      <ValueOff>FF-90-88-01-00-00</ValueOff>
+    </Cheatline>       						
+  </Cheat>  
+  <Cheat Text="无限弹药 | Infi Ammo">
+    <Cheatline>      
+      <Section>0</Section>
+      <Offset>80560CC4</Offset>
+      <ValueOn>90-90-90-90-90-90</ValueOn>
+      <ValueOff>FF-8B-94-00-00-00</ValueOff>
+    </Cheatline>       						
+  </Cheat>
+  <Cheat Text="无限继续次数 | Infi Continue">
+    <Cheatline>      
+      <Section>0</Section>
+      <Offset>8065E222</Offset>
+      <ValueOn>8D-10-90</ValueOn>
+      <ValueOff>8D-50-FF</ValueOff>
+    </Cheatline>  				
+    <Cheatline>      
+      <Section>0</Section>
+      <Offset>8065E2E2</Offset>
+      <ValueOn>31-D2-90</ValueOn>
+      <ValueOff>8D-50-01</ValueOff>
+    </Cheatline>  					
+  </Cheat>         
+</Trainer>

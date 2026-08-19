@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Mortal Kombat 1" Moder="Talixme Wander" Cusa="PPSA07570" Version="01.010.001" Process="eboot.bin">
+  <Items/>
+  <Cheat Text="主代码(必须开启) | Master Code">
+    <Cheatline>
+      <Offset>D2EFF00</Offset>
+      <Section>0</Section>
+      <ValueOn>00</ValueOn>
+      <ValueOff>00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>D2EFF01</Offset>
+      <Section>0</Section>
+      <ValueOn>00</ValueOn>
+      <ValueOff>00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>D2EFF02</Offset>
+      <Section>0</Section>
+      <ValueOn>00</ValueOn>
+      <ValueOff>00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>D2EFF03</Offset>
+      <Section>0</Section>
+      <ValueOn>00</ValueOn>
+      <ValueOff>00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>8AFB000</Offset>
+      <Section>0</Section>
+      <ValueOn>81-FC-90-6E-DF-EE-74-0B-C4-C1-7A-11-04-06-E9-84-09-AF-F9-66-83-BC-24-FC-0A-00-00-00-74-16-66-83-BC-24-FC-0A-00-00-01-74-28-C4-C1-7A-11-04-06-E9-63-09-AF-F9-80-3D-C5-4E-7F-04-01-74-31-80-3D-BF-4E-7F-04-01-74-3A-C4-C1-7A-11-04-06-E9-46-09-AF-F9-80-3D-A9-4E-7F-04-01-74-14-80-3D-A1-4E-7F-04-01-74-1D-C4-C1-7A-11-04-06-E9-29-09-AF-F9-C4-C1-7A-10-44-06-10-C4-C1-7A-11-04-06-E9-17-09-AF-F9-41-C7-04-06-00-00-00-00-E9-0A-09-AF-F9</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>25EB991</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-6A-F6-50-06-90</ValueOn>
+      <ValueOff>C4-C1-7A-11-04-06</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="P1无限生命值 | _P1 Inf_Hp_P1">
+    <Cheatline>
+      <Offset>D2EFF00</Offset>
+      <Section>0</Section>
+      <ValueOn>01</ValueOn>
+      <ValueOff>00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="P2无限生命值 | _P2 Inf_Hp_P2">
+    <Cheatline>
+      <Offset>D2EFF01</Offset>
+      <Section>0</Section>
+      <ValueOn>01</ValueOn>
+      <ValueOff>00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="P1一击必杀 | _P1 One_Hit_Kill_P1">
+    <Cheatline>
+      <Offset>D2EFF02</Offset>
+      <Section>0</Section>
+      <ValueOn>01</ValueOn>
+      <ValueOff>00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="P2一击必杀 | _P2 One_Hit_Kill_P2">
+    <Cheatline>
+      <Offset>D2EFF03</Offset>
+      <Section>0</Section>
+      <ValueOn>01</ValueOn>
+      <ValueOff>00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="时间停止 | Stop Timer">
+    <Cheatline>
+      <Offset>26AE8CE</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90</ValueOn>
+      <ValueOff>41-FF-4F-70</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

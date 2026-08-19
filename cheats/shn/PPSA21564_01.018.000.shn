@@ -1,0 +1,24 @@
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="UP9000-PPSA21564_00-0000000000000000" Moder="Talixme" Cusa="PPSA21564" Version="01.018.000" Process="eboot.bin">
+    <Cheat Text="无限金币 | Inf Coins" Description="">
+        <Cheatline>
+            <Offset>74BF000</Offset>
+            <Section>0</Section>
+            <ValueOn>41-BF-0F-27-00-00-44-89-F8-89-43-04-E9-69-10-4A-FE</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+        <Cheatline>
+            <Offset>5960074</Offset>
+            <Section>0</Section>
+            <ValueOn>E9-87-EF-B5-01-90</ValueOn>
+            <ValueOff>44-01-F8-89-43-04</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="无限跳跃 | Inf Jumps" Description="">
+        <Cheatline>
+            <Offset>61347EA</Offset>
+            <Section>0</Section>
+            <ValueOn>90-90-90-90-90-90-90</ValueOn>
+            <ValueOff>C6-83-58-01-00-00-01</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>

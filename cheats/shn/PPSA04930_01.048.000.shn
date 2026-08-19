@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="UP4133-PPSA04930_00-SNOWRUNNERGAME00" Moder="Talixme" Cusa="PPSA04930" Version="01.048.000" Process="eboot.bin">
+    <Cheat Text="无限燃料 | Inf Fuel" Description="">
+        <Cheatline>
+            <Offset>10E55A2</Offset>
+            <Section>0</Section>
+            <ValueOn>C5-FA-11-8F-F0-06-00-00</ValueOn>
+            <ValueOff>C5-FA-11-87-F0-06-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="无视伤害 | No Damage">
+        <Cheatline>
+            <Offset>F61093</Offset>
+            <Section>0</Section>
+            <ValueOn>90-90-90-90-90</ValueOn>
+            <ValueOff>43-89-44-27-08</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>

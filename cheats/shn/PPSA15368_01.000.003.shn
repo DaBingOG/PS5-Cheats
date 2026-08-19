@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Contra: Operation Galuga" Moder="Saso_PS5 Talixme" Cusa="PPSA15368" Version="01.000.003" Process="eboot.bin">
+  <Items/>
+  <Cheat Text="无限生命 | Inf Hp">
+    <Cheatline>
+      <Offset>7FCC7000</Offset>
+      <Section>0</Section>
+      <ValueOn>66-83-78-0C-01-74-0B-89-08-48-83-C4-18-E9-BF-E3-85-00-B9-A0-0F-00-00-89-08-48-83-C4-18-E9-AF-E3-85-00</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>805253CB</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-30-1C-7A-FF-90</ValueOn>
+      <ValueOff>89-08-48-83-C4-18</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="无限生命数 | Inf Lives">
+    <Cheatline>
+      <Offset>7FCC7042</Offset>
+      <Section>0</Section>
+      <ValueOn>41-BF-63-00-00-00-45-89-7D-10-4C-89-EF-E9-1D-D0-5A-00</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>8027406A</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-D3-2F-A5-FF-90-90</ValueOn>
+      <ValueOff>45-89-7D-10-4C-89-EF</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="无限跳跃 | Inf Jumps">
+    <Cheatline>
+      <Offset>7FCC7074</Offset>
+      <Section>0</Section>
+      <ValueOn>C6-80-E9-05-00-00-02-E9-3B-15-69-02</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>823585B4</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-BB-EA-96-FD-90-90</ValueOn>
+      <ValueOff>C6-80-E9-05-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="无限悬浮 Inf Hover">
+    <Cheatline>
+      <Offset>823546A6</Offset>
+      <Section>0</Section>
+      <ValueOn>C5-FA-11-B3-6C-06-00-00</ValueOn>
+      <ValueOff>C5-FA-11-83-6C-06-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

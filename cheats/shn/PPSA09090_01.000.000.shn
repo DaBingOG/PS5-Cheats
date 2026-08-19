@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="EP4369-PPSA09090_00-RC00000000000005" Moder="Talixme" Cusa="PPSA09090" Version="01.000.000" Process="eboot.bin">
+  <Items/>
+  <Cheat Text="无限生命 | Inf Hp">
+    <Cheatline>
+      <Offset>7FCCB000</Offset>
+      <Section>0</Section>
+      <ValueOn>C4-C1-7A-10-46-1C-C4-C1-7A-11-46-24-E9-8C-C4-25-01</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>7FCCB031</Offset>
+      <Section>0</Section>
+      <ValueOn>C4-C1-7A-10-46-1C-C4-C1-7A-11-46-24-E9-5B-04-26-01</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>80F27497</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-64-3B-DA-FE-90</ValueOn>
+      <ValueOff>C4-C1-7A-11-46-24</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>80F2B497</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-95-FB-D9-FE-90</ValueOn>
+      <ValueOff>C4-C1-7A-11-46-24</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="无限能量 | Inf Energy">
+    <Cheatline>
+      <Offset>7FCCB062</Offset>
+      <Section>0</Section>
+      <ValueOn>C5-FA-10-43-20-C5-FA-11-43-1C-E9-57-B0-25-01</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>7FCCB091</Offset>
+      <Section>0</Section>
+      <ValueOn>C5-FA-10-43-20-C5-FA-11-43-1C-E9-28-F0-25-01</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>80F260C3</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-9A-4F-DA-FE</ValueOn>
+      <ValueOff>C5-FA-11-43-1C</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>80F2A0C3</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-C9-0F-DA-FE</ValueOn>
+      <ValueOff>C5-FA-11-43-1C</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="无限积分/点数/金币 | Inf Credits">
+    <Cheatline>
+      <Offset>7FCCB0C0</Offset>
+      <Section>0</Section>
+      <ValueOn>41-BF-FF-E0-F5-05-44-89-7B-3C-41-83-FE-13-0F-87-50-1F-FB-00-E9-3D-1F-FB-00</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>80C7D00C</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-AF-E0-04-FF-90-90-90-90-90</ValueOn>
+      <ValueOff>44-01-7B-3C-41-83-FE-13-77-0E</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

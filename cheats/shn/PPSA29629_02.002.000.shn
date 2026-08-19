@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="	" Moder="Talixme" Cusa="PPSA29629" Version="02.002.000" Process="eboot.bin">
+  <Items/>
+  <Cheat Text="无限生命 | Inf Hp">
+    <Cheatline>
+      <Offset>DB0062</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90</ValueOn>
+      <ValueOff>41-89-46-10</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="无限MP | Inf Mp">
+    <Cheatline>
+      <Offset>D7326C</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90</ValueOn>
+      <ValueOff>41-89-46-1C</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="无限必杀技 | Inf Super">
+    <Cheatline>
+      <Offset>145F000</Offset>
+      <Section>0</Section>
+      <ValueOn>B8-64-00-00-00-89-43-18-8B-43-18-E9-ED-5B-7C-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>C24BF7</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-04-A4-83-00-90</ValueOn>
+      <ValueOff>89-43-18-8B-43-18</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="最大得分 | Max Score">
+    <Cheatline>
+      <Offset>145F030</Offset>
+      <Section>0</Section>
+      <ValueOn>41-BF-3F-42-0F-00-44-89-7F-14-E9-28-68-7C-FF-E9-D0-67-7C-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>C2580E</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-1D-98-83-00-90</ValueOn>
+      <ValueOff>44-89-7F-14-EB-53</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

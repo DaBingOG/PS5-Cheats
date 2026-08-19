@@ -1,0 +1,121 @@
+?<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Horizon Forbidden West" Moder="Yharnam" Cusa="PPSA17905" Version="01.030.000" Process="eboot.bin">
+    <Genres Name="Action" />
+    <Items />
+    <Cheat Text="无懈可击 | Untouchable" Description="Only Player, Excluding Riding.">
+        <Cheatline>
+            <Section>0</Section>
+            <Offset>2863000</Offset>
+            <ValueOn>81-7F-10-9E-00-00-E4-74-02-FF-D0-48-85-DB-E9-97-FA-5B-FE</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+        <Cheatline>
+            <Section>0</Section>
+            <Offset>E22AA5</Offset>
+            <ValueOn>E9-56-05-A4-01</ValueOn>
+            <ValueOff>FF-D0-48-85-DB</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="一刀斩 | 1 Hit Kill">
+        <Cheatline>
+            <Section>0</Section>
+            <Offset>2863100</Offset>
+            <ValueOn>C5-F2-58-48-24-48-39-FE-74-0D-41-83-BD-D8-00-00-00-13-74-03-0F-57-C0-E9-00-7A-62-FE</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+        <Cheatline>
+            <Section>0</Section>
+            <Offset>E8AB17</Offset>
+            <ValueOn>E9-E4-85-9D-01</ValueOn>
+            <ValueOff>C5-F2-58-48-24</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="无限生命 | Infi Health">
+        <Cheatline>
+            <Section>0</Section>
+            <Offset>2862F00</Offset>
+            <ValueOn>41-83-BD-D8-00-00-00-13-75-0E-C4-C1-7A-10-85-84-00-00-00-C5-FA-58-40-24-C4-C1-7A-11-45-74-E9-89-7C-62-FE</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+        <Cheatline>
+            <Section>0</Section>
+            <Offset>E8ABA6</Offset>
+            <ValueOn>E9-55-83-9D-01-90</ValueOn>
+            <ValueOff>C4-C1-7A-11-45-74</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="最大勇气迸发（命中时） | Max Valor Surge (On Hit)">
+        <Cheatline>
+            <Section>0</Section>
+            <Offset>1C0E3EB</Offset>
+            <ValueOn>C5-F2-5F-CA</ValueOn>
+            <ValueOff>C5-F2-5D-CA</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="无限武器技法 | Infi Weapon Techniques">
+        <Cheatline>
+            <Section>0</Section>
+            <Offset>1EE1082</Offset>
+            <ValueOn>C5-FA-5F-C1</ValueOn>
+            <ValueOff>C5-FA-5D-C1</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="无限瞄准专注 | Infi Aim Focus">
+        <Cheatline>
+            <Section>0</Section>
+            <Offset>19D7A33</Offset>
+            <ValueOn>C5-F2-58-C0</ValueOn>
+            <ValueOff>C5-F2-5C-C0</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="无限滞空 | Infi Air">
+        <Cheatline>
+            <Section>0</Section>
+            <Offset>1EE1061</Offset>
+            <ValueOn>90-90-90-90</ValueOn>
+            <ValueOff>C5-FA-5C-C3</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="无限弹药 | Infi Ammo">
+        <Cheatline>
+            <Section>0</Section>
+            <Offset>2129A29</Offset>
+            <ValueOn>90-90</ValueOn>
+            <ValueOff>29-C2</ValueOff>
+        </Cheatline>
+        <Cheatline>
+            <Section>0</Section>
+            <Offset>2129B09</Offset>
+            <ValueOn>90-90-90-90-90</ValueOn>
+            <ValueOff>E8-32-FD-EB-FF</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="无限道具（不减少） | Infi Items (No decrease)">
+        <Cheatline>
+            <Section>0</Section>
+            <Offset>1FFC37D</Offset>
+            <ValueOn>90-90-90-90-90</ValueOn>
+            <ValueOff>E8-BE-D4-FE-FF</ValueOff>
+        </Cheatline>
+        <Cheatline>
+            <Section>0</Section>
+            <Offset>225D00F</Offset>
+            <ValueOn>90-90-90-90-90</ValueOn>
+            <ValueOff>E8-2C-C8-D8-FF</ValueOff>
+        </Cheatline>
+        <Cheatline>
+            <Section>0</Section>
+            <Offset>820F9390</Offset>
+            <ValueOn>90-90-90</ValueOn>
+            <ValueOff>41-FF-11</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="无限技能点 | Infi Skill Points">
+        <Cheatline>
+            <Section>0</Section>
+            <Offset>207F4B7</Offset>
+            <ValueOn>41-03-4D-28</ValueOn>
+            <ValueOff>41-2B-4D-28</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>

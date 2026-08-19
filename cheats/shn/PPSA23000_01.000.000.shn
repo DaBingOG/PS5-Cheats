@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="JP0036-PPSA23000_00-DDRAGONREVIVE000" Moder="Talixme" Cusa="PPSA23000" Version="01.000.000" Process="eboot.bin">
+  <Items/>
+  <Cheat Text="主代碼(使用金手指必殺開啟) Master Code">
+    <Cheatline>
+      <Offset>85E7F00</Offset>
+      <Section>0</Section>
+      <ValueOn>00</ValueOn>
+      <ValueOff>00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>85E7F01</Offset>
+      <Section>0</Section>
+      <ValueOn>00</ValueOn>
+      <ValueOff>00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>5DDF13C</Offset>
+      <Section>0</Section>
+      <ValueOn>80-FA-02-74-18-80-3D-B9-8D-80-02-01-75-27-C7-87-A8-00-00-00-00-00-00-00-E9-A9-32-BB-FD-80-3D-A0-8D-80-02-01-75-0F-C7-87-A8-00-00-00-00-40-9C-45-E9-91-32-BB-FD-C5-FA-11-87-A8-00-00-00-E9-84-32-BB-FD</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>39923FA</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-3D-CD-44-02-90-90-90</ValueOn>
+      <ValueOff>C5-FA-11-87-A8-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="無限生命值 Inf_Hp">
+    <Cheatline>
+      <Offset>85E7F00</Offset>
+      <Section>0</Section>
+      <ValueOn>01</ValueOn>
+      <ValueOff>00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="一擊必殺 One_Hit_Kill">
+    <Cheatline>
+      <Offset>85E7F01</Offset>
+      <Section>0</Section>
+      <ValueOn>01</ValueOn>
+      <ValueOff>00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="無限超必殺技 Inf Super">
+    <Cheatline>
+      <Offset>5DDF19E</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-87-C0-00-00-00-00-00-FA-44-C5-FA-10-87-C0-00-00-00-C5-FA-11-87-C0-00-00-00-E9-F2-63-49-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>42755A7</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-F2-9B-B6-01-90-90-90</ValueOn>
+      <ValueOff>C5-FA-11-87-C0-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="最大連擊命中數 Max Combo Hit">
+    <Cheatline>
+      <Offset>5DDF1DD</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-87-C0-00-00-00-64-00-00-00-E9-60-49-49-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>4273B46</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-92-B6-B6-01-90</ValueOn>
+      <ValueOff>89-B7-C0-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="最大積分 Max Score">
+    <Cheatline>
+      <Offset>5DDF20C</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-87-90-02-00-00-F0-23-74-49-E9-01-B2-F9-FC</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>2D7A414</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-F3-4D-06-03-90-90-90</ValueOn>
+      <ValueOff>C5-FA-11-87-90-02-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

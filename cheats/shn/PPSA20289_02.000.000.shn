@@ -1,0 +1,48 @@
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Kong: Survivor Instinct" Moder="Talixme" Cusa="PPSA20289" Version="02.000.000" Process="eboot.bin">
+    <Genres Name="Action" />
+    <Items />
+    <Cheat Text="无限生命 | Inf Hp">
+        <Cheatline>
+            <Offset>80411DB8</Offset>
+            <Section>0</Section>
+            <ValueOn>90-90-90-90</ValueOn>
+            <ValueOff>44-89-60-20</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="无限道具 | Inf Items" Description="">
+        <Cheatline>
+            <Offset>7FD17000</Offset>
+            <Section>0</Section>
+            <ValueOn>B8-63-00-00-00-42-89-44-E3-10-E9-39-11-BD-02</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+        <Cheatline>
+            <Offset>828E8143</Offset>
+            <Section>0</Section>
+            <ValueOn>E9-B8-EE-42-FD</ValueOn>
+            <ValueOff>42-89-44-E3-10</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="无限医疗包 | Inf Medkits" Description="">
+        <Cheatline>
+            <Offset>7FD1702F</Offset>
+            <Section>0</Section>
+            <ValueOn>44-8B-70-3C-44-89-70-3C-5B-E9-57-97-6F-00</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+        <Cheatline>
+            <Offset>8041078F</Offset>
+            <Section>0</Section>
+            <ValueOn>E9-9B-68-90-FF</ValueOn>
+            <ValueOff>44-89-70-3C-5B</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="无需上弹 | No reload" Description="">
+        <Cheatline>
+            <Offset>80412BD2</Offset>
+            <Section>0</Section>
+            <ValueOn>90-90-90-90</ValueOn>
+            <ValueOff>44-89-78-44</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>

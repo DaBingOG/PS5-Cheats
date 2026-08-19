@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="UP2011-PPSA04181_00-0922527761026563" Moder="Talixme" Cusa="PPSA04181" Version="01.000.002" Process="eboot.bin">
+    <Cheat Text="无限跳跃 | Inf Jumps" Description="">
+        <Cheatline>
+            <Offset>80509753</Offset>
+            <Section>0</Section>
+            <ValueOn>90-90-90-90-90-90-90</ValueOn>
+            <ValueOff>C6-80-CC-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>

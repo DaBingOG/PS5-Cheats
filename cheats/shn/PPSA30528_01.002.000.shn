@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://w3.org" xmlns:xsi="http://w3.org-instance" Game="Red Dead Redemption" Moder="Aigars Uze" Cusa="PPSA30528" Version="01.002.000" Process="eboot.bin">
+  <Genres Name="Action-Adventure" />
+  <Items />
+
+  <Cheat Text="无限耐力 | Infinite Stamina">
+    <Cheatline>
+      <Offset>79E49C</Offset>
+      <Section>0</Section>
+      <ValueOn>90909090</ValueOn>
+      <ValueOff>C5FA5CC1</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="无限生命值 | Infinite Health">
+    <Cheatline>
+      <Offset>721E7C</Offset>
+      <Section>0</Section>
+      <ValueOn>9090909090</ValueOn>
+      <ValueOff>C5FA114320</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="无限弹药（不用换弹） | Infinite Ammo (No Reload)">
+    <Cheatline>
+      <Offset>AD42F1</Offset>
+      <Section>0</Section>
+      <ValueOn>90909090</ValueOn>
+      <ValueOff>C5FA5CC1</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="无限死神之眼 | 0nfinite Dead Eye">
+    <Cheatline>
+      <Offset>C088BB</Offset>
+      <Section>0</Section>
+      <ValueOn>9090909090909090</ValueOn>
+      <ValueOff>C5FA1183C0030000</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

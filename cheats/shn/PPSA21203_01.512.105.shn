@@ -1,0 +1,91 @@
+?<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="The Elder Scrolls IV Oblivion Remastered" Moder="Yharnam" Cusa="PPSA21203" Version="01.512.105" Process="eboot.bin">
+    <Genres Name="RPG" />
+    <Items />
+    <Cheat Text="无敌 | Invincible">
+        <Cheatline>
+            <Section>0</Section>
+            <Offset>6457D80</Offset>
+            <ValueOn>C5-FA-10-45-DC-50-66-0F-7E-C0-85-C0-58-78-04-84-C0-EB-03-48-39-E0-E9-B0-4B-A2-FF</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+        <Cheatline>
+            <Section>0</Section>
+            <Offset>5E7C944</Offset>
+            <ValueOn>E9-37-B4-5D-00-90-90</ValueOn>
+            <ValueOff>C5-FA-10-45-DC-84-C0</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="无限箭矢 | Infi Arrows">
+        <Cheatline>
+            <Section>0</Section>
+            <Offset>5E93BD8</Offset>
+            <ValueOn>45-8D-3E-90</ValueOn>
+            <ValueOff>45-8D-7E-FF</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="无限道具耐久度 | Infi Item Durability">
+        <Cheatline>
+            <Section>0</Section>
+            <Offset>5E4564C</Offset>
+            <ValueOn>90-90-90-90-90</ValueOn>
+            <ValueOff>E8-AF-F9-05-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="负重归零 | Zero Weight">
+        <Cheatline>
+            <Section>0</Section>
+            <Offset>5EB83EE</Offset>
+            <ValueOn>0F-57-C0-90-90</ValueOn>
+            <ValueOff>C5-FA-10-45-D4</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="复制耗材（第二个&掉落 & 获取 999） | Copy Consumables (2nd, Drop & Get 999)">
+        <Cheatline>
+            <Section>0</Section>
+            <Offset>6457E80</Offset>
+            <ValueOn>4C-89-EF-41-BE-E7-03-00-00-45-89-77-08-E9-77-29-A5-FF</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+        <Cheatline>
+            <Section>0</Section>
+            <Offset>5EAA802</Offset>
+            <ValueOn>E9-79-D6-5A-00-90-90</ValueOn>
+            <ValueOff>4C-89-EF-45-01-77-08</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="最大经验 & 最大技能等級 | Max EXP & Max Skill LV">
+        <Cheatline>
+            <Section>0</Section>
+            <Offset>5E86D40</Offset>
+            <ValueOn>90-90-90-90-90</ValueOn>
+            <ValueOff>C5-FA-10-45-DC</ValueOff>
+        </Cheatline>
+        <Cheatline>
+            <Section>0</Section>
+            <Offset>5E86F79</Offset>
+            <ValueOn>41-BC-64-00-00-00</ValueOn>
+            <ValueOff>31-F6-44-8D-60-01</ValueOff>
+        </Cheatline>
+        <Cheatline>
+            <Section>0</Section>
+            <Offset>5E87923</Offset>
+            <ValueOn>C7-83-74-03-00-00-7F-96-18-4B-90-90-90-90-90-90</ValueOn>
+            <ValueOff>C5-FA-58-83-74-03-00-00-C5-FA-11-83-74-03-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="最大金币(出售) | Max Money (On Sell)">
+        <Cheatline>
+            <Section>0</Section>
+            <Offset>6457F80</Offset>
+            <ValueOn>0F-4F-D1-41-01-D6-66-81-FC-50-B3-75-06-41-BE-00-E1-F5-05-E9-5B-31-A5-FF</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+        <Cheatline>
+            <Section>0</Section>
+            <Offset>5EAB0ED</Offset>
+            <ValueOn>E9-8E-CE-5A-00-90</ValueOn>
+            <ValueOff>0F-4F-D1-41-01-D6</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>

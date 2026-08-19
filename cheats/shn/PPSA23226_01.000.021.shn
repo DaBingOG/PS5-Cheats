@@ -1,0 +1,145 @@
+?<?xml version="1.0" encoding="utf-8"?><Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Black Myth Wukong" Moder="Celogamez" Cusa="PPSA23226" Version="01.000.021" Process="eboot.bin">
+    <Genres Name="Action" />
+    <Genres Name="Adventure" />
+    <Genres Name="RPG" />
+    <Items />
+    <Cheat Text="上帝模式 | God Mode">
+        <Cheatline>
+            <Offset>B83223F</Offset>
+            <Section>0</Section>
+            <ValueOn>90-90-90-90-90</ValueOn>
+            <ValueOff>E8-9C-DA-17-00</ValueOff>
+        </Cheatline>
+        <Cheatline>
+            <Offset>118C3D60</Offset>
+            <Section>0</Section>
+            <ValueOn>BE-97-00-00-00-83-7F-10-00-75-06-90-E9-1E-13-11-F8-FF-57-18-E9-16-13-11-F8</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+        <Cheatline>
+            <Offset>99D5087</Offset>
+            <Section>0</Section>
+            <ValueOn>E9-D4-EC-EE-07-90-90-90</ValueOn>
+            <ValueOff>BE-97-00-00-00-FF-57-18</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="无限生命 | Infinite Health">
+        <Cheatline>
+            <Offset>118C3D60</Offset>
+            <Section>0</Section>
+            <ValueOn>BE-97-00-00-00-83-7F-10-00-75-06-90-E9-1E-13-11-F8-FF-57-18-E9-16-13-11-F8</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+        <Cheatline>
+            <Offset>99D5087</Offset>
+            <Section>0</Section>
+            <ValueOn>E9-D4-EC-EE-07-90-90-90</ValueOn>
+            <ValueOff>BE-97-00-00-00-FF-57-18</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="无限体力 | Infinite Stamina">
+        <Cheatline>
+            <Offset>9B84CE3</Offset>
+            <Section>0</Section>
+            <ValueOn>90-90-90</ValueOn>
+            <ValueOff>FF-57-18</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="无限MP（蓝） | Infinite MP">
+        <Cheatline>
+            <Offset>9B84A11</Offset>
+            <Section>0</Section>
+            <ValueOn>90-90-90-90</ValueOn>
+            <ValueOff>66-0F-6E-C0</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="无限蓄力 | Infinite Focus">
+        <Cheatline>
+            <PS5Offset>7D3EA8F-executable[0]-5</PS5Offset>
+            <Section>0</Section>
+            <Offset>9B85571</Offset>
+            <ValueOn>90-90-90-90-90-90-90-90</ValueOn>
+            <ValueOff>66-0F-EF-05-27-5B-8C-09</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="无限葫芦 | Infinite Healing Gourd">
+        <Cheatline>
+            <Offset>9B84FB3</Offset>
+            <Section>0</Section>
+            <ValueOn>B8-63-00-00-00</ValueOn>
+            <ValueOff>44-89-F0-F7-D8</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="无限物品/道具 | Max Items">
+        <Cheatline>
+            <Offset>118C38B0</Offset>
+            <Section>0</Section>
+            <ValueOn>BA-E7-03-00-00-89-51-1C-E9-B4-A3-E3-F6</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+        <Cheatline>
+            <Offset>86FDC6B</Offset>
+            <Section>0</Section>
+            <ValueOn>E9-40-5C-1C-09-90</ValueOn>
+            <ValueOff>8B-50-20-89-51-1C</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="无限法术CD冷却 | Instant Spell Cooldown">
+        <Cheatline>
+            <Offset>9AB6D06</Offset>
+            <Section>0</Section>
+            <ValueOn>F3-0F-5C-C0-90</ValueOn>
+            <ValueOff>F3-0F-5C-45-BC</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="无限变身CD冷却 | Instant Transformation Cooldown">
+        <Cheatline>
+            <Offset>9B8583A</Offset>
+            <Section>0</Section>
+            <ValueOn>90-90-90-90-90</ValueOn>
+            <ValueOff>66-0F-6F-45-C0</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="无限技能点（灵光）（使用时） | Max/Infinite Sparks On Use">
+        <Cheatline>
+            <Offset>118C3DE0</Offset>
+            <Section>0</Section>
+            <ValueOn>8B-50-20-BA-E7-03-00-00-89-51-4C-E9-D7-D5-E4-F6</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+        <Cheatline>
+            <Offset>87113C1</Offset>
+            <Section>0</Section>
+            <ValueOn>E9-1A-2A-1B-09-90</ValueOn>
+            <ValueOff>8B-50-20-89-51-4C</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="灵韵拉满 | Max Will">
+        <Cheatline>
+            <Offset>118C3C40</Offset>
+            <Section>0</Section>
+            <ValueOn>48-8B-50-20-48-C7-C2-7F-96-98-00-48-89-51-20-E9-03-9F-E3-F6</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+        <Cheatline>
+            <Offset>86FDB4F</Offset>
+            <Section>0</Section>
+            <ValueOn>E9-EC-60-1C-09-90-90-90</ValueOn>
+            <ValueOff>48-8B-50-20-48-89-51-20</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="最高经验/等级 | Max XP/Levels">
+        <Cheatline>
+            <Offset>118C3810</Offset>
+            <Section>0</Section>
+            <ValueOn>8B-50-20-BA-7F-96-98-00-89-51-48-E9-6F-DB-E4-F6</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+        <Cheatline>
+            <Offset>8711389</Offset>
+            <Section>0</Section>
+            <ValueOn>E9-82-24-1B-09-90</ValueOn>
+            <ValueOff>8B-50-20-89-51-48</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>

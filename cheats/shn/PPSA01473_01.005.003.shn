@@ -1,0 +1,63 @@
+?<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Ratchet and Clank Rift Apart" Moder="Yharnam" Cusa="PPSA01473" Version="01.005.003" Process="eboot.bin">
+    <Genres Name="Action" />
+    <Items />
+    <Cheat Text="无懈可击 | Untouchable">
+        <Cheatline>
+            <Section>0</Section>
+            <Offset>252C700</Offset>
+            <ValueOn>48-89-DF-4C-89-F6-50-48-8B-06-81-B8-80-00-00-00-01-01-C4-0C-58-75-05-E9-8F-BC-E0-FE-E9-85-BC-E0-FE</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+        <Cheatline>
+            <Section>0</Section>
+            <Offset>13383A0</Offset>
+            <ValueOn>E9-5B-43-1F-01-90</ValueOn>
+            <ValueOff>48-89-DF-4C-89-F6</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="一击必杀 | 1 Hit Kill" Description="Some bosses may prevent game progression if defeated in a single hit.">
+        <Cheatline>
+            <Section>0</Section>
+            <Offset>252C800</Offset>
+            <ValueOn>48-89-DE-4C-89-E7-81-3F-78-72-D4-03-74-0A-C7-87-88-00-00-00-00-00-80-3F-E9-B1-1D-E2-FE</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+        <Cheatline>
+            <Section>0</Section>
+            <Offset>134E5C8</Offset>
+            <ValueOn>E9-33-E2-1D-01-90</ValueOn>
+            <ValueOff>48-89-DE-4C-89-E7</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="无限生命 | Infi Health">
+        <Cheatline>
+            <Section>0</Section>
+            <Offset>252C900</Offset>
+            <ValueOn>81-3B-78-72-D4-03-75-0A-C5-FA-10-93-80-00-00-00-EB-08-C5-FA-5D-93-80-00-00-00-E9-08-64-E5-FE</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+        <Cheatline>
+            <Section>0</Section>
+            <Offset>1382D1F</Offset>
+            <ValueOn>E9-DC-9B-1A-01-90-90-90</ValueOn>
+            <ValueOff>C5-FA-5D-93-80-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="无限弹药 | Infi Ammo">
+        <Cheatline>
+            <Section>0</Section>
+            <Offset>551316</Offset>
+            <ValueOn>C5-FA-5F-C2</ValueOn>
+            <ValueOff>C5-FA-5D-C2</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="最大货币 | Max Money">
+        <Cheatline>
+            <Section>0</Section>
+            <Offset>13C1C07</Offset>
+            <ValueOn>48-89-DF-4C-89-F6-BA-03-00-00-00-44-89-E1-41-C7-47-38-7F-96-98-00</ValueOn>
+            <ValueOff>44-03-68-38-48-89-DF-4C-89-F6-BA-03-00-00-00-44-89-E1-45-89-6F-38</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="UP1003-PPSA01981_00-DOOM05PS50000000" Moder="Talixme" Cusa="PPSA01981" Version="01.011.000" Process="eboot.bin">
+  <Items/>
+  <Cheat Text="无限弹药 | Inf Ammo">
+    <Cheatline>
+      <Offset>2A0B000</Offset>
+      <Section>0</Section>
+      <ValueOn>4C-89-F7-41-8B-46-38-41-89-46-38-E9-AF-A7-A4-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>14557B8</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-43-58-5B-01-90-90</ValueOn>
+      <ValueOff>4C-89-F7-41-89-46-38</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="无限生命&装甲 Inf Hp And Armor">
+    <Cheatline>
+      <Offset>711708</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90</ValueOn>
+      <ValueOff>C4-E3-79-17-00-01</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="无限跳跃 | Inf Jumps">
+    <Cheatline>
+      <Offset>1FF236</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90</ValueOn>
+      <ValueOff>89-83-80-41-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="无限升級点数 Inf Upgrade Points">
+    <Cheatline>
+      <Offset>2A0B030</Offset>
+      <Section>0</Section>
+      <ValueOn>42-C7-84-BF-C4-CA-04-00-63-00-00-00-E9-FA-03-7D-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>11DB433</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-F8-FB-82-01-90-90-90</ValueOn>
+      <ValueOff>42-01-94-BF-C4-CA-04-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

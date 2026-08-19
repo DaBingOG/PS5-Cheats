@@ -1,0 +1,52 @@
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="EP4295-PPSA02801_00-JOEANDMACPS500EU" Moder="Talixme" Cusa="PPSA02801" Version="01.000.003" Process="eboot.bin">
+    <Cheat Text="轻松得分 | Easy Score">
+        <Cheatline>
+            <Offset>7FCCB000</Offset>
+            <Section>0</Section>
+            <ValueOn>41-F7-FD-41-81-46-10-0F-27-00-00-E9-91-B8-3A-01</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+        <Cheatline>
+            <Offset>8107689A</Offset>
+            <Section>0</Section>
+            <ValueOn>E9-61-47-C5-FE-90-90</ValueOn>
+            <ValueOff>41-F7-FD-45-89-7E-10</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="无限生命值 | Inf Hp">
+        <Cheatline>
+            <Offset>7FCCB030</Offset>
+            <Section>0</Section>
+            <ValueOn>C5-FA-10-40-14-C5-FA-11-40-10-E9-FE-69-00-01</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+        <Cheatline>
+            <Offset>80CD1A38</Offset>
+            <Section>0</Section>
+            <ValueOn>E9-F3-95-FF-FE</ValueOn>
+            <ValueOff>C5-FA-11-40-10</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="无限生命数量 | Inf Lives">
+        <Cheatline>
+            <Offset>80CD40F7</Offset>
+            <Section>0</Section>
+            <ValueOn>90-90</ValueOn>
+            <ValueOff>FF-CA</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="无限时间能量 | Inf Time Energy">
+        <Cheatline>
+            <Offset>7FCCB05F</Offset>
+            <Section>0</Section>
+            <ValueOn>C5-FA-10-48-14-C5-FA-11-48-10-E9-BE-82-00-01</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+        <Cheatline>
+            <Offset>80CD3327</Offset>
+            <Section>0</Section>
+            <ValueOn>E9-33-7D-FF-FE</ValueOn>
+            <ValueOff>C5-FA-11-48-10</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>

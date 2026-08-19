@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Game="Assassin's Creed Valhalla" Moder="Aigars Uze" Cusa="PPSA01490" Version="01.070.000" Process="eboot.bin">
+  <Items />
+  <Cheat Text="无限耐力 | Infinite Stamina">
+    <Cheatline>
+      <Offset>444727B</Offset>
+      <Section>0</Section>
+      <ValueOn>C5-F2-5F-C0</ValueOn>
+      <ValueOff>C5-F2-5D-C0</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="最大/无限金币&无限箭矢(使用时) | Max Infinite Money And Max Infinite Arrows on Spend">
+    <Cheatline>
+      <Offset>45FEA1C</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-17-D4-DC-02-90-90</ValueOn>
+      <ValueOff>0F-42-C1-41-89-47-F8</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>73CBE38</Offset>
+      <Section>0</Section>
+      <ValueOn>0F-42-C1-B8-7F-96-98-00-41-89-47-F8-E9-DA-2B-23-FD</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="无限生命 | Infinite Health">
+    <Cheatline>
+      <Offset>3D63721</Offset>
+      <Section>0</Section>
+      <ValueOn>0F-4D-D0</ValueOn>
+      <ValueOff>0F-4E-D0</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="一刀斩 | Enemy One Hit Kill">
+    <Cheatline>
+      <Offset>3D2ECA5</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-E6-D1-69-03-90-90-90-90</ValueOn>
+      <ValueOff>48-89-FB-89-B7-38-01-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>73CBE90</Offset>
+      <Section>0</Section>
+      <ValueOn>48-89-FB-C7-87-38-01-00-00-00-00-00-00-E9-0C-2E-96-FC</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

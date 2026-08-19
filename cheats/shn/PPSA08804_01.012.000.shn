@@ -1,0 +1,18 @@
+?<?xml version="1.0" encoding="utf-8"?><Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Sonic Racing CrossWorlds" Moder="Q8Despair" Cusa="PPSA08804" Version="01.012.000" Process="eboot.bin">
+    <Genres Name="Action" />
+    <Items />
+    <Cheat Text="最大门票（购买时） | Max tickets on buy">
+        <Cheatline>
+            <Section>0</Section>
+            <Offset>54C793E</Offset>
+            <ValueOn>41-C7-46-58-9F-86-01-00-48-83-C4-08-E9-4A-92-F3-FE</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+        <Cheatline>
+            <Section>0</Section>
+            <Offset>4400B91</Offset>
+            <ValueOn>E9-A8-6D-0C-01-90-90-90</ValueOn>
+            <ValueOff>41-89-46-58-48-83-C4-08</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>

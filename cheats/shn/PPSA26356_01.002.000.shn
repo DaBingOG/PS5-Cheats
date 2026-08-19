@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Game="BUBBLE BOBBLE Sugar Dungeons" Moder="Talixme" Cusa="PPSA26356" Version="01.002.000" Process="eboot.bin">
+    <Cheat Text="无敌模式 | God Mode">
+        <Cheatline>
+            <Section>0</Section>
+            <Offset>800484E0</Offset>
+            <ValueOn>C3909090909090</ValueOn>
+            <ValueOff>80BFA200000000</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="无限基地道具 | Inf Hab Items">
+        <Cheatline>
+            <Section>0</Section>
+            <Offset>800C4CA0</Offset>
+            <ValueOn>909090</ValueOn>
+            <ValueOff>FF4814</ValueOff>
+        </Cheatline>
+        <Cheatline>
+            <Section>0</Section>
+            <Offset>7FD17000</Offset>
+            <ValueOn>8B481889481885C9E9F87C3600</ValueOn>
+            <ValueOff>00000000000000000000000000</ValueOff>
+        </Cheatline>
+        <Cheatline>
+            <Section>0</Section>
+            <Offset>8007ED00</Offset>
+            <ValueOn>E9FB82C9FF</ValueOn>
+            <ValueOff>89481885C9</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="无限道具 | Inf Items">
+        <Cheatline>
+            <Section>0</Section>
+            <Offset>7FD1702D</Offset>
+            <ValueOn>B90F2700008948144883C408E9C36E3600</ValueOn>
+            <ValueOff>0000000000000000000000000000000000</ValueOff>
+        </Cheatline>
+        <Cheatline>
+            <Section>0</Section>
+            <Offset>8007DEFA</Offset>
+            <ValueOn>E92E91C9FF9090</ValueOn>
+            <ValueOff>8948144883C408</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="时间停止 | Stop Timer">
+        <Cheatline>
+            <Section>0</Section>
+            <Offset>7FD1705E</Offset>
+            <ValueOn>C5FA10434CC5FA11434CE92B1A4100</ValueOn>
+            <ValueOff>000000000000000000000000000000</ValueOff>
+        </Cheatline>
+        <Cheatline>
+            <Section>0</Section>
+            <Offset>80128A93</Offset>
+            <ValueOn>E9C6E5BEFF</ValueOn>
+            <ValueOff>C5FA11434C</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>

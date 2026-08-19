@@ -1,0 +1,18 @@
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="EB0757-PPSA20548_00-0286086241569047" Moder="Talixme" Cusa="PPSA20548" Version="01.003.001" Process="eboot.bin">
+    <Cheat Text="无法被监听 | Cant Hear You">
+        <Cheatline>
+            <Offset>3BC47CE</Offset>
+            <Section>0</Section>
+            <ValueOn>90-90-90-90-90-90-90</ValueOn>
+            <ValueOff>C4-C1-7A-11-44-24-18</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="无法被监视 | Cant See You">
+        <Cheatline>
+            <Offset>3BD4214</Offset>
+            <Section>0</Section>
+            <ValueOn>90-90-90-90-90</ValueOn>
+            <ValueOff>C5-FA-11-48-78</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>

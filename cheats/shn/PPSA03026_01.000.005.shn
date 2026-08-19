@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Game="The Forgotten City" Moder="User" Cusa="PPSA03026" Version="01.000.005" Process="eboot.bin">
+    <Cheat Text="获得更多道具 | Alot of items on gain">
+        <Cheatline>
+            <Section>0</Section>
+            <Offset>4F6BB00</Offset>
+            <ValueOn>4C8D7C010841C7073F420F00E9EA4CD1FB</ValueOn>
+            <ValueOff>4C8D7C010841C7073F420F00E9EA4CD1FB</ValueOff>
+        </Cheatline>
+        <Cheatline>
+            <Section>0</Section>
+            <Offset>C807F3</Offset>
+            <ValueOn>E908B32E04909090</ValueOn>
+            <ValueOff>4C8D7C0108450137</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="无限呼吸 | Infinite Breath">
+        <Cheatline>
+            <Section>0</Section>
+            <Offset>4F6BB31</Offset>
+            <ValueOn>41C78424180500000000F042E91F8ACCFB</ValueOn>
+            <ValueOff>41C78424180500000000F042E91F8ACCFB</ValueOff>
+        </Cheatline>
+        <Cheatline>
+            <Section>0</Section>
+            <Offset>C34557</Offset>
+            <ValueOn>E9D57533049090909090</ValueOn>
+            <ValueOff>C4C17A118C2418050000</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="无限生命 | infinite_Health">
+        <Cheatline>
+            <Section>0</Section>
+            <Offset>4F6BB62</Offset>
+            <ValueOn>41C7862805000000004843E9017FCCFB</ValueOn>
+            <ValueOff>41C7862805000000004843E9017FCCFB</ValueOff>
+        </Cheatline>
+        <Cheatline>
+            <Section>0</Section>
+            <Offset>C33A6A</Offset>
+            <ValueOn>E9F380330490909090</ValueOn>
+            <ValueOff>C4C17A118628050000</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="无限物品 | infinite_item_use">
+        <Cheatline>
+            <Section>0</Section>
+            <Offset>4F6BB92</Offset>
+            <ValueOn>488D440108C7009F860100E9BA54D1FB</ValueOn>
+            <ValueOff>488D440108C7009F860100E9BA54D1FB</ValueOff>
+        </Cheatline>
+        <Cheatline>
+            <Section>0</Section>
+            <Offset>C81055</Offset>
+            <ValueOn>E938AB2E049090</ValueOn>
+            <ValueOff>488D4401088910</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>

@@ -1,0 +1,44 @@
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="EP0114-PPSA08427_00-KF3GAME000000001" Moder="Talixme" Cusa="PPSA08427" Version="02.006.000" Process="eboot.bin">
+    <Cheat Text="无限生命 | Inf Hp Items">
+        <Cheatline>
+            <Offset>6F1302C</Offset>
+            <Section>0</Section>
+            <ValueOn>C5-FA-10-47-08-C5-FA-11-47-08-C5-FA-11-47-0C-E9-59-79-AD-FC</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+        <Cheatline>
+            <Offset>39EA994</Offset>
+            <Section>0</Section>
+            <ValueOn>E9-93-86-52-03</ValueOn>
+            <ValueOff>C5-FA-11-47-08</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="无限铠甲 | Inf Armor">
+        <Cheatline>
+            <Offset>6F13060</Offset>
+            <Section>0</Section>
+            <ValueOn>C5-FA-10-47-0C-C5-FA-11-47-0C-E9-1A-79-AD-FC</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+        <Cheatline>
+            <Offset>39EA984</Offset>
+            <Section>0</Section>
+            <ValueOn>E9-D7-86-52-03</ValueOn>
+            <ValueOff>C5-FA-11-47-0C</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="无限金钱 | Inf Money" Description="">
+        <Cheatline>
+            <Offset>6F1308F</Offset>
+            <Section>0</Section>
+            <ValueOn>C7-87-A8-07-00-00-7F-96-18-4B-C5-FA-10-8F-A8-07-00-00-C5-FA-11-8F-A8-07-00-00-E9-7F-A3-DF-FD</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+        <Cheatline>
+            <Offset>4D0D425</Offset>
+            <Section>0</Section>
+            <ValueOn>E9-65-5C-20-02-90-90-90</ValueOn>
+            <ValueOff>C5-FA-11-8F-A8-07-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>

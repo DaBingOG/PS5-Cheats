@@ -1,0 +1,113 @@
+?<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Nioh 3" Moder="Yharnam" Cusa="PPSA32786" Version="01.040.020" Process="eboot.bin">
+    <Genres Name="Action" />
+    <Items />
+    <Cheat Text="无限生命 | Infi Health">
+        <Cheatline>
+            <Section>0</Section>
+            <Offset>4846480</Offset>
+            <ValueOn>81-7F-30-B8-01-00-00-74-0B-81-7F-30-51-0C-00-00-74-02-75-05-BE-3F-42-0F-00-48-89-77-20-48-39-F0-E9-8A-18-A8-FB</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+        <Cheatline>
+            <Section>0</Section>
+            <Offset>2C7D28</Offset>
+            <ValueOn>E9-53-E7-57-04-90-90</ValueOn>
+            <ValueOff>48-89-77-20-48-39-F0</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="一刀斩 | 1 Hit Kill" Description="Disable during the initial tutorial. May prevent game progression.">
+        <Cheatline>
+            <Section>0</Section>
+            <Offset>4846580</Offset>
+            <ValueOn>81-78-30-B8-01-00-00-74-2D-81-78-30-51-0C-00-00-74-24-C7-85-F0-F2-FF-FF-00-50-43-47-C7-85-A0-F2-FF-FF-00-50-43-47-C5-F8-28-A5-F0-F2-FF-FF-C5-F8-28-AD-A0-F2-FF-FF-49-8B-4D-00-31-C0-E9-4D-4B-A3-FC</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+        <Cheatline>
+            <Section>0</Section>
+            <Offset>127B108</Offset>
+            <ValueOn>E9-73-B4-5C-03-90</ValueOn>
+            <ValueOff>49-8B-4D-00-31-C0</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="无限耐力 | Infi Stamina">
+        <Cheatline>
+            <Section>0</Section>
+            <Offset>2C0258</Offset>
+            <ValueOn>C5-FA-11-57-14</ValueOn>
+            <ValueOff>C5-FA-11-5F-14</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="无限大招能量条 | Infi Arts Gauge" Description="Disable during the initial tutorial.">
+        <Cheatline>
+            <Section>0</Section>
+            <Offset>14C44DB</Offset>
+            <ValueOn>0F-28-C4-90-90-90</ValueOn>
+            <ValueOff>C4-E3-69-4A-C4-10</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="无限守护灵能量 | Infi Guardian Spirit">
+        <Cheatline>
+            <Section>0</Section>
+            <Offset>B78761</Offset>
+            <ValueOn>F3-0F-2A-47-18-0F-28-C8-90</ValueOn>
+            <ValueOff>C5-FA-10-47-14-C5-F2-2A-CE</ValueOff>
+        </Cheatline>
+        <Cheatline>
+            <Section>0</Section>
+            <Offset>4347DC</Offset>
+            <ValueOn>C4-C1-7A-11-97-90-01-00-00</ValueOn>
+            <ValueOff>C4-C1-7A-11-8F-90-01-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="无限灵力 | Infi Spirit Force">
+        <Cheatline>
+            <Section>0</Section>
+            <Offset>14AE75B</Offset>
+            <ValueOn>C5-FA-11-8B-D0-01-00-00</ValueOn>
+            <ValueOff>C5-FA-11-A3-D0-01-00-00</ValueOff>
+        </Cheatline>
+        <Cheatline>
+            <Section>0</Section>
+            <Offset>ECF60C</Offset>
+            <ValueOn>0F-28-C3-90-90-90</ValueOn>
+            <ValueOff>C4-E3-79-4A-C2-50</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="无限道具 | Infi Items">
+        <Cheatline>
+            <Section>0</Section>
+            <Offset>16A377D</Offset>
+            <ValueOn>90-90-90</ValueOn>
+            <ValueOff>45-29-EC</ValueOff>
+        </Cheatline>
+        <Cheatline>
+            <Section>0</Section>
+            <Offset>14C9603</Offset>
+            <ValueOn>C5-FA-11-51-14</ValueOn>
+            <ValueOff>C5-FA-11-49-14</ValueOff>
+        </Cheatline>
+        <Cheatline>
+            <Section>0</Section>
+            <Offset>16A3C01</Offset>
+            <ValueOn>90-90-90</ValueOn>
+            <ValueOff>41-29-C7</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="最大灵能精华（获取时） | Max Amrita (On Get)">
+        <Cheatline>
+            <Section>0</Section>
+            <Offset>CF9D10</Offset>
+            <ValueOn>4C-89-47-10</ValueOn>
+            <ValueOff>48-89-4F-10</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="最大金币（获取时） | Max Money (On Get)">
+        <Cheatline>
+            <Section>0</Section>
+            <Offset>B2710B</Offset>
+            <ValueOn>48-C7-C1-FF-C9-9A-3B-48-8D-47-18</ValueOn>
+            <ValueOff>48-8B-4F-18-48-8D-47-18-48-01-F1</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>

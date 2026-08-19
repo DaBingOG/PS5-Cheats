@@ -1,0 +1,84 @@
+?<?xml version="1.0" encoding="utf-8"?><Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Dying Light 2 Stay Human" Moder="Wander" Cusa="PPSA02262" Version="01.054.000" Process="eboot.bin">
+    <Genres Name="Action" />
+    <Items />
+    <Cheat Text="无限生命 | Infinite Health">
+        <Cheatline>
+            <PS5Offset>100-executable[0]-5</PS5Offset>
+            <Section>0</Section>
+            <Offset>557BF00</Offset>
+            <ValueOn>80-BF-54-01-00-00-03-75-0C-C7-47-04-00-00-FA-43-E9-3A-70-86-FD-C5-FA-11-47-04-E9-30-70-86-FD</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+        <Cheatline>
+            <PS5Offset>27990B6-executable[0]-5</PS5Offset>
+            <Section>0</Section>
+            <Offset>2DE2F4A</Offset>
+            <ValueOn>E9-B1-8F-79-02</ValueOn>
+            <ValueOff>C5-FA-11-47-04</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="无限耐力 | Infinite Stamina">
+        <Cheatline>
+            <PS5Offset>3E0-executable[0]-5</PS5Offset>
+            <Section>0</Section>
+            <Offset>557BC20</Offset>
+            <ValueOn>C7-43-10-00-00-80-40-E9-81-3E-B0-FE</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+        <Cheatline>
+            <PS5Offset>14FC558-executable[0]-5</PS5Offset>
+            <Section>0</Section>
+            <Offset>407FAA8</Offset>
+            <ValueOn>E9-73-C1-4F-01</ValueOn>
+            <ValueOff>C5-FA-11-43-10</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="最高等级跑酷/战斗/传奇等级 | Max Level Parkour/Combats/Legend level " Description="only use after finiqhing Dr Waltz mission">
+        <Cheatline>
+            <PS5Offset>4E0-executable[0]-5</PS5Offset>
+            <Section>0</Section>
+            <Offset>557BB20</Offset>
+            <ValueOn>48-C7-43-18-FF-E0-F5-05-48-85-FF-E9-2E-F9-CC-FE</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+        <Cheatline>
+            <PS5Offset>1330BA9-executable[0]-5</PS5Offset>
+            <Section>0</Section>
+            <Offset>424B457</Offset>
+            <ValueOn>E9-C4-06-33-01-90-90</ValueOn>
+            <ValueOff>48-89-7B-18-48-85-FF</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="最大货币 | Max Money " Description="after selling">
+        <Cheatline>
+            <PS5Offset>5B0-executable[0]-5</PS5Offset>
+            <Section>0</Section>
+            <Offset>557BA50</Offset>
+            <ValueOn>C7-47-34-3F-42-0F-00-E8-44-68-A7-FE-E9-12-67-A7-FE</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+        <Cheatline>
+            <PS5Offset>1589E95-executable[0]-5</PS5Offset>
+            <Section>0</Section>
+            <Offset>3FF216B</Offset>
+            <ValueOn>E9-E0-98-58-01-90-90-90</ValueOn>
+            <ValueOff>89-57-34-E8-2D-01-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="无限武器耐久度 | Infinite Weapon Durability">
+        <Cheatline>
+            <PS5Offset>840-executable[0]-5</PS5Offset>
+            <Section>0</Section>
+            <Offset>557B7C0</Offset>
+            <ValueOn>C7-83-A8-00-00-00-00-00-FA-43-E9-1E-39-70-FE</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+        <Cheatline>
+            <PS5Offset>18FCF1B-executable[0]-5</PS5Offset>
+            <Section>0</Section>
+            <Offset>3C7F0E5</Offset>
+            <ValueOn>E9-D6-C6-8F-01-90-90-90</ValueOn>
+            <ValueOff>C5-FA-11-83-A8-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>

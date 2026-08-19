@@ -1,0 +1,24 @@
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="EP4295-PPSA23885_00-LBATWINSENPS50EU" Moder="Talixme" Cusa="PPSA23885" Version="01.000.000" Process="eboot.bin">
+    <Cheat Text="无限生命数量 | Inf Lives">
+        <Cheatline>
+            <Offset>80102B7A</Offset>
+            <Section>0</Section>
+            <ValueOn>90-90-90</ValueOn>
+            <ValueOff>FF-48-44</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="无限金币 | Inf Coins" Description="">
+        <Cheatline>
+            <Offset>7FD17000</Offset>
+            <Section>0</Section>
+            <ValueOn>BB-0F-27-00-00-89-58-38-49-8B-3E-E9-88-CE-3E-00</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+        <Cheatline>
+            <Offset>80103E92</Offset>
+            <Section>0</Section>
+            <ValueOn>E9-69-31-C1-FF-90</ValueOn>
+            <ValueOff>01-58-38-49-8B-3E</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>

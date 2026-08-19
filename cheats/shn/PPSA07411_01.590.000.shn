@@ -1,0 +1,204 @@
+?<?xml version="1.0" encoding="utf-8"?><Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Resident Evil 4 Remake" Moder="Celogamez" Cusa="PPSA07411" Version="01.590.000" Process="eboot.bin">
+    <Genres Name="Action" />
+    <Genres Name="Adventure" />
+    <Genres Name="Horror" />
+    <Items />
+    <Cheat Text="上帝模式 | God Mode">
+        <Cheatline>
+            <Offset>493D0A7</Offset>
+            <Section>0</Section>
+            <ValueOn>90-90-90-90-90</ValueOn>
+            <ValueOff>E8-A4-83-17-FF</ValueOff>
+        </Cheatline>
+        <Cheatline>
+            <Offset>2138B4D</Offset>
+            <Section>0</Section>
+            <ValueOn>90-90-90-90-90</ValueOn>
+            <ValueOff>E8-FE-C8-97-01</ValueOff>
+        </Cheatline>
+        <Cheatline>
+            <Offset>50C2B78</Offset>
+            <Section>0</Section>
+            <ValueOn>90-90-90-90-90</ValueOn>
+            <ValueOff>E8-C3-68-CA-FF</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="上帝模式-碍事梨 | God Mode Ashley">
+        <Cheatline>
+            <Offset>50C2B78</Offset>
+            <Section>0</Section>
+            <ValueOn>90-90-90-90-90</ValueOn>
+            <ValueOff>E8-C3-68-CA-FF</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="无限子弹/制作/道具使用 | Infinite Ammo/Crafting/Items Usage">
+        <Cheatline>
+            <Offset>21BD3E6</Offset>
+            <Section>0</Section>
+            <ValueOn>90-90-90</ValueOn>
+            <ValueOff>89-48-34</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="无需换弹 | No Reload">
+        <Cheatline>
+            <Offset>21C35FE</Offset>
+            <Section>0</Section>
+            <ValueOn>90-90-90-90-90</ValueOn>
+            <ValueOff>E8-AD-FB-9F-01</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="最佳瞄准 | Perfect Aim">
+        <Cheatline>
+            <Offset>70F6EB</Offset>
+            <Section>0</Section>
+            <ValueOn>C5-FA-10-D2</ValueOn>
+            <ValueOff>C5-FA-5D-D2</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="无限手雷 | Infinite Grenades">
+        <Cheatline>
+            <Offset>21C366C</Offset>
+            <Section>0</Section>
+            <ValueOn>FF-C0-90</ValueOn>
+            <ValueOff>0F-4C-C2</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="无限小刀耐久度 | Infinite Knife Durability">
+        <Cheatline>
+            <Offset>31D7069</Offset>
+            <Section>0</Section>
+            <ValueOn>45-89-6F-30</ValueOn>
+            <ValueOff>45-89-67-30</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="船只不会损坏 | No Damage For Boat">
+        <Cheatline>
+            <Offset>ADCF9E0</Offset>
+            <Section>0</Section>
+            <ValueOn>41-C7-85-E0-01-00-00-58-02-00-00-E9-6E-02-6F-FA</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+        <Cheatline>
+            <Offset>54BFC57</Offset>
+            <Section>0</Section>
+            <ValueOn>E9-84-FD-90-05-90-90</ValueOn>
+            <ValueOff>41-89-8D-E0-01-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="马车不会损坏 | No Damage For Wagon">
+        <Cheatline>
+            <Offset>31BE7CE</Offset>
+            <Section>0</Section>
+            <ValueOn>EB-7A</ValueOn>
+            <ValueOff>74-7A</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="起重机不会损坏 | No Damage For Crane">
+        <Cheatline>
+            <Offset>8BCB820</Offset>
+            <Section>0</Section>
+            <ValueOn>90-E9-58-12-05-FB</ValueOn>
+            <ValueOff>00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+        <Cheatline>
+            <Offset>3C1CA75</Offset>
+            <Section>0</Section>
+            <ValueOn>E9-A6-ED-FA-04-90-90-90-90</ValueOn>
+            <ValueOff>C4-C1-7A-11-86-94-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="无限尖晶石（进入交易界面生效） | Infinite spinels (Enter the trade)">
+        <Cheatline>
+            <Offset>ADCFAB0</Offset>
+            <Section>0</Section>
+            <ValueOn>C7-41-20-E7-03-00-00-48-8B-40-58-8B-49-20-E9-0D-70-05-F7</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+        <Cheatline>
+            <Offset>1E26AC9</Offset>
+            <Section>0</Section>
+            <ValueOn>E9-E2-8F-FA-08-90-90</ValueOn>
+            <ValueOff>48-8B-40-58-8B-49-20</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="最大/无限比塞塔（拾取生效） | Max/Infinite Pesetas On Pick Up">
+        <Cheatline>
+            <Offset>ADCFC00</Offset>
+            <Section>0</Section>
+            <ValueOn>41-C7-44-24-10-FF-C9-9A-3B-E9-F8-9B-9D-F7</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+        <Cheatline>
+            <Offset>27A9801</Offset>
+            <Section>0</Section>
+            <ValueOn>E9-FA-63-62-08</ValueOn>
+            <ValueOff>41-89-44-24-10</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="最大/无限CP点数 | Max/Infinite CP">
+        <Cheatline>
+            <Offset>ADCF7A0</Offset>
+            <Section>0</Section>
+            <ValueOn>41-C7-86-A8-00-00-00-3F-42-0F-00-41-8B-86-A8-00-00-00-E9-80-91-A0-F8</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+        <Cheatline>
+            <Offset>37D8930</Offset>
+            <Section>0</Section>
+            <ValueOn>E9-6B-6E-5F-07-90-90</ValueOn>
+            <ValueOff>45-89-A6-A8-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="存档次数量归零 | Save always 0">
+        <Cheatline>
+            <Offset>ADCFA40</Offset>
+            <Section>0</Section>
+            <ValueOn>44-0F-4D-E8-41-BD-00-00-00-00-44-89-6B-4C-E9-F7-F7-95-FB</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+        <Cheatline>
+            <Offset>672F242</Offset>
+            <Section>0</Section>
+            <ValueOn>E9-F9-07-6A-04-90-90-90</ValueOn>
+            <ValueOff>44-0F-4D-E8-44-89-6B-4C</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="时间停止 | Stop Story Time">
+        <Cheatline>
+            <Offset>2CF23F2</Offset>
+            <Section>0</Section>
+            <ValueOn>E9-CF-00-00-00-90</ValueOn>
+            <ValueOff>0F-84-CE-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="时间停止（雇佣兵模式） | Stop Time (Mercenaries)">
+        <Cheatline>
+            <Offset>558A029</Offset>
+            <Section>0</Section>
+            <ValueOn>90-90-90-90-90-90</ValueOn>
+            <ValueOff>C4-C1-7A-11-47-18</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="立即进入最大狂暴模式（雇佣兵模式） | Instant Max Mayhen Mode (Mercenaries">
+        <Cheatline>
+            <Offset>ADCFAF0</Offset>
+            <Section>0</Section>
+            <ValueOn>8B-50-34-89-50-14-C5-FA-2A-40-14-E9-5E-96-EA-F8</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+        <Cheatline>
+            <Offset>3C79159</Offset>
+            <Section>0</Section>
+            <ValueOn>E9-92-69-15-07</ValueOn>
+            <ValueOff>C5-FA-2A-40-14</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="无限狂暴模式（雇佣兵模式） | Infinite Mayhen Mode (Mercenaries)">
+        <Cheatline>
+            <Offset>5EB9695</Offset>
+            <Section>0</Section>
+            <ValueOn>C4-C1-7A-10-47-20</ValueOn>
+            <ValueOff>C4-C1-7A-11-47-20</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>

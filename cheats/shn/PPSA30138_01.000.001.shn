@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Game="Fast Furious: Arcade Edition" Moder="User" Cusa="PPSA30138" Version="01.000.001" Process="eboot.bin">
+    <Cheat Text="时间停止 | Stop Timer">
+        <Cheatline>
+            <Section>0</Section>
+            <Offset>80303DDD</Offset>
+            <ValueOn>9090909090</ValueOn>
+            <ValueOff>C5FA114334</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="无限氮气 | Inf Nitro">
+        <Cheatline>
+            <Section>0</Section>
+            <Offset>80682A9F</Offset>
+            <ValueOn>9090</ValueOn>
+            <ValueOff>FFC8</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="永远第一名 | Allways Win 1st Place">
+        <Cheatline>
+            <Section>0</Section>
+            <Offset>807E63D9</Offset>
+            <ValueOn>9090</ValueOn>
+            <ValueOff>75DC</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>

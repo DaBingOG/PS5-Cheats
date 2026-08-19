@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="EP4040-PPSA26311_00-0000BLADESOFFIRE" Moder="Talixme" Cusa="PPSA26311" Version="01.004.001" Process="eboot.bin">
+  <Items/>
+  <Cheat Text="主代碼(使用金手指必須開啟) Master Code">
+    <Cheatline>
+      <Offset>2047F00</Offset>
+      <Section>0</Section>
+      <ValueOn>00</ValueOn>
+      <ValueOff>00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>2047F01</Offset>
+      <Section>0</Section>
+      <ValueOn>00</ValueOn>
+      <ValueOff>00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>2047F02</Offset>
+      <Section>0</Section>
+      <ValueOn>00</ValueOn>
+      <ValueOff>00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>180F000</Offset>
+      <Section>0</Section>
+      <ValueOn>81-7B-30-90-52-82-0C-74-17-81-7B-80-90-52-82-0C-74-26-81-BB-D0-FE-FF-FF-90-52-82-0C-74-32-EB-32-80-3D-D9-8E-83-00-01-75-3E-C5-FA-10-43-64-C5-FA-11-43-4C-E9-1E-EE-6B-FF-80-3D-C2-8E-83-00-01-75-26-C5-FA-10-43-4C-C5-FA-11-43-4C-E9-06-EE-6B-FF-EB-15-80-3D-A9-8E-83-00-01-75-0C-C7-43-4C-00-00-00-00-E9-EF-ED-6B-FF-C5-FA-11-43-4C-E9-E5-ED-6B-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>ECDE51</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-AA-11-94-00</ValueOn>
+      <ValueOff>C5-FA-11-43-4C</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="無限生命值 Inf_Hp">
+    <Cheatline>
+      <Offset>2047F00</Offset>
+      <Section>0</Section>
+      <ValueOn>01</ValueOn>
+      <ValueOff>00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="無限耐力 Inf_Stamina">
+    <Cheatline>
+      <Offset>2047F01</Offset>
+      <Section>0</Section>
+      <ValueOn>01</ValueOn>
+      <ValueOff>00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="一擊必殺 One_Hit_Kill">
+    <Cheatline>
+      <Offset>2047F02</Offset>
+      <Section>0</Section>
+      <ValueOn>01</ValueOn>
+      <ValueOff>00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="無限材料和物品 Inf Materials and Items">
+    <Cheatline>
+      <Offset>180F091</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-43-10-00-3C-1C-46-C5-FA-10-43-10-C5-FA-11-43-10-E9-5E-7E-82-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>1036F00</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-8C-81-7D-00</ValueOn>
+      <ValueOff>C5-FA-11-43-10</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="無限武器耐久度 Inf Weapons Durability">
+    <Cheatline>
+      <Offset>180F0C7</Offset>
+      <Section>0</Section>
+      <ValueOn>C5-FA-10-8B-A8-00-00-00-C5-FA-11-8B-A8-00-00-00-E9-4C-70-B2-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>336120</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-A2-8F-4D-01-90-90-90</ValueOn>
+      <ValueOff>C5-FA-11-8B-A8-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

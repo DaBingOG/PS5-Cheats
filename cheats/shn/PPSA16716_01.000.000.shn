@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="EP4295-PPSA16716_00-SMURFS2PS50000EU" Moder="Talixme" Cusa="PPSA16716" Version="01.000.000" Process="eboot.bin">
+  <Items/>
+  <Cheat Text="无限生命 | Inf Hp">
+    <Cheatline>
+      <Offset>7FCC7000</Offset>
+      <Section>0</Section>
+      <ValueOn>66-41-83-BD-A4-01-00-00-14-0F-84-33-D0-28-81-41-89-BD-8C-01-00-00-E9-27-D0-28-81</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>F5403B</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-C0-2F-D7-7E-90-90</ValueOn>
+      <ValueOff>41-89-BD-8C-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="无限石头 | Inf Stones">
+    <Cheatline>
+      <Offset>7FCC703B</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-83-20-03-00-00-F0-23-74-49-C5-FA-10-8B-20-03-00-00-C5-FA-11-8B-20-03-00-00-C5-FA-11-8B-24-03-00-00-E9-03-AD-23-81</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>F01D5D</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-D9-52-DC-7E-90-90-90</ValueOn>
+      <ValueOff>C5-FA-11-8B-20-03-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="无限跳跃 | Inf Jumps">
+    <Cheatline>
+      <Offset>7FCC7082</Offset>
+      <Section>0</Section>
+      <ValueOn>41-83-BF-C4-00-00-00-01-74-0C-41-FF-8F-C4-00-00-00-E9-C7-68-26-81-41-C7-87-C4-00-00-00-02-00-00-00-E9-B7-68-26-81</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>F2D958</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-25-97-D9-7E-90-90</ValueOn>
+      <ValueOff>41-FF-8F-C4-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

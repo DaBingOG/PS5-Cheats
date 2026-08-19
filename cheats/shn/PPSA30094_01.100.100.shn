@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="High on Life 2" Moder="Yharnam" Cusa="PPSA30094" Version="01.100.100" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Items />
+  <Cheat Text="一击必杀（与Reptical Boss战斗时、MurderCon场景中Brutus出现之前必须关闭） | 1 Hit Kill">
+    <Cheatline>      
+      <Section>0</Section>
+      <Offset>6FF18C0</Offset>
+      <ValueOn>83-7B-60-00-74-07-C7-45-BC-00-24-F4-48-C5-FA-10-45-BC-E9-27-91-D6-FD</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>       					
+    <Cheatline>      
+      <Section>0</Section>
+      <Offset>4D5A9F9</Offset>
+      <ValueOn>E9-C2-6E-29-02</ValueOn>
+      <ValueOff>C5-FA-10-45-BC</ValueOff>
+    </Cheatline>       						
+  </Cheat>      
+  <Cheat Text="无限生命 | Infi Health">
+    <Cheatline>      
+      <Section>0</Section>
+      <Offset>6FF19C0</Offset>
+      <ValueOn>83-7B-60-00-75-05-C5-FA-10-43-74-C5-FA-11-43-6C-E9-53-91-D6-FD</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>       					
+    <Cheatline>      
+      <Section>0</Section>
+      <Offset>4D5AB23</Offset>
+      <ValueOn>E9-98-6E-29-02</ValueOn>
+      <ValueOff>C5-FA-11-43-6C</ValueOff>
+    </Cheatline>       						
+  </Cheat>               
+  <Cheat Text="无限弹药 | Infi Ammo">
+    <Cheatline>      
+      <Section>0</Section>
+      <Offset>3E62973</Offset>
+      <ValueOn>90-90-90-90-90</ValueOn>
+      <ValueOff>E8-68-87-FF-FF</ValueOff>
+    </Cheatline>  				
+  </Cheat>         
+  <Cheat Text="最大金币 | Max Money">
+    <Cheatline>      
+      <Section>0</Section>
+      <Offset>4D74F47</Offset>
+      <ValueOn>B9-3F-42-0F-00</ValueOn>
+      <ValueOff>C4-C2-78-F2-CA</ValueOff>
+    </Cheatline>  				
+  </Cheat>           
+</Trainer>

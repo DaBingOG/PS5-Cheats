@@ -1,0 +1,85 @@
+?<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Horizon Zero Dawn Remastered" Moder="Yharnam" Cusa="PPSA13428" Version="01.008.001" Process="eboot.bin">
+    <Genres Name="Action" />
+    <Items />
+    <Cheat Text="无懈可击 | Untouchable">
+        <Cheatline>
+            <Section>0</Section>
+            <Offset>1E74F00</Offset>
+            <ValueOn>81-BF-94-00-00-00-7C-AB-08-3D-74-02-FF-D0-48-85-DB-E9-4D-DC-F5-FE</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+        <Cheatline>
+            <Section>0</Section>
+            <Offset>DD2B5E</Offset>
+            <ValueOn>E9-9D-23-0A-01</ValueOn>
+            <ValueOff>FF-D0-48-85-DB</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="一击必杀 | 1 Hit Kill" Description="Note! Affects everyone except the player.">
+        <Cheatline>
+            <Section>0</Section>
+            <Offset>1E75000</Offset>
+            <ValueOn>C4-C1-7A-58-86-A8-00-00-00-48-83-F9-13-74-03-0F-57-C9-E9-07-FD-00-FF</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+        <Cheatline>
+            <Section>0</Section>
+            <Offset>E84D15</Offset>
+            <ValueOn>E9-E6-02-FF-00-90-90-90-90</ValueOn>
+            <ValueOff>C4-C1-7A-58-86-A8-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="无限生命 | Infi Health">
+        <Cheatline>
+            <Section>0</Section>
+            <Offset>1E75100</Offset>
+            <ValueOn>48-83-F9-13-75-06-C4-C1-7A-10-47-68-C4-C1-7A-11-47-64-E9-4C-FC-00-FF</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+        <Cheatline>
+            <Section>0</Section>
+            <Offset>E84D5D</Offset>
+            <ValueOn>E9-9E-03-FF-00-90</ValueOn>
+            <ValueOff>C4-C1-7A-11-47-64</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="无限物品（不减少） | Infi Items (No Decrease)">
+        <Cheatline>
+            <Section>0</Section>
+            <Offset>13FB298</Offset>
+            <ValueOn>90-90</ValueOn>
+            <ValueOff>29-D8</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="无限瞄准专注 | Infi Aim Focus">
+        <Cheatline>
+            <Section>0</Section>
+            <Offset>1BA897A</Offset>
+            <ValueOn>0F-28-C1-90</ValueOn>
+            <ValueOff>C5-F2-5C-C0</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="无限氧气 | Infi Air">
+        <Cheatline>
+            <Section>0</Section>
+            <Offset>1A11B5C</Offset>
+            <ValueOn>C5-F2-58-C3</ValueOn>
+            <ValueOff>C5-F2-5C-C3</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="无限技能点 | Infi Skill Points">
+        <Cheatline>
+            <Section>0</Section>
+            <Offset>1E75200</Offset>
+            <ValueOn>41-C7-45-64-E7-03-00-00-4C-89-EF-E9-C3-6E-C8-FF</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+        <Cheatline>
+            <Section>0</Section>
+            <Offset>1AFC0CC</Offset>
+            <ValueOn>E9-2F-91-37-00-90-90</ValueOn>
+            <ValueOff>41-29-45-64-4C-89-EF</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>

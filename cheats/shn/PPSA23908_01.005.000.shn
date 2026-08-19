@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://w3.org" xmlns:xsi="http://w3.org-instance" Game="Code Vein 2" Moder="Aigars Uze" Cusa="PPSA23908" Version="01.005.000" Process="eboot.bin">
+  <Cheat Text="无限生命 | Infinite Health">
+    <Cheatline>
+      <Offset>50FE7C4</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-0A-17-37-03</ValueOn>
+      <ValueOff>C5-FA-11-47-0C</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>846FED3</Offset>
+      <Section>0</Section>
+      <ValueOn>9C-48-83-7F-F8-00-74-0B-9D-C5-FA-11-47-0C-E9-E3-E8-C8-FC-9D-E9-DD-E8-C8-FC-90</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="无限耐力 | Infinite Stamina">
+    <Cheatline>
+      <Offset>50FE7D4</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-40-17-37-03</ValueOn>
+      <ValueOff>C5-FA-11-47-08</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>846FF19</Offset>
+      <Section>0</Section>
+      <ValueOn>9C-48-83-7F-D8-00-74-0B-9D-C5-FA-11-47-08-E9-AD-E8-C8-FC-9D-C5-FA-10-47-0C-C5-FA-11-47-08-E9-9D-E8-C8-FC-90</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="无限道具/物品（使用时） | Infinite Items On Use">
+    <Cheatline>
+      <Offset>67A75F8</Offset>
+      <Section>0</Section>
+      <ValueOn>B9-63-00-00-00</ValueOn>
+      <ValueOff>C4-E2-68-F2-C9</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="经验值大幅增加（获取时） | Lots Of XP Points On Gain">
+    <Cheatline>
+      <Offset>66C7734</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-10-88-DA-01-90-90</ValueOn>
+      <ValueOff>44-89-A7-80-03-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>846FF49</Offset>
+      <Section>0</Section>
+      <ValueOn>41-81-C4-50-C3-00-00-44-89-A7-80-03-00-00-E9-DF-77-25-FE-90</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="无限生命&一击必杀 | Infinite Health And 1 Hit Kill">
+    <Cheatline>
+      <Offset>50FE7C4</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-96-17-37-03</ValueOn>
+      <ValueOff>C5-FA-11-47-0C</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>846FF5F</Offset>
+      <Section>0</Section>
+      <ValueOn>9C-48-83-7F-D8-00-74-14-48-83-7F-F8-00-74-0D-9D-C7-47-0C-00-00-00-00-E9-4E-E8-C8-FC-9D-E9-48-E8-C8-FC</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

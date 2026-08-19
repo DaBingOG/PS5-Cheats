@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Tormented Souls 2" Moder="Yharnam" Cusa="PPSA17322" Version="01.006.000" Process="eboot.bin">
+  <Genres Name="HORROR" />
+  <Items />
+  <Cheat Text="无敌模式 | God Mode">
+    <Cheatline>      
+      <Section>0</Section>
+      <Offset>5F6FA50</Offset>
+      <ValueOn>48-89-DA-4C-89-F9-81-3F-E0-98-3E-07-75-05-E9-04-FB-E0-FC-E9-FA-FA-E0-FC</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>  
+    <Cheatline>      
+      <Section>0</Section>
+      <Offset>2D7F55C</Offset>
+      <ValueOn>E9-EF-04-1F-03-90</ValueOn>
+      <ValueOff>48-89-DA-4C-89-F9</ValueOff>
+    </Cheatline>  	
+    <Cheatline>      
+      <Section>0</Section>
+      <Offset>5F6FB50</Offset>
+      <ValueOn>81-7F-30-91-0E-01-00-75-06-FF-91-80-02-00-00-E9-B8-F0-6F-FC</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>  
+    <Cheatline>      
+      <Section>0</Section>
+      <Offset>266EC16</Offset>
+      <ValueOn>E9-35-0F-90-03-90</ValueOn>
+      <ValueOff>FF-91-80-02-00-00</ValueOff>
+    </Cheatline>  		
+  </Cheat>
+  <Cheat Text="无限弹药 | Infi Ammo">
+    <Cheatline>      
+      <Section>0</Section>
+      <Offset>5F6F950</Offset>
+      <ValueOn>8B-45-DC-41-55-49-89-DD-49-C1-ED-18-49-81-FD-40-1A-00-00-41-5D-75-05-83-E8-00-EB-03-2B-45-D8-E9-BA-FA-BB-FC</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>      
+      <Section>0</Section>
+      <Offset>2B2F428</Offset>
+      <ValueOn>E9-23-05-44-03-90</ValueOn>
+      <ValueOff>8B-45-DC-2B-45-D8</ValueOff>
+    </Cheatline>	
+  </Cheat>
+  <Cheat Text="无限道具 | Infi Items" Description="把录音带放入录音机后，取出变999">
+    <Cheatline>      
+      <Section>0</Section>
+      <Offset>5F6F750</Offset>
+      <ValueOn>B8-E7-03-00-00-43-89-44-3C-10-83-C0-00-E9-16-90-6F-FD</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>      
+      <Section>0</Section>
+      <Offset>3668770</Offset>
+      <ValueOn>E9-DB-6F-90-02-90-90-90</ValueOn>
+      <ValueOff>8B-45-BC-43-01-44-3C-10</ValueOff>
+    </Cheatline>	
+  </Cheat>  
+</Trainer>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="The Caligula Effect: Overdose" Moder="Talixme" Cusa="PPSA09384" Version="01.000.000" Process="eboot.bin">
+  <Items/>
+  <Cheat Text="必须码（必须开启） | Master Code">
+    <Cheatline>
+      <Offset>80C7F00</Offset>
+      <Section>0</Section>
+      <ValueOn>00</ValueOn>
+      <ValueOff>00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>80C7F01</Offset>
+      <Section>0</Section>
+      <ValueOn>00</ValueOn>
+      <ValueOff>00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>580B000</Offset>
+      <Section>0</Section>
+      <ValueOn>41-80-7F-2C-01-74-09-41-80-7F-2C-02-74-0D-EB-3B-80-3D-E9-CE-8B-02-01-74-0D-EB-30-80-3D-DF-CE-8B-02-01-74-15-EB-25-B8-3F-42-0F-00-41-89-47-64-C5-FA-2C-45-8C-E9-1A-EB-67-FB-41-C7-47-64-00-00-00-00-C5-FA-2C-45-8C-E9-08-EB-67-FB-41-89-47-64-C5-FA-2C-45-8C-E9-FA-EA-67-FB</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>E89B4A</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-B1-14-98-04-90-90-90-90</ValueOn>
+      <ValueOff>41-89-47-64-C5-FA-2C-45-8C</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="无限生命 | Inf_Hp">
+    <Cheatline>
+      <Offset>80C7F00</Offset>
+      <Section>0</Section>
+      <ValueOn>01</ValueOn>
+      <ValueOff>00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="自动胜利 | Auto_Win">
+    <Cheatline>
+      <Offset>80C7F01</Offset>
+      <Section>0</Section>
+      <ValueOn>01</ValueOn>
+      <ValueOff>00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="无限魔法 | Inf Mp">
+    <Cheatline>
+      <Offset>580B079</Offset>
+      <Section>0</Section>
+      <ValueOn>B8-0F-27-00-00-41-89-47-68-41-80-7F-2D-00-E9-DA-EA-67-FB</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>E89B5D</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-17-15-98-04-90-90-90-90</ValueOn>
+      <ValueOff>41-89-47-68-41-80-7F-2D-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="无限技能点 | Inf Skill Points">
+    <Cheatline>
+      <Offset>580B0AC</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-47-54-E7-03-00-00-E9-56-52-67-FB</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>E80304</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-A3-AD-98-04-90-90-90-90-90</ValueOn>
+      <ValueOff>8B-47-54-29-F0-78-03-89-47-54</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

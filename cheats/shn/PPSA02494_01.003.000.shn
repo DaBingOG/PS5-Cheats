@@ -1,0 +1,112 @@
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="DORAEMON STORY OF SEASONS: Friends of the Great Kingdom" Moder="Talixme" Cusa="PPSA02494" Version="01.003.000" Process="eboot.bin">
+    <Genres Name="Action" />
+    <Items />
+    <Cheat Text="无限生命 | Inf Hp">
+        <Cheatline>
+            <Offset>8089899A</Offset>
+            <Section>0</Section>
+            <ValueOn>90-90-90</ValueOn>
+            <ValueOff>44-29-E7</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="无限种子 | Inf Seeds" Description="">
+        <Cheatline>
+            <Offset>80B9EC7C</Offset>
+            <Section>0</Section>
+            <ValueOn>90-90-90-90</ValueOn>
+            <ValueOff>44-29-69-18</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="无限的水 | Inf Water" Description="">
+        <Cheatline>
+            <Offset>809EB569</Offset>
+            <Section>0</Section>
+            <ValueOn>90-90-90</ValueOn>
+            <ValueOff>FF-4B-20</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="无限材料 | Inf Materials" Description="">
+        <Cheatline>
+            <Offset>7FCCF000</Offset>
+            <Section>0</Section>
+            <ValueOn>BA-E7-03-00-00-89-50-18-41-3B-5E-18-E9-A6-37-D2-00</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+        <Cheatline>
+            <Offset>809F27B0</Offset>
+            <Section>0</Section>
+            <ValueOn>E9-4B-C8-2D-FF-90-90</ValueOn>
+            <ValueOff>89-50-18-41-3B-5E-18</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="无限金币 | Inf Gold" Description="">
+        <Cheatline>
+            <Offset>7FCCF031</Offset>
+            <Section>0</Section>
+            <ValueOn>B9-3F-42-0F-00-89-4F-60-39-F0-E9-5E-48-8A-00</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+        <Cheatline>
+            <Offset>80573899</Offset>
+            <Section>0</Section>
+            <ValueOn>E9-93-B7-75-FF</ValueOn>
+            <ValueOff>89-4F-60-39-F0</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="主代码计时器 | Master Code Timer" Description="">
+        <Cheatline>
+            <Offset>7FD1BF00</Offset>
+            <Section>0</Section>
+            <ValueOn>00</ValueOn>
+            <ValueOff>00</ValueOff>
+        </Cheatline>
+        <Cheatline>
+            <Offset>7FD1BF01</Offset>
+            <Section>0</Section>
+            <ValueOn>00</ValueOn>
+            <ValueOff>00</ValueOff>
+        </Cheatline>
+        <Cheatline>
+            <Offset>7FD1BF02</Offset>
+            <Section>0</Section>
+            <ValueOn>00</ValueOn>
+            <ValueOff>00</ValueOff>
+        </Cheatline>
+        <Cheatline>
+            <Offset>7FCCF060</Offset>
+            <Section>0</Section>
+            <ValueOn>83-3D-99-CE-04-00-01-74-18-83-3D-91-CE-04-00-01-74-11-83-3D-89-CE-04-00-01-74-12-41-03-5E-24-EB-20-EB-1E-41-03-5E-24-41-03-5E-24-EB-14-41-03-5E-24-41-03-5E-24-41-03-5E-24-41-03-5E-24-41-03-5E-24-41-89-5E-24-E9-89-A7-A9-00</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+        <Cheatline>
+            <Offset>8076982B</Offset>
+            <Section>0</Section>
+            <ValueOn>E9-30-58-56-FF-90-90-90</ValueOn>
+            <ValueOff>41-03-5E-24-41-89-5E-24</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="时间加速 | --Fast_Timer">
+        <Cheatline>
+            <Offset>7FD1BF01</Offset>
+            <Section>0</Section>
+            <ValueOn>01</ValueOn>
+            <ValueOff>00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="更快的时间加速 | --Faster_Timer">
+        <Cheatline>
+            <Offset>7FD1BF02</Offset>
+            <Section>0</Section>
+            <ValueOn>01</ValueOn>
+            <ValueOff>00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="时间停止 | --Stop_Time">
+        <Cheatline>
+            <Offset>7FD1BF00</Offset>
+            <Section>0</Section>
+            <ValueOn>01</ValueOn>
+            <ValueOff>00</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="UP0700-PPSA20298_00-SHADOWLABYRINTH0" Moder="Talixme & baobao8888汉化" Cusa="PPSA20298" Version="01.040.000" Process="eboot.bin">
+  <Items/>
+  <Cheat Text="无限生命 | Inf Hp">
+    <Cheatline>
+      <Offset>7FD17000</Offset>
+      <Section>0</Section>
+      <ValueOn>C5-FA-10-8B-C0-05-00-00-C5-FA-11-8B-C0-05-00-00-E9-70-68-51-00</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>8022D87D</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-7E-97-AE-FF-90-90-90</ValueOn>
+      <ValueOff>C5-FA-11-8B-C0-05-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="吃豆人无限生命 | Inf Hp PacMan">
+    <Cheatline>
+      <Offset>7FD17035</Offset>
+      <Section>0</Section>
+      <ValueOn>81-3F-A0-44-36-1E-0F-84-DD-DE-58-00-C5-FA-11-47-50-E9-D3-DE-58-00</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>802A4F19</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-17-21-A7-FF</ValueOn>
+      <ValueOff>C5-FA-11-47-50</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="无限耐力 | Inf Stamina">
+    <Cheatline>
+      <Offset>7FD1706B</Offset>
+      <Section>0</Section>
+      <ValueOn>C5-FA-10-47-68-C5-FA-11-47-64-E9-0C-C3-58-00</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>802A3381</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-E5-3C-A7-FF</ValueOn>
+      <ValueOff>C5-FA-11-47-64</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="无限金币 | Inf Coins">
+    <Cheatline>
+      <Offset>7FD1709A</Offset>
+      <Section>0</Section>
+      <ValueOn>41-01-5E-14-81-C3-3F-42-0F-00-E9-52-52-4B-00</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>801CC2F3</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-A2-AD-B4-FF-90-90-90</ValueOn>
+      <ValueOff>41-01-5E-14-41-03-5E-10</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Days Gone Remastered" Moder="Yharnam" Cusa="PPSA28180" Version="01.036.178" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Items />
+  <Cheat Text="无限生命 | Infi Health" Description="Excluding Instant Death">
+    <Cheatline>
+      <Offset>1BE989B</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90</ValueOn>
+      <ValueOff>E8-30-9E-30-FF</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="一击必杀 | 1 Hit Kill" Description="This might break certain story events. Ex) Copeland’s hunting tutorial.">
+    <Cheatline>
+      <Offset>3F4FFCC</Offset>
+      <Section>0</Section>
+      <ValueOn>4C-8B-A5-10-FF-FF-FF-50-4C-89-C0-48-C1-E8-18-48-3D-ED-00-08-00-75-12-C7-83-CC-1F-00-00-00-50-43-C7-C5-FA-10-83-CC-1F-00-00-58-E9-FC-40-FA-FC</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>EF40F0</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-D7-BE-05-03-90-90</ValueOn>
+      <ValueOff>4C-8B-A5-10-FF-FF-FF</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>C180AC</Offset>
+      <Section>0</Section>
+      <ValueOn>C4-C1-7A-10-96-D4-04-00-00-0F-59-D2-C5-F8-28-CA-C5-F8-28-DA-C5-F8-28-E2-90-90-90</ValueOn>
+      <ValueOff>C4-C1-52-2A-A6-E8-04-00-00-C4-C1-7A-10-8E-CC-04-00-00-C4-C1-7A-10-96-D4-04-00-00</ValueOff>
+    </Cheatline>	
+  </Cheat>        
+  <Cheat Text="无限耐力 | Infi Stamina">
+    <Cheatline>
+      <Offset>83B856</Offset>
+      <Section>0</Section>
+      <ValueOn>F3-0F-5F-C1-C5-FA-11-06-EB-0C</ValueOn>
+      <ValueOff>CC-CC-CC-CC-CC-CC-CC-CC-CC-CC</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>83B868</Offset>
+      <Section>0</Section>
+      <ValueOn>EB-EC-90-90</ValueOn>
+      <ValueOff>C5-FA-11-06</ValueOff>
+    </Cheatline>	
+  </Cheat>
+  <Cheat Text="无限弹药 | Infi Ammo">
+    <Cheatline>
+      <Offset>D41E90</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90</ValueOn>
+      <ValueOff>FF-C8</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>A2E916</Offset>
+      <Section>0</Section>
+      <ValueOn>B8-63-00-00-00-90-90-90-90</ValueOn>
+      <ValueOff>42-0F-B6-84-38-04-03-00-00</ValueOff>
+    </Cheatline>	
+  </Cheat>
+  <Cheat Text="可无限投掷 | Infi Throwables">
+    <Cheatline>
+      <Offset>D4C87B</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90</ValueOn>
+      <ValueOff>E8-B0-F6-FF-FF</ValueOff>
+    </Cheatline>	
+  </Cheat>
+  <Cheat Text="无限亚硝酸盐 | Infi Nitrous">
+    <Cheatline>
+      <Offset>874FEE</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>C5-FA-11-83-14-05-00-00</ValueOff>
+    </Cheatline>	
+  </Cheat>  
+  <Cheat Text="无限燃料 | Infi Fuel">
+    <Cheatline>
+      <Offset>4CE5FC</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90</ValueOn>
+      <ValueOff>C5-F0-57-C9</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>F38384</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>C5-FA-11-83-D4-00-00-00</ValueOff>
+    </Cheatline>	
+  </Cheat>
+  <Cheat Text="无限车辆耐久度 | Infi Bike Durability" Description="">
+    <Cheatline>
+      <Offset>AB8CD6</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-D6-83-D4-02-90-90-90-90</ValueOn>
+      <ValueOff>C4-C1-7A-11-86-D8-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>38010B1</Offset>
+      <Section>0</Section>
+      <ValueOn>66-3D-50-B3-0F-84-24-7C-2B-FD-EB-14</ValueOn>
+      <ValueOff>CC-CC-CC-CC-CC-CC-CC-CC-CC-CC-CC-CC</ValueOff>
+    </Cheatline>	
+    <Cheatline>
+      <Offset>38010D1</Offset>
+      <Section>0</Section>
+      <ValueOn>C4-C1-7A-11-86-D8-00-00-00-E9-00-7C-2B-FD</ValueOn>
+      <ValueOff>CC-CC-CC-CC-CC-CC-CC-CC-CC-CC-CC-CC-CC-CC</ValueOff>
+    </Cheatline>		
+  </Cheat>      
+  <Cheat Text="技能点9999 | Skill Point 9999" Description="">
+    <Cheatline>
+      <Offset>F22650</Offset>
+      <Section>0</Section>
+      <ValueOn>BA-0F-27-00-00-90</ValueOn>
+      <ValueOff>2B-91-80-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat> 
+</Trainer>

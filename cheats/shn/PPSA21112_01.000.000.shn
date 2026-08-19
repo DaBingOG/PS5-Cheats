@@ -1,0 +1,102 @@
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="TEVI" Moder="Talixme" Cusa="PPSA21112" Version="01.000.000" Process="eboot.bin">
+    <Genres Name="Action" />
+    <Items />
+    <Cheat Text="必须码 | Master Code">
+        <Cheatline>
+            <Offset>7FD1BF00</Offset>
+            <Section>0</Section>
+            <ValueOn>00</ValueOn>
+            <ValueOff>00</ValueOff>
+        </Cheatline>
+        <Cheatline>
+            <Offset>7FD1BF01</Offset>
+            <Section>0</Section>
+            <ValueOn>00</ValueOn>
+            <ValueOff>00</ValueOff>
+        </Cheatline>
+        <Cheatline>
+            <Offset>7FCCB000</Offset>
+            <Section>0</Section>
+            <ValueOn>41-81-3E-A0-DF-BC-02-74-19-80-3D-F1-0E-05-00-01-75-2C-41-C7-86-3C-01-00-00-00-00-00-00-E9-8F-7B-4E-01-80-3D-D7-0E-05-00-01-75-13-41-8B-86-40-01-00-00-41-89-86-3C-01-00-00-E9-73-7B-4E-01-41-89-86-3C-01-00-00-E9-67-7B-4E-01</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+        <Cheatline>
+            <Offset>811B2BAA</Offset>
+            <Section>0</Section>
+            <ValueOn>E9-51-84-B1-FE-90-90</ValueOn>
+            <ValueOff>41-89-86-3C-01-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="无限生命 | --Inf_Hp">
+        <Cheatline>
+            <Offset>7FD1BF00</Offset>
+            <Section>0</Section>
+            <ValueOn>01</ValueOn>
+            <ValueOff>00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="一击必杀 | --One_Hit_Kill">
+        <Cheatline>
+            <Offset>7FD1BF01</Offset>
+            <Section>0</Section>
+            <ValueOn>01</ValueOn>
+            <ValueOff>00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="无限蓝条 | Inf Mp">
+        <Cheatline>
+            <Offset>7FCCB06A</Offset>
+            <Section>0</Section>
+            <ValueOn>C6-83-CC-01-00-00-01-E9-79-59-90-01</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+        <Cheatline>
+            <Offset>815D09E9</Offset>
+            <Section>0</Section>
+            <ValueOn>E9-7C-A6-6F-FE-90</ValueOn>
+            <ValueOff>88-83-CC-01-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="无限金币&道具 | Inf Money And Items">
+        <Cheatline>
+            <Offset>7FCCB096</Offset>
+            <Section>0</Section>
+            <ValueOn>41-BF-3F-42-0F-00-46-01-7C-A8-20-E9-20-7D-11-01</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+        <Cheatline>
+            <Offset>7FCCB0C6</Offset>
+            <Section>0</Section>
+            <ValueOn>E9-0F-17-11-01</ValueOn>
+            <ValueOff>00-00-00-00-00</ValueOff>
+        </Cheatline>
+        <Cheatline>
+            <Offset>80DE2DC1</Offset>
+            <Section>0</Section>
+            <ValueOn>E9-D0-82-EE-FE</ValueOn>
+            <ValueOff>46-01-7C-A8-20</ValueOff>
+        </Cheatline>
+        <Cheatline>
+            <Offset>80DDC7D5</Offset>
+            <Section>0</Section>
+            <ValueOn>E9-EC-E8-EE-FE</ValueOn>
+            <ValueOff>44-29-74-81-20</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="时间停止 | Stop Timer">
+        <Cheatline>
+            <Offset>80DF900F</Offset>
+            <Section>0</Section>
+            <ValueOn>90-90-90-90-90-90-90-90</ValueOn>
+            <ValueOff>C5-FA-11-83-E8-01-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="上帝模式 | Godmode">
+        <Cheatline>
+            <Offset>829EE3DF</Offset>
+            <Section>0</Section>
+            <ValueOn>90-90-90-90-90</ValueOn>
+            <ValueOff>E8-5C-6D-FF-FF</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>

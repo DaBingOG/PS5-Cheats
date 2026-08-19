@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Yakuza Kiwami 2" Moder="danboy" Cusa="PPSA31333" Version="01.010.000" Process="eboot.bin">
+  <Genres Name="Action"/>
+  <Items/>
+
+  <Cheat Text="无限金币（与技能点冲突，不可同时使用） | Inf. Money">
+    <Cheatline>      
+      <Section>0</Section>
+      <Offset>1F157F0</Offset> 
+      <ValueOn>48-83-F9-01-75-07-48-C7-C6-FF-C9-9A-3B-48-89-34-C8-48-83-C4-08-E9-8A-5D-C7-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline> 
+    <Cheatline>      
+      <Section>0</Section>
+      <Offset>B8B58C</Offset>
+      <ValueOn>E9-5F-A2-38-01-90-90-90</ValueOn>
+      <ValueOff>48-89-34-C8-48-83-C4-08</ValueOff>
+    </Cheatline> 
+  </Cheat>
+
+  <Cheat Text="无限技能点（与金币冲突，不可同时使用） | Inf. SkillPoints">
+    <Cheatline>      
+      <Section>0</Section>
+      <Offset>1F157F0</Offset> 
+      <ValueOn>48-83-F9-02-7C-0D-48-83-F9-06-7F-07-48-C7-C6-0F-27-00-00-48-89-34-C8-48-83-C4-08-E9-84-5D-C7-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline> 
+    <Cheatline>      
+      <Section>0</Section>
+      <Offset>B8B58C</Offset>
+      <ValueOn>E9-5F-A2-38-01-90-90-90</ValueOn>
+      <ValueOff>48-89-34-C8-48-83-C4-08</ValueOff>
+    </Cheatline> 
+  </Cheat>
+
+  <Cheat Text="无限生命 | Inf. Health">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>B87F44</Offset>
+      <ValueOn>48-8B-47-08-90</ValueOn>
+      <ValueOff>C4-E2-F0-F2-C0</ValueOff>
+    </Cheatline>
+  </Cheat>
+
+  <Cheat Text="一击必杀 | One Hit Kill">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>12AEC2</Offset>
+      <ValueOn>48-31-C0-49-89-86-E0-00-00-00-90</ValueOn>
+      <ValueOff>48-0F-4C-C1-49-89-86-E0-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+
+  <Cheat Text="无限热血值 | Inf. Heat">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>1F15880</Offset>
+      <ValueOn>48-83-F9-10-75-06-C5-FA-10-44-08-04-C5-FA-11-04-08-E9-BB-6D-6C-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>5DC64C</Offset>
+      <ValueOn>E9-2F-92-93-01</ValueOn>
+      <ValueOff>C5-FA-11-04-08</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

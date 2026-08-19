@@ -1,0 +1,38 @@
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="UP2047-PPSA02395_00-METROEXODUS0GEN9" Moder="Talixme" Cusa="PPSA02395" Version="01.001.000" Process="eboot.bin">
+    <Cheat Text="无限弹药和道具 | Inf Ammo And Items" Description="">
+        <Cheatline>
+            <Offset>140B000</Offset>
+            <Section>0</Section>
+            <ValueOn>66-C7-47-72-E7-03-0F-B7-47-72-C3-E9-35-EC-0F-FF</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+        <Cheatline>
+            <Offset>509C40</Offset>
+            <Section>0</Section>
+            <ValueOn>E9-BB-13-F0-00</ValueOn>
+            <ValueOff>0F-B7-47-72-C3</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="无限过滤器时间 | Inf Filter Time">
+        <Cheatline>
+            <Offset>140B030</Offset>
+            <Section>0</Section>
+            <ValueOn>C5-FA-10-83-88-0B-00-00-C5-FA-11-83-88-0B-00-00-E9-F7-E6-78-FF</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+        <Cheatline>
+            <Offset>B99734</Offset>
+            <Section>0</Section>
+            <ValueOn>E9-F7-18-87-00-90-90-90</ValueOn>
+            <ValueOff>C5-FA-11-83-88-0B-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="无限生命 | Inf HP" Description="">
+        <Cheatline>
+            <Offset>4445C9</Offset>
+            <Section>0</Section>
+            <ValueOn>90-90-90-90-90</ValueOn>
+            <ValueOff>E8-F2-0F-41-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>

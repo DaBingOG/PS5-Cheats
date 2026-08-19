@@ -1,0 +1,73 @@
+?<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Alan Wake 2" Moder="Yharnam" Cusa="PPSA02572" Version="01.200.007" Process="eboot.bin">
+    <Genres Name="Action" />
+    <Items />
+    <Cheat Text="无限生命 | Infi Health">
+        <Cheatline>
+            <Section>0</Section>
+            <Offset>31B9800</Offset>
+            <ValueOn>83-B8-84-00-00-00-02-74-02-EB-06-C5-EA-58-C0-EB-04-C5-EA-5C-C0-4D-8B-5D-20-E9-93-DE-BB-FD</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+        <Cheatline>
+            <Section>0</Section>
+            <Offset>D776A9</Offset>
+            <ValueOn>E9-52-21-44-02-90-90-90</ValueOn>
+            <ValueOff>C5-EA-5C-C0-4D-8B-5D-20</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="无限弹药 | Infi Ammo">
+        <Cheatline>
+            <Section>0</Section>
+            <Offset>120F114</Offset>
+            <ValueOn>90-90</ValueOn>
+            <ValueOff>FF-CE</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="无限手电对焦 | Infi Flashlight Focus">
+        <Cheatline>
+            <Section>0</Section>
+            <Offset>CD1EE6</Offset>
+            <ValueOn>90-90-90</ValueOn>
+            <ValueOff>8D-48-FF</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="无限道具 | Infi Items">
+        <Cheatline>
+            <Section>0</Section>
+            <Offset>D66972</Offset>
+            <ValueOn>90-90-90-90-90</ValueOn>
+            <ValueOff>E8-A9-05-00-00</ValueOff>
+        </Cheatline>
+        <Cheatline>
+            <Section>0</Section>
+            <Offset>DDA345</Offset>
+            <ValueOn>45-8B-7C-24-50</ValueOn>
+            <ValueOff>45-8B-7C-24-54</ValueOff>
+        </Cheatline>
+        <Cheatline>
+            <Section>0</Section>
+            <Offset>DDA35C</Offset>
+            <ValueOn>90-90-90</ValueOn>
+            <ValueOff>44-29-EB</ValueOff>
+        </Cheatline>
+        <Cheatline>
+            <Section>0</Section>
+            <Offset>DDA361</Offset>
+            <ValueOn>90-90-90</ValueOn>
+            <ValueOff>0F-4C-C1</ValueOff>
+        </Cheatline>
+        <Cheatline>
+            <Section>0</Section>
+            <Offset>CDEA4C</Offset>
+            <ValueOn>8B-46-50</ValueOn>
+            <ValueOff>8B-46-54</ValueOff>
+        </Cheatline>
+        <Cheatline>
+            <Section>0</Section>
+            <Offset>CDEA5C</Offset>
+            <ValueOn>BA-00-00-00-00-29-D1-F7-D9-29-D0</ValueOn>
+            <ValueOff>29-D1-F7-D9-29-D0-BA-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>

@@ -1,0 +1,116 @@
+?<?xml version="1.0" encoding="utf-8"?><Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="SWORD ART ONLINE Fractured Daydream" Moder="Wander" Cusa="PPSA06568" Version="01.000.000" Process="eboot.bin">
+    <Genres Name="Action" />
+    <Items />
+    <Cheat Text="无限生命 | Infinite Health">
+        <Cheatline>
+            <PS5Offset>420-executable[0]-5</PS5Offset>
+            <Section>0</Section>
+            <Offset>5087BE0</Offset>
+            <ValueOn>41-80-BD-A0-08-00-00-00-75-10-41-C7-85-EC-12-00-00-00-3C-1C-46-E9-95-E0-60-FC-C4-C1-7A-11-85-EC-12-00-00-E9-87-E0-60-FC</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+        <Cheatline>
+            <PS5Offset>39F237A-executable[0]-5</PS5Offset>
+            <Section>0</Section>
+            <Offset>1695C86</Offset>
+            <ValueOn>E9-55-1F-9F-03-90-90-90-90</ValueOn>
+            <ValueOff>C4-C1-7A-11-85-EC-12-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="技能无CD | No skill cooldown">
+        <Cheatline>
+            <PS5Offset>4B0-executable[0]-5</PS5Offset>
+            <Section>0</Section>
+            <Offset>5087B50</Offset>
+            <ValueOn>C7-43-30-00-3C-1C-46-E9-6E-DA-6F-FC</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+        <Cheatline>
+            <PS5Offset>3902A3B-executable[0]-5</PS5Offset>
+            <Section>0</Section>
+            <Offset>17855C5</Offset>
+            <ValueOn>E9-86-25-90-03</ValueOn>
+            <ValueOff>C5-FA-11-4B-30</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="技能条极速充能 | Unque bar recharge" Description="不支持管理员 | not for administator">
+        <Cheatline>
+            <PS5Offset>560-executable[0]-5</PS5Offset>
+            <Section>0</Section>
+            <Offset>5087AA0</Offset>
+            <ValueOn>C7-87-00-01-00-00-80-4F-C3-47-E9-8A-23-64-FC</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+        <Cheatline>
+            <PS5Offset>39BE1CF-executable[0]-5</PS5Offset>
+            <Section>0</Section>
+            <Offset>16C9E31</Offset>
+            <ValueOn>E9-6A-DC-9B-03-90-90-90</ValueOn>
+            <ValueOff>C5-FA-11-87-00-01-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="最高角色等级 | Max Character Rank " Description="开启直接获取9999999点任务经验；完成下一个任务/支线需关闭此功能 | turn on get 9999999 turn off to rank up in the next misson/quests">
+        <Cheatline>
+            <PS5Offset>6E0-executable[0]-5</PS5Offset>
+            <Section>0</Section>
+            <Offset>5087920</Offset>
+            <ValueOn>C7-00-FF-E0-F5-05-45-85-F6-E9-71-03-78-FC</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+        <Cheatline>
+            <PS5Offset>3880367-executable[0]-5</PS5Offset>
+            <Section>0</Section>
+            <Offset>1807C99</Offset>
+            <ValueOn>E9-82-FC-87-03-90</ValueOn>
+            <ValueOff>44-01-30-45-85-F6</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="最高玩家排名 | Max Player rank">
+        <Cheatline>
+            <PS5Offset>7C0-executable[0]-5</PS5Offset>
+            <Section>0</Section>
+            <Offset>5087840</Offset>
+            <ValueOn>41-C7-47-7C-FF-E0-F5-05-45-85-F6-E9-6B-02-78-FC</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+        <Cheatline>
+            <PS5Offset>388054C-executable[0]-5</PS5Offset>
+            <Section>0</Section>
+            <Offset>1807AB4</Offset>
+            <ValueOn>E9-87-FD-87-03-90-90</ValueOn>
+            <ValueOff>45-89-6F-7C-45-85-F6</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="最大元素 | Max Col" Description="分解物品后生效 | after dismantle items">
+        <Cheatline>
+            <PS5Offset>8D0-executable[0]-5</PS5Offset>
+            <Section>0</Section>
+            <Offset>5087730</Offset>
+            <ValueOn>49-C7-83-20-01-00-00-FF-C9-9A-3B-E9-52-B0-75-FC</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+        <Cheatline>
+            <PS5Offset>38A5875-executable[0]-5</PS5Offset>
+            <Section>0</Section>
+            <Offset>17E278B</Offset>
+            <ValueOn>E9-A0-4F-8A-03-90-90</ValueOn>
+            <ValueOff>49-01-83-20-01-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="最大升级材料 | Max Upgrade Materials" Description="分解物品后生效 | after dismantle items">
+        <Cheatline>
+            <PS5Offset>980-executable[0]-5</PS5Offset>
+            <Section>0</Section>
+            <Offset>5087680</Offset>
+            <ValueOn>41-C7-44-0B-04-3F-42-0F-00-E9-24-24-77-FC</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+        <Cheatline>
+            <PS5Offset>388E553-executable[0]-5</PS5Offset>
+            <Section>0</Section>
+            <Offset>17F9AAD</Offset>
+            <ValueOn>E9-CE-DB-88-03</ValueOn>
+            <ValueOff>41-89-5C-0B-04</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>

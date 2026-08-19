@@ -1,0 +1,102 @@
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="EP4459-PPSA14196_00-SKERRITUALSIEE02" Moder="Talixme" Cusa="PPSA14196" Version="01.000.000" Process="eboot.bin">
+    <Genres Name="Action" />
+    <Items />
+    <Cheat Text="主代码 | Master Code">
+        <Cheatline>
+            <Offset>7FD1BF00</Offset>
+            <Section>0</Section>
+            <ValueOn>00</ValueOn>
+            <ValueOff>00</ValueOff>
+        </Cheatline>
+        <Cheatline>
+            <Offset>7FD1BF01</Offset>
+            <Section>0</Section>
+            <ValueOn>00</ValueOn>
+            <ValueOff>00</ValueOff>
+        </Cheatline>
+        <Cheatline>
+            <Offset>7FCCB000</Offset>
+            <Section>0</Section>
+            <ValueOn>66-83-7B-2C-02-74-15-80-3D-F3-0E-05-00-01-75-1A-C7-43-28-00-00-00-00-E9-A5-AB-44-02-80-3D-DD-0E-05-00-01-75-05-E9-97-AB-44-02-C5-FA-11-43-28-E9-8D-AB-44-02</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+        <Cheatline>
+            <Offset>82115BBC</Offset>
+            <Section>0</Section>
+            <ValueOn>E9-3F-54-BB-FD</ValueOn>
+            <ValueOff>C5-FA-11-43-28</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="无限生命 | --Inf_Hp">
+        <Cheatline>
+            <Offset>7FD1BF00</Offset>
+            <Section>0</Section>
+            <ValueOn>01</ValueOn>
+            <ValueOff>00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="一击必杀 | --One_Hit_Kill">
+        <Cheatline>
+            <Offset>7FD1BF01</Offset>
+            <Section>0</Section>
+            <ValueOn>01</ValueOn>
+            <ValueOff>00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="无限弹药 | Inf Ammo" Description="">
+        <Cheatline>
+            <Offset>7FCCB054</Offset>
+            <Section>0</Section>
+            <ValueOn>B9-0F-27-00-00-89-8B-0C-02-00-00-E9-B8-C6-D3-03</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+        <Cheatline>
+            <Offset>83A07716</Offset>
+            <Section>0</Section>
+            <ValueOn>E9-39-39-2C-FC-90</ValueOn>
+            <ValueOff>89-8B-0C-02-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="无需上弹 | No Reload" Description="">
+        <Cheatline>
+            <Offset>80564A67</Offset>
+            <Section>0</Section>
+            <ValueOn>90-90-90-90-90-90</ValueOn>
+            <ValueOff>89-8B-00-02-00-00</ValueOff>
+        </Cheatline>
+        <Cheatline>
+            <Offset>83A0CA67</Offset>
+            <Section>0</Section>
+            <ValueOn>90-90-90-90-90-90</ValueOn>
+            <ValueOff>89-8B-00-02-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="无限金钱 | Inf Money" Description="">
+        <Cheatline>
+            <Offset>7FCCB084</Offset>
+            <Section>0</Section>
+            <ValueOn>89-C1-B8-3F-42-0F-00-41-89-47-40-E9-A2-18-64-00</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+        <Cheatline>
+            <Offset>8030C930</Offset>
+            <Section>0</Section>
+            <ValueOn>E9-4F-E7-9B-FF-90</ValueOn>
+            <ValueOff>89-C1-41-89-47-40</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="无限心愿 | Inf Wishes">
+        <Cheatline>
+            <Offset>7FCCB0B4</Offset>
+            <Section>0</Section>
+            <ValueOn>BA-63-00-00-00-89-97-F0-00-00-00-E9-F4-C5-58-00</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+        <Cheatline>
+            <Offset>802576B2</Offset>
+            <Section>0</Section>
+            <ValueOn>E9-FD-39-A7-FF-90</ValueOn>
+            <ValueOff>89-97-F0-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Invincible VS" Moder="Talixme" Cusa="PPSA30568" Version="01.000.000" Process="eboot.bin">
+  <Items/>
+  <Cheat Text="必须码（必须开启） | Master Code">
+    <Cheatline>
+      <Offset>87BBF00</Offset>
+      <Section>0</Section>
+      <ValueOn>00</ValueOn>
+      <ValueOff>00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>87BBF01</Offset>
+      <Section>0</Section>
+      <ValueOn>00</ValueOn>
+      <ValueOff>00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>87BBF02</Offset>
+      <Section>0</Section>
+      <ValueOn>00</ValueOn>
+      <ValueOff>00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>87BBF03</Offset>
+      <Section>0</Section>
+      <ValueOn>00</ValueOn>
+      <ValueOff>00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>87BBF04</Offset>
+      <Section>0</Section>
+      <ValueOn>00</ValueOn>
+      <ValueOff>00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>87BBF05</Offset>
+      <Section>0</Section>
+      <ValueOn>00</ValueOn>
+      <ValueOff>00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>7FD17000</Offset>
+      <Section>0</Section>
+      <ValueOn>81-BF-B0-02-00-00-01-00-00-00-75-14-80-3D-ED-4E-AA-88-01-74-64-80-3D-E9-4E-AA-88-01-74-69-EB-4E-81-BF-90-01-00-00-01-00-00-00-75-0B-80-3D-CE-4E-AA-88-01-74-44-EB-37-81-BF-B0-02-00-00-02-00-00-00-75-14-80-3D-B8-4E-AA-88-01-74-2D-80-3D-B1-4E-AA-88-01-74-32-EB-17-81-BF-90-01-00-00-02-00-00-00-75-0B-80-3D-99-4E-AA-88-01-74-0D-EB-00-89-47-40-4C-8B-37-E9-55-FD-68-84-8B-47-48-89-47-40-4C-8B-37-E9-47-FD-68-84-B8-00-00-00-00-89-47-40-4C-8B-37-E9-37-FD-68-84</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>43A6DC8</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-33-02-97-7B-90</ValueOn>
+      <ValueOff>89-47-40-4C-8B-37</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="P1无限生命 | _P1 Inf_Hp_P1">
+    <Cheatline>
+      <Offset>87BBF00</Offset>
+      <Section>0</Section>
+      <ValueOn>01</ValueOn>
+      <ValueOff>00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="P2无限生命 | _P2 Inf_Hp_P2">
+    <Cheatline>
+      <Offset>87BBF02</Offset>
+      <Section>0</Section>
+      <ValueOn>01</ValueOn>
+      <ValueOff>00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="P1无限大招 | _P1 Inf_Special_P1">
+    <Cheatline>
+      <Offset>87BBF01</Offset>
+      <Section>0</Section>
+      <ValueOn>01</ValueOn>
+      <ValueOff>00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="P2无限大招 | _P2 Inf_Special_P2">
+    <Cheatline>
+      <Offset>87BBF03</Offset>
+      <Section>0</Section>
+      <ValueOn>01</ValueOn>
+      <ValueOff>00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="P1一击必杀 | _P1 One_Hit_Kill_P1">
+    <Cheatline>
+      <Offset>87BBF04</Offset>
+      <Section>0</Section>
+      <ValueOn>01</ValueOn>
+      <ValueOff>00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="P2一击必杀 | _P2 One_Hit_Kill_P2">
+    <Cheatline>
+      <Offset>87BBF05</Offset>
+      <Section>0</Section>
+      <ValueOn>01</ValueOn>
+      <ValueOff>00</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="EP4133-PPSA02387_00-APLAGUETALEGAME0" Moder="Talixme" Cusa="PPSA02387" Version="01.000.000" Process="eboot.bin">
+  <Items/>
+  <Cheat Text="无法被监听 | Cant Hear You">
+    <Cheatline>
+      <Offset>8F14</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>C4-C1-7A-11-86-90-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="无限道具 | Inf Items">
+    <Cheatline>
+      <Offset>7FCCB000</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-40-38-63-00-00-00-49-8B-04-24-E9-F8-39-5D-80</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>7FCCB030</Offset>
+      <Section>0</Section>
+      <ValueOn>41-C7-07-63-00-00-00-41-8B-07-89-42-38-E9-8B-37-5D-80</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>29EA00</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-FB-C5-A2-7F-90-90-90</ValueOn>
+      <ValueOff>44-29-70-38-49-8B-04-24</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>29E7C7</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-64-C8-A2-7F-90</ValueOn>
+      <ValueOff>41-8B-07-01-42-38</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

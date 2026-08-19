@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="浪人崛起" Moder="Hank" Cusa="PPSA04558" Version="01.009.000" Process="eboot.bin">
+  <Items/>
+  <Cheat Text="※MasterCode">
+    <Cheatline>
+      <Offset>40DFA00</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90-90-90-90-90-90-90-90-90-44-8B-A0-90-00-00-00-EB-07-44-89-A0-8C-00-00-00-4C-8B-25-93-84-E0-00-EB-0C-41-C7-84-24-C8-62-09-00-FF-C9-9A-3B-90-90-90-90-90-90-90-90-90-90-90-90-90-90-4C-8B-60-48-90-90-90-90-90-90-48-8B-40-50-C3</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>2A841F</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-E8-D9-75-E3-03</ValueOn>
+      <ValueOff>4C-8B-60-48-48-8B-40-50</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>7E0279</Offset>
+      <Section>0</Section>
+      <ValueOn>31-C9-E9-89-00-00-00</ValueOn>
+      <ValueOff>CC-CC-CC-CC-CC-CC-CC</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>40DFA70</Offset>
+      <Section>0</Section>
+      <ValueOn>48-8B-3D-69-2F-DF-00-EB-07-C7-47-14-00-00-00-00-48-89-DF-C5-FA-11-43-2C-C3</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>2ADC9C</Offset>
+      <Section>0</Section>
+      <ValueOn>E8-CF-1D-E3-03</ValueOn>
+      <ValueOff>C5-FA-11-43-2C</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="无限精力">
+    <Cheatline>
+      <Offset>40DFA16</Offset>
+      <Section>0</Section>
+      <ValueOn>00</ValueOn>
+      <ValueOff>07</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="清空通缉度">
+    <Cheatline>
+      <Offset>40DFA78</Offset>
+      <Section>0</Section>
+      <ValueOn>00</ValueOn>
+      <ValueOff>07</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="消耗品弹药不减">
+    <Cheatline>
+      <Offset>7E02ED</Offset>
+      <Section>0</Section>
+      <ValueOn>8B</ValueOn>
+      <ValueOff>1B</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="无限铜钱">
+    <Cheatline>
+      <Offset>40DFA26</Offset>
+      <Section>0</Section>
+      <ValueOn>00</ValueOn>
+      <ValueOff>0C</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="TRIANGLE STRATEGY" Moder="Talixme" Cusa="PPSA26354" Version="01.001.000" Process="eboot.bin">
+  <Items/>
+  <Cheat Text="必须码（必须开启） | Master Code">
+    <Cheatline>
+      <Offset>7BD3F00</Offset>
+      <Section>0</Section>
+      <ValueOn>00</ValueOn>
+      <ValueOff>00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>7BD3F01</Offset>
+      <Section>0</Section>
+      <ValueOn>00</ValueOn>
+      <ValueOff>00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>57CF000</Offset>
+      <Section>0</Section>
+      <ValueOn>41-80-7F-3C-12-74-0B-80-3D-F3-4E-40-02-01-74-12-EB-21-80-3D-E7-4E-40-02-01-74-02-EB-16-E9-31-E8-59-FB-B8-00-00-00-00-41-89-87-00-04-00-00-E9-20-E8-59-FB-41-89-87-00-04-00-00-E9-14-E8-59-FB</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>D6D84C</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-AF-17-A6-04-90-90</ValueOn>
+      <ValueOff>41-89-87-00-04-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="无限生命值 | Inf_Hp">
+    <Cheatline>
+      <Offset>7BD3F00</Offset>
+      <Section>0</Section>
+      <ValueOn>01</ValueOn>
+      <ValueOff>00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="一击必杀 | One_Hit_Kill">
+    <Cheatline>
+      <Offset>7BD3F01</Offset>
+      <Section>0</Section>
+      <ValueOn>01</ValueOn>
+      <ValueOff>00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="无限道具/物品（使用时） | Inf Items At Use">
+    <Cheatline>
+      <Offset>57CF05F</Offset>
+      <Section>0</Section>
+      <ValueOn>41-BC-64-00-00-00-E9-D8-C6-55-FB</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>D2B73D</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-1D-39-AA-04</ValueOn>
+      <ValueOff>41-29-F4-7E-05</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="无限经验值 | Inf Exp">
+    <Cheatline>
+      <Offset>57CF08A</Offset>
+      <Section>0</Section>
+      <ValueOn>BE-3F-42-0F-00-01-F1-29-D7-83-F9-32-E9-0F-D1-5A-FB</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>D7C1A3</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-E2-2E-A5-04-90-90</ValueOn>
+      <ValueOff>01-F1-29-D7-83-F9-32</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="无限金币 | Inf Money">
+    <Cheatline>
+      <Offset>57CF0BB</Offset>
+      <Section>0</Section>
+      <ValueOn>41-0F-49-C0-B8-3F-42-0F-00-89-47-20-E9-D0-0A-4C-FB</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>C8FB95</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-21-F5-B3-04-90-90</ValueOn>
+      <ValueOff>41-0F-49-C0-89-47-20</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="无限道具 | Inf Items">
+    <Cheatline>
+      <Offset>57CF0EC</Offset>
+      <Section>0</Section>
+      <ValueOn>44-0F-4F-E0-41-BC-63-00-00-00-44-89-21-E9-14-90-48-FB</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>C5810B</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-DC-6F-B7-04-90-90</ValueOn>
+      <ValueOff>44-0F-4F-E0-44-89-21</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

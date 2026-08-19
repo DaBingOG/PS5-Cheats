@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Ufouria: The Saga 2" Moder="Talixme" Cusa="PPSA20798" Version="01.000.000" Process="eboot.bin">
+  <Items/>
+  <Cheat Text="无限生命 | Inf Hp">
+    <Cheatline>
+      <Offset>7FCC7000</Offset>
+      <Section>0</Section>
+      <ValueOn>41-8B-85-F0-00-00-00-41-89-85-F0-00-00-00-E9-70-FC-A4-01</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>81716C7C</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-7F-03-5B-FE-90-90</ValueOn>
+      <ValueOff>41-89-85-F0-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="无限金币 | Inf Coins">
+    <Cheatline>
+      <Offset>7FCC7033</Offset>
+      <Section>0</Section>
+      <ValueOn>BB-3F-42-0F-00-41-89-5C-24-28-E9-AB-10-AE-01</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>7FCC7062</Offset>
+      <Section>0</Section>
+      <ValueOn>BB-3F-42-0F-00-41-89-5C-24-38-E9-7C-0F-AE-01</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>817A80E8</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-46-EF-51-FE</ValueOn>
+      <ValueOff>41-89-5C-24-28</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>817A7FE8</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-75-F0-51-FE</ValueOn>
+      <ValueOff>41-89-5C-24-38</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

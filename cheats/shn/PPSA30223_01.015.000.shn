@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Yakuza Kiwami 3 & Dark Ties" Moder="Yharnam" Cusa="PPSA30223" Version="01.015.000" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Items />
+  <Cheat Text="无敌模式 | Untouchable">
+    <Cheatline>
+      <Offset>1CE9500</Offset>
+      <Section>0</Section>
+      <ValueOn>48-3D-50-77-5B-02-74-06-FF-90-C8-01-00-00-E9-CA-5B-0E-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>	
+    <Cheatline>
+      <Offset>DCF0D7</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-24-A4-F1-00-90</ValueOn>
+      <ValueOff>FF-90-C8-01-00-00</ValueOff>
+    </Cheatline>		
+  </Cheat>  
+  <Cheat Text="无限生命 | Infi Health">
+    <Cheatline>
+      <Offset>2AD037</Offset>
+      <Section>0</Section>
+      <ValueOn>48-89-C6-90</ValueOn>
+      <ValueOff>48-0F-4C-C6</ValueOff>
+    </Cheatline>
+  </Cheat>  
+  <Cheat Text="最大耐力&龙之蓄力 | max Stamina & Dragon Boost">
+    <Cheatline>
+      <Offset>2AD0DE</Offset>
+      <Section>0</Section>
+      <ValueOn>C5-FA-5F-C1</ValueOn>
+      <ValueOff>C5-FA-5D-C1</ValueOff>
+    </Cheatline>
+  </Cheat>  
+  <Cheat Text="最大道具/物品(拾取) | Max Items (get)">
+    <Cheatline>
+      <Offset>2ABE2A</Offset>
+      <Section>0</Section>
+      <ValueOn>89-D3-90</ValueOn>
+      <ValueOff>0F-4C-D3</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="最大金币&SP点数 Max Money & SP">
+    <Cheatline>
+      <Offset>2A736A</Offset>
+      <Section>0</Section>
+      <ValueOn>49-89-C7-90</ValueOn>
+      <ValueOff>4C-0F-4D-F8</ValueOff>
+    </Cheatline>
+  </Cheat>  
+</Trainer>

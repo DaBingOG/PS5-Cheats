@@ -1,0 +1,104 @@
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Marvel's Spider-Man: Miles Morales" Moder="Talixme, Wander" Cusa="PPSA01461" Version="01.013.002" Process="eboot.bin">
+    <Genres Name="Action" />
+    <Items />
+    <Cheat Text="无限生命 | Inf Hp">
+        <Cheatline>
+            <Offset>7FCCB000</Offset>
+            <Section>0</Section>
+            <ValueOn>81-BB-CC-00-00-00-00-00-C8-42-74-0D-C5-FA-11-93-88-00-00-00-E9-BF-EC-20-82-C7-83-88-00-00-00-00-00-C8-42-E9-B0-EC-20-82</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+        <Cheatline>
+            <Offset>1ED9CD0</Offset>
+            <Section>0</Section>
+            <ValueOn>E9-2B-13-DF-7D-90-90-90</ValueOn>
+            <ValueOff>C5-FA-11-93-88-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="无限弹药 | Inf Ammo" Description="">
+        <Cheatline>
+            <Offset>1F0D437</Offset>
+            <Section>0</Section>
+            <ValueOn>90-90</ValueOn>
+            <ValueOff>29-D8</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="无限经验 | Inf Exp" Description="">
+        <Cheatline>
+            <Offset>7FCCB048</Offset>
+            <Section>0</Section>
+            <ValueOn>41-BF-9F-86-01-00-44-01-FB-41-89-9E-F0-B9-00-00-E9-33-2F-ED-80</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+        <Cheatline>
+            <Offset>B9DF86</Offset>
+            <Section>0</Section>
+            <ValueOn>E9-BD-D0-12-7F-90-90-90-90-90</ValueOn>
+            <ValueOff>44-01-FB-41-89-9E-F0-B9-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="无限Hab点数 | Inf Hab Points">
+        <Cheatline>
+            <Offset>7FCCB07D</Offset>
+            <Section>0</Section>
+            <ValueOn>C7-81-F8-B9-00-00-63-00-00-00-E9-12-0A-ED-80</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+        <Cheatline>
+            <Offset>B9BA92</Offset>
+            <Section>0</Section>
+            <ValueOn>E9-E6-F5-12-7F-90-90-90-90-90-90-90</ValueOn>
+            <ValueOff>8B-85-68-FF-FF-FF-29-81-F8-B9-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="轻松连击 | Easy Combo" Description="">
+        <Cheatline>
+            <Offset>7FCCB0AC</Offset>
+            <Section>0</Section>
+            <ValueOn>41-C7-46-50-0F-00-00-00-4C-89-F7-E9-2A-28-AC-80</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+        <Cheatline>
+            <Offset>78D8DF</Offset>
+            <Section>0</Section>
+            <ValueOn>E9-C8-D7-53-7F-90-90</ValueOn>
+            <ValueOff>41-FF-46-50-4C-89-F7</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="无限道具 | Inf Items" Description="">
+        <Cheatline>
+            <Offset>1F1BD61</Offset>
+            <Section>0</Section>
+            <ValueOn>90-90-90-90</ValueOn>
+            <ValueOff>44-39-60-38</ValueOff>
+        </Cheatline>
+        <Cheatline>
+            <Offset>7FCCB0DC</Offset>
+            <Section>0</Section>
+            <ValueOn>48-89-DF-C7-40-38-E7-03-00-00-E9-9B-0C-25-82</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+        <Cheatline>
+            <Offset>1F1BD73</Offset>
+            <Section>0</Section>
+            <ValueOn>E9-64-F3-DA-7D-90-90-90-90-90-90-90-90-90-90-90-90-90-90</ValueOn>
+            <ValueOff>44-8B-68-38-48-89-DF-45-29-E5-E8-4E-5C-FF-FF-44-89-68-38</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="无限能量 | Inf Venon">
+        <Cheatline>
+            <Offset>7E0F0A</Offset>
+            <Section>0</Section>
+            <ValueOn>90-90-90-90</ValueOn>
+            <ValueOff>C5-DA-5C-E3</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="上帝模式 | God Mode" Description="">
+        <Cheatline>
+            <Offset>1EE4810</Offset>
+            <Section>0</Section>
+            <ValueOn>90-90-90-90-90</ValueOn>
+            <ValueOff>E8-5B-5C-FF-FF</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>

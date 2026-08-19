@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Trails in the Sky 1st Chapter" Moder="Talixme" Cusa="PPSA28465" Version="01.006.000" Process="eboot.bin">
+  <Items/>
+  <Cheat Text="无限生命 | Inf_Hp">
+    <Cheatline>
+      <Offset>6B315C</Offset>
+      <Section>0</Section>
+      <ValueOn>C4-E2-78-F2-C2-80-3F-00-74-17-80-3F-01-74-12-80-3F-02-74-0D-80-3F-03-74-08-89-47-0C-E9-51-26-A4-FF-8B-47-10-89-47-0C-E9-46-26-A4-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>F57C6</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-91-D9-5B-00-90-90-90</ValueOn>
+      <ValueOff>C4-E2-78-F2-C2-89-47-0C</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="无限魔法 | Inf Mp">
+    <Cheatline>
+      <Offset>6B31A8</Offset>
+      <Section>0</Section>
+      <ValueOn>C4-E2-78-F2-C1-8B-47-18-89-47-14-E9-09-3C-A4-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>F6DB9</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-EA-C3-5B-00-90-90-90</ValueOn>
+      <ValueOff>C4-E2-78-F2-C1-89-47-14</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="无限S特技 | Inf Super">
+    <Cheatline>
+      <Offset>6B31D8</Offset>
+      <Section>0</Section>
+      <ValueOn>C4-E2-78-F2-C2-8B-47-20-89-47-1C-E9-86-23-A4-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>F5566</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-6D-DC-5B-00-90-90-90</ValueOn>
+      <ValueOff>C4-E2-78-F2-C2-89-47-1C</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="无限耀晶石 | Inf Sepith">
+    <Cheatline>
+      <Offset>6B3208</Offset>
+      <Section>0</Section>
+      <ValueOn>B9-9F-86-01-00-89-8C-87-E0-38-1F-00-E9-58-38-CB-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>366A6A</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-99-C7-34-00-90-90</ValueOn>
+      <ValueOff>89-8C-87-E0-38-1F-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="无限金币 | Inf Money">
+    <Cheatline>
+      <Offset>6B3239</Offset>
+      <Section>0</Section>
+      <ValueOn>B8-7F-96-98-00-89-87-00-39-1F-00-E9-2F-3F-CB-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>367172</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-C2-C0-34-00-90</ValueOn>
+      <ValueOff>89-87-00-39-1F-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="无限道具 | inf Items">
+    <Cheatline>
+      <Offset>6B3269</Offset>
+      <Section>0</Section>
+      <ValueOn>66-BA-63-00-66-41-89-94-8F-24-67-11-00-E9-95-35-CB-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>6B329B</Offset>
+      <Section>0</Section>
+      <ValueOn>66-B9-63-00-66-41-89-8C-86-24-67-11-00-E9-4E-37-CB-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>366807</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-5D-CA-34-00-90-90-90-90</ValueOn>
+      <ValueOff>66-41-89-94-8F-24-67-11-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>3669F2</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-A4-C8-34-00-90-90-90-90</ValueOn>
+      <ValueOff>66-41-89-8C-86-24-67-11-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="无限经验 | Inf Exp">
+    <Cheatline>
+      <Offset>6B32CD</Offset>
+      <Section>0</Section>
+      <ValueOn>C4-E2-70-F2-C0-B8-7F-96-98-00-89-43-08-E9-01-3E-A4-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>F70D8</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-F0-C1-5B-00-90-90-90</ValueOn>
+      <ValueOff>C4-E2-70-F2-C0-89-43-08</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

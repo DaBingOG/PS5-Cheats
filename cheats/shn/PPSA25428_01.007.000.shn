@@ -1,0 +1,68 @@
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles 2" Moder="Talixme" Cusa="PPSA25428" Version="01.007.000" Process="eboot.bin">
+    <Genres Name="Action" />
+    <Items />
+    <Cheat Text="无限生命 | Inf Hp">
+        <Cheatline>
+            <Offset>7FD17000</Offset>
+            <Section>0</Section>
+            <ValueOn>66-83-BC-24-5C-08-00-00-1A-74-1E-83-BC-24-54-08-00-00-1A-74-0A-C5-FA-11-4B-58-E9-2E-54-C8-85-C5-FA-11-4B-58-E9-24-54-C8-85-C5-FA-10-4B-58-C5-FA-11-4B-58-E9-15-54-C8-85</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+        <Cheatline>
+            <Offset>599C448</Offset>
+            <Section>0</Section>
+            <ValueOn>E9-B3-AB-37-7A</ValueOn>
+            <ValueOff>C5-FA-11-4B-58</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="无限魔法 | Ing Magic">
+        <Cheatline>
+            <Offset>7FD17058</Offset>
+            <Section>0</Section>
+            <ValueOn>C5-FA-10-83-BC-00-00-00-C5-FA-11-83-B8-00-00-00-E9-4B-44-CC-85</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+        <Cheatline>
+            <Offset>59DB4B0</Offset>
+            <Section>0</Section>
+            <ValueOn>E9-A3-BB-33-7A-90-90-90</ValueOn>
+            <ValueOff>C5-FA-11-83-B8-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="无限支援槽 | Inf Support Gauge">
+        <Cheatline>
+            <Offset>7FD1708D</Offset>
+            <Section>0</Section>
+            <ValueOn>C5-FA-10-87-FC-02-00-00-C5-FA-11-87-F8-02-00-00-E9-30-81-D3-85</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+        <Cheatline>
+            <Offset>5A4F1CA</Offset>
+            <Section>0</Section>
+            <ValueOn>E9-BE-7E-2C-7A-90-90-90</ValueOn>
+            <ValueOff>C5-FA-11-87-F8-02-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="无限金钱 | Inf Money" Description="">
+        <Cheatline>
+            <Offset>7FD170C2</Offset>
+            <Section>0</Section>
+            <ValueOn>BA-9F-86-01-00-89-50-04-48-89-DF-E9-B3-4C-8C-86</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+        <Cheatline>
+            <Offset>65DBD7F</Offset>
+            <Section>0</Section>
+            <ValueOn>E9-3E-B3-73-79-90</ValueOn>
+            <ValueOff>89-50-04-48-89-DF</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="停止计时器 | Stop Timer" Description="">
+        <Cheatline>
+            <Offset>57EAB66</Offset>
+            <Section>0</Section>
+            <ValueOn>90-90-90-90-90</ValueOn>
+            <ValueOff>C5-FA-11-4F-38</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>

@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="PRAGMATA" Moder="Yharnam" Cusa="PPSA02530" Version="01.200.000" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Items />
+  <Cheat Text="无懈可击 | Untouchable">
+    <Cheatline>      
+      <Section>0</Section>
+      <Offset>8FC4600</Offset>
+      <ValueOn>41-81-F8-D0-D1-06-00-74-06-FF-90-90-03-00-00-E9-91-85-51-F7</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>  		
+    <Cheatline>      
+      <Section>0</Section>
+      <Offset>4DCB9F</Offset>
+      <ValueOn>E9-5C-7A-AE-08-90</ValueOn>
+      <ValueOff>FF-90-90-03-00-00</ValueOff>
+    </Cheatline>  			
+    <Cheatline>      
+      <Section>0</Section>
+      <Offset>C784C7</Offset>
+      <ValueOn>90-90-90-90-90</ValueOn>
+      <ValueOff>E8-C4-00-00-00</ValueOff>
+    </Cheatline>		
+  </Cheat>
+  <Cheat Text="无限生命 | Infi Health">
+    <Cheatline>      
+      <Section>0</Section>
+      <Offset>8FC4800</Offset>
+      <ValueOn>41-81-FA-D0-D1-06-00-74-0B-41-81-FC-D0-D1-06-00-74-02-EB-03-8B-4E-20-89-4E-18-4C-8B-7E-10-E9-A3-17-13-F8</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>  		
+    <Cheatline>      
+      <Section>0</Section>
+      <Offset>10F5FBF</Offset>
+      <ValueOn>E9-3C-E8-EC-07-90-90</ValueOn>
+      <ValueOff>89-4E-18-4C-8B-7E-10</ValueOff>
+    </Cheatline>  			
+  </Cheat>  
+  <Cheat Text="一击必杀 | 1 Hit Kill">
+    <Cheatline>      
+      <Section>0</Section>
+      <Offset>8FC4700</Offset>
+      <ValueOn>48-89-DF-4C-89-FE-C7-82-E0-00-00-00-00-24-F4-4A-E9-B0-87-13-F8</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>  		
+    <Cheatline>      
+      <Section>0</Section>
+      <Offset>10FCEBF</Offset>
+      <ValueOn>E9-3C-78-EC-07-90</ValueOn>
+      <ValueOff>48-89-DF-4C-89-FE</ValueOff>
+    </Cheatline>
+    <Cheatline>      
+      <Section>0</Section>
+      <Offset>8FC4900</Offset>
+      <ValueOn>48-89-DF-4C-89-F2-C7-42-50-00-24-F4-4A-E9-92-7E-B8-F8</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>  		
+    <Cheatline>      
+      <Section>0</Section>
+      <Offset>1B4C79E</Offset>
+      <ValueOn>E9-5D-81-47-07-90</ValueOn>
+      <ValueOff>48-89-DF-4C-89-F2</ValueOff>
+    </Cheatline>  				
+  </Cheat>  
+  <Cheat Text="无限弹药 | Infi Ammo">
+    <Cheatline>      
+      <Section>0</Section>
+      <Offset>652B50</Offset>
+      <ValueOn>90-90-90-90-90</ValueOn>
+      <ValueOff>E8-AB-F6-FF-FF</ValueOff>
+    </Cheatline>
+    <Cheatline>      
+      <Section>0</Section>
+      <Offset>6526C5</Offset>
+      <ValueOn>90-90-90-90</ValueOn>
+      <ValueOff>44-2B-7D-88</ValueOff>
+    </Cheatline>		
+  </Cheat>
+  <Cheat Text="无需上弹 | No Reload">
+    <Cheatline>      
+      <Section>0</Section>
+      <Offset>4AF78B</Offset>
+      <ValueOn>C5-FA-11-50-24</ValueOn>
+      <ValueOff>C5-FA-11-40-24</ValueOff>
+    </Cheatline>	
+  </Cheat>  
+  <Cheat Text="无限悬停 | Infi Hover">
+    <Cheatline>      
+      <Section>0</Section>
+      <Offset>6095B0C</Offset>
+      <ValueOn>C5-F2-5F-D3</ValueOn>
+      <ValueOff>C5-F2-5D-D3</ValueOff>
+    </Cheatline>	
+  </Cheat>  
+  <Cheat Text="所有最大项目（获取时） | All Max Items (On Get)">
+    <Cheatline>      
+      <Section>0</Section>
+      <Offset>B486CA</Offset>
+      <ValueOn>90-90-90</ValueOn>
+      <ValueOff>0F-4C-D1</ValueOff>
+    </Cheatline>	
+  </Cheat>    
+  <Cheat Text="无限净化 | Infi Cleanse">
+    <Cheatline>      
+      <Section>0</Section>
+      <Offset>72D5CE7</Offset>
+      <ValueOn>90-90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>48-C7-40-24-00-00-00-00</ValueOff>
+    </Cheatline>	
+    <Cheatline>      
+      <Section>0</Section>
+      <Offset>985E63</Offset>
+      <ValueOn>C5-FA-58-42-14</ValueOn>
+      <ValueOff>C5-FA-58-42-24</ValueOff>
+    </Cheatline>		
+  </Cheat>
+</Trainer>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="EP1470-PPSA28311_00-ABSOLUMDOTEMUPS5" Moder="Anonymous" Cusa="PPSA28311" Version="1.002.000" Process="eboot.bin">
+  <Items/>
+  <Cheat Text="無限生命值和金錢 Inf Hp And Money">
+    <Cheatline>
+      <Offset>7FD17000</Offset>
+      <Section>0</Section>
+      <ValueOn>81-7A-68-F7-A7-7C-EC-74-17-81-7A-08-F7-A7-7C-EC-74-22-44-89-6A-10-B8-01-00-00-00-E9-FC-10-70-81-41-BD-00-00-FF-00-44-89-6A-10-B8-01-00-00-00-E9-E8-10-70-81-41-BD-00-00-0F-27-44-89-6A-10-B8-01-00-00-00-E9-D4-10-70-81</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>1418113</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-E8-EE-8F-7E-90-90-90-90</ValueOn>
+      <ValueOff>44-89-6A-10-B8-01-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="無限連段 Inf Combo">
+    <Cheatline>
+      <Offset>7FD17068</Offset>
+      <Section>0</Section>
+      <ValueOn>41-BF-7F-96-98-00-44-89-BF-B4-00-00-00-E9-62-7B-BC-80</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>8DEBD5</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-8E-84-43-7F-90-90</ValueOn>
+      <ValueOff>44-01-BF-B4-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

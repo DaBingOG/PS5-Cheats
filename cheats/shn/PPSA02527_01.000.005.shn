@@ -1,0 +1,76 @@
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Kitaria Fables" Moder="Talixme" Cusa="PPSA02527" Version="01.000.005" Process="eboot.bin">
+    <Genres Name="Action" />
+    <Items />
+    <Cheat Text="无限生命 | Inf Hp">
+        <Cheatline>
+            <Offset>7FCCB000</Offset>
+            <Section>0</Section>
+            <ValueOn>80-7F-58-01-75-01-C3-55-48-89-E5-41-57-E9-44-33-1A-00</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+        <Cheatline>
+            <Offset>7FE6E350</Offset>
+            <Section>0</Section>
+            <ValueOn>E9-AB-CC-E5-FF-90</ValueOn>
+            <ValueOff>55-48-89-E5-41-57</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="无限耐力 | Inf Stamina" Description="">
+        <Cheatline>
+            <Offset>7FCCB032</Offset>
+            <Section>0</Section>
+            <ValueOn>80-7F-58-01-75-13-48-8B-87-18-01-00-00-48-85-C0-74-07-C7-40-38-00-00-96-43-55-48-89-E5-41-57-E9-B0-C0-19-00</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+        <Cheatline>
+            <Offset>7FE67100</Offset>
+            <Section>0</Section>
+            <ValueOn>E9-2D-3F-E6-FF-90</ValueOn>
+            <ValueOff>55-48-89-E5-41-57</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="无限道具 | Inf Items" Description="">
+        <Cheatline>
+            <Offset>7FEA1B6A</Offset>
+            <Section>0</Section>
+            <ValueOn>90-90-90-90</ValueOn>
+            <ValueOff>44-29-70-20</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="无限法力 | Inf Mana" Description="">
+        <Cheatline>
+            <Offset>7FE78D6F</Offset>
+            <Section>0</Section>
+            <ValueOn>90-90-90-90-90</ValueOn>
+            <ValueOff>C5-FA-5C-40-64</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="无CD冷却时间 | No Cooldown">
+        <Cheatline>
+            <Offset>7FCCB076</Offset>
+            <Section>0</Section>
+            <ValueOn>C7-83-88-00-00-00-00-00-00-00-E9-D2-D6-2D-00</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+        <Cheatline>
+            <Offset>7FFA874F</Offset>
+            <Section>0</Section>
+            <ValueOn>E9-22-29-D2-FF-90-90-90</ValueOn>
+            <ValueOff>C5-FA-11-8B-88-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="停止天数计数器 | Stop Days Counter" Description="">
+        <Cheatline>
+            <Offset>7FCCB0A5</Offset>
+            <Section>0</Section>
+            <ValueOn>8B-48-58-89-48-58-E9-EE-CE-37-00</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+        <Cheatline>
+            <Offset>80047F94</Offset>
+            <Section>0</Section>
+            <ValueOn>E9-0C-31-C8-FF-90-90-90-90-90</ValueOn>
+            <ValueOff>41-8B-8E-CC-00-00-00-89-48-58</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>

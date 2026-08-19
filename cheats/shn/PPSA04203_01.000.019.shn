@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Game="Civilization VII" Moder="User" Cusa="PPSA04203" Version="01.000.019" Process="eboot.bin">
+    <Cheat Text="无限领导力 | Inf Leadership Attributes">
+        <Cheatline>
+            <Section>0</Section>
+            <Offset>44AF030</Offset>
+            <ValueOn>478D3C2641BF0063000044897B10E9C89702FD</ValueOn>
+            <ValueOff>00000000000000000000000000000000000000</ValueOff>
+        </Cheatline>
+        <Cheatline>
+            <Section>0</Section>
+            <Offset>14D8803</Offset>
+            <ValueOn>E92868FD02909090</ValueOn>
+            <ValueOff>478D3C2644897B10</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="无限资源 | Inf Rosources">
+        <Cheatline>
+            <Section>0</Section>
+            <Offset>44AF000</Offset>
+            <ValueOn>B8009F8601418906498B07E9E07F70FC</ValueOn>
+            <ValueOff>00000000000000000000000000000000</ValueOff>
+        </Cheatline>
+        <Cheatline>
+            <Section>0</Section>
+            <Offset>BB6FEA</Offset>
+            <ValueOn>E911808F0390</ValueOn>
+            <ValueOff>418906498B07</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>
